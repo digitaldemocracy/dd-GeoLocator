@@ -1,0 +1,2519 @@
+{
+"x1": 32.275814,
+"y1": -124.564671,
+"x2": 42.117975,
+"y2": -114.236181,
+"children": [
+{
+"x1": 32.275814,
+"y1": -124.564671,
+"x2": 37.812030,
+"y2": -118.754895,
+"children": [
+{
+"x1": 32.275814,
+"y1": -124.564671,
+"x2": 35.389935,
+"y2": -121.296672,
+"children": [
+],
+"points": [
+
+]
+}
+, {
+"x1": 34.697908,
+"y1": -124.564671,
+"x2": 37.812030,
+"y2": -121.296672,
+"children": [
+{
+"x1": 34.697908,
+"y1": -124.564671,
+"x2": 36.449602,
+"y2": -122.726422,
+"children": [
+],
+"points": [
+
+]
+}
+, {
+"x1": 36.060336,
+"y1": -124.564671,
+"x2": 37.812030,
+"y2": -122.726422,
+"children": [
+],
+"points": [
+
+]
+}
+, {
+"x1": 34.697908,
+"y1": -123.134922,
+"x2": 36.449602,
+"y2": -121.296672,
+"children": [
+],
+"points": [
+[36.424720, -121.326390, "Soledad", "soledad@tempemail.com"]
+]
+}
+, {
+"x1": 36.060336,
+"y1": -123.134922,
+"x2": 37.812030,
+"y2": -121.296672,
+"children": [
+{
+"x1": 36.060336,
+"y1": -123.134922,
+"x2": 37.045664,
+"y2": -122.100906,
+"children": [
+],
+"points": [
+
+]
+}
+, {
+"x1": 36.826702,
+"y1": -123.134922,
+"x2": 37.812030,
+"y2": -122.100906,
+"children": [
+{
+"x1": 36.826702,
+"y1": -123.134922,
+"x2": 37.380949,
+"y2": -122.553288,
+"children": [
+],
+"points": [
+
+]
+}
+, {
+"x1": 37.257783,
+"y1": -123.134922,
+"x2": 37.812030,
+"y2": -122.553288,
+"children": [
+],
+"points": [
+
+]
+}
+, {
+"x1": 36.826702,
+"y1": -122.682540,
+"x2": 37.380949,
+"y2": -122.100906,
+"children": [
+],
+"points": [
+[37.371390, -122.137500, "Los Altos Hills", "losaltoshills@tempemail.com"], [37.375000, -122.218610, "Portola Valley", "portolavalley@tempemail.com"]
+]
+}
+, {
+"x1": 37.257783,
+"y1": -122.682540,
+"x2": 37.812030,
+"y2": -122.100906,
+"children": [
+{
+"x1": 37.257783,
+"y1": -122.682540,
+"x2": 37.569547,
+"y2": -122.355371,
+"children": [
+],
+"points": [
+[37.458890, -122.436940, "Half Moon Bay", "halfmoonbay@tempemail.com"], [37.560280, -122.356390, "Hillsborough", "hillsborough@tempemail.com"]
+]
+}
+, {
+"x1": 37.500266,
+"y1": -122.682540,
+"x2": 37.812030,
+"y2": -122.355371,
+"children": [
+],
+"points": [
+[37.680830, -122.419170, "Brisbane", "brisbane@tempemail.com"], [37.583330, -122.363610, "Burlingame", "burlingame@tempemail.com"], [37.678890, -122.455560, "Colma", "colma@tempemail.com"], [37.686390, -122.468330, "Daly City", "dalycity@tempemail.com"], [37.560280, -122.356390, "Hillsborough", "hillsborough@tempemail.com"], [37.600830, -122.401390, "Millbrae", "millbrae@tempemail.com"], [37.622780, -122.485560, "Pacifica", "pacifica@tempemail.com"], [37.625280, -122.425280, "San Bruno", "sanbruno@tempemail.com"], [37.783000, -122.417000, "San Francisco", "sanfrancisco@tempemail.com"], [37.783000, -122.417000, "San Francisco", "sanfrancisco@tempemail.com"], [37.656110, -122.425560, "South San Francisco", "southsanfrancisco@tempemail.com"]
+]
+}
+, {
+"x1": 37.257783,
+"y1": -122.428075,
+"x2": 37.569547,
+"y2": -122.100906,
+"children": [
+],
+"points": [
+[37.458610, -122.200000, "Atherton", "atherton@tempemail.com"], [37.518060, -122.291670, "Belmont", "belmont@tempemail.com"], [37.466940, -122.139720, "East Palo Alto", "eastpaloalto@tempemail.com"], [37.551390, -122.266390, "Foster City", "fostercity@tempemail.com"], [37.560280, -122.356390, "Hillsborough", "hillsborough@tempemail.com"], [37.371390, -122.137500, "Los Altos Hills", "losaltoshills@tempemail.com"], [37.452780, -122.183330, "Menlo Park", "menlopark@tempemail.com"], [37.429170, -122.138060, "Palo Alto", "paloalto@tempemail.com"], [37.375000, -122.218610, "Portola Valley", "portolavalley@tempemail.com"], [37.482780, -122.236110, "Redwood City", "redwoodcity@tempemail.com"], [37.495500, -122.266800, "San Carlos", "sancarlos@tempemail.com"], [37.554170, -122.313060, "San Mateo", "sanmateo@tempemail.com"], [37.420830, -122.259720, "Woodside", "woodside@tempemail.com"]
+]
+}
+, {
+"x1": 37.500266,
+"y1": -122.428075,
+"x2": 37.812030,
+"y2": -122.100906,
+"children": [
+],
+"points": [
+[37.756110, -122.274440, "Alameda", "alameda@tempemail.com"], [37.518060, -122.291670, "Belmont", "belmont@tempemail.com"], [37.680830, -122.419170, "Brisbane", "brisbane@tempemail.com"], [37.583330, -122.363610, "Burlingame", "burlingame@tempemail.com"], [37.551390, -122.266390, "Foster City", "fostercity@tempemail.com"], [37.560280, -122.356390, "Hillsborough", "hillsborough@tempemail.com"], [37.600830, -122.401390, "Millbrae", "millbrae@tempemail.com"], [37.804440, -122.270830, "Oakland", "oakland@tempemail.com"], [37.625280, -122.425280, "San Bruno", "sanbruno@tempemail.com"], [37.783000, -122.417000, "San Francisco", "sanfrancisco@tempemail.com"], [37.783000, -122.417000, "San Francisco", "sanfrancisco@tempemail.com"], [37.725000, -122.156110, "San Leandro", "sanleandro@tempemail.com"], [37.554170, -122.313060, "San Mateo", "sanmateo@tempemail.com"], [37.656110, -122.425560, "South San Francisco", "southsanfrancisco@tempemail.com"]
+]
+}
+],
+"points": [
+
+]
+}
+],
+"points": [
+
+]
+}
+, {
+"x1": 36.060336,
+"y1": -122.330687,
+"x2": 37.045664,
+"y2": -121.296672,
+"children": [
+],
+"points": [
+[36.976390, -121.954720, "Capitola", "capitola@tempemail.com"], [36.555280, -121.923330, "Carmel-by-the-Sea", "carmel-by-the-sea@tempemail.com"], [36.593330, -121.835000, "Del Rey Oaks", "delreyoaks@tempemail.com"], [37.011940, -121.580000, "Gilroy", "gilroy@tempemail.com"], [36.506670, -121.444440, "Gonzales", "gonzales@tempemail.com"], [36.852500, -121.401670, "Hollister", "hollister@tempemail.com"], [36.684440, -121.802220, "Marina", "marina@tempemail.com"], [36.600000, -121.900000, "Monterey", "monterey@tempemail.com"], [36.617780, -121.916670, "Pacific Grove", "pacificgrove@tempemail.com"], [36.677780, -121.655560, "Salinas", "salinas@tempemail.com"], [36.844170, -121.537220, "San Juan Bautista", "sanjuanbautista@tempemail.com"], [36.617220, -121.848330, "Sand City", "sandcity@tempemail.com"], [36.971940, -122.026390, "Santa Cruz", "santacruz@tempemail.com"], [36.611110, -121.844720, "Seaside", "seaside@tempemail.com"], [36.424720, -121.326390, "Soledad", "soledad@tempemail.com"], [36.920000, -121.763610, "Watsonville", "watsonville@tempemail.com"]
+]
+}
+, {
+"x1": 36.826702,
+"y1": -122.330687,
+"x2": 37.812030,
+"y2": -121.296672,
+"children": [
+{
+"x1": 36.826702,
+"y1": -122.330687,
+"x2": 37.380949,
+"y2": -121.749054,
+"children": [
+],
+"points": [
+[37.283890, -121.955000, "Campbell", "campbell@tempemail.com"], [36.976390, -121.954720, "Capitola", "capitola@tempemail.com"], [37.317500, -122.041940, "Cupertino", "cupertino@tempemail.com"], [37.368060, -122.097500, "Los Altos", "losaltos@tempemail.com"], [37.371390, -122.137500, "Los Altos Hills", "losaltoshills@tempemail.com"], [37.236110, -121.961670, "Los Gatos", "losgatos@tempemail.com"], [37.238060, -121.989440, "Monte Sereno", "montesereno@tempemail.com"], [37.375000, -122.218610, "Portola Valley", "portolavalley@tempemail.com"], [37.333000, -121.900000, "San Jose", "sanjose@tempemail.com"], [37.354440, -121.969170, "Santa Clara", "santaclara@tempemail.com"], [36.971940, -122.026390, "Santa Cruz", "santacruz@tempemail.com"], [37.272500, -122.019440, "Saratoga", "saratoga@tempemail.com"], [37.051390, -122.013330, "Scotts Valley", "scottsvalley@tempemail.com"], [37.371110, -122.037500, "Sunnyvale", "sunnyvale@tempemail.com"], [36.920000, -121.763610, "Watsonville", "watsonville@tempemail.com"]
+]
+}
+, {
+"x1": 37.257783,
+"y1": -122.330687,
+"x2": 37.812030,
+"y2": -121.749054,
+"children": [
+{
+"x1": 37.257783,
+"y1": -122.330687,
+"x2": 37.569547,
+"y2": -122.003519,
+"children": [
+],
+"points": [
+[37.458610, -122.200000, "Atherton", "atherton@tempemail.com"], [37.518060, -122.291670, "Belmont", "belmont@tempemail.com"], [37.317500, -122.041940, "Cupertino", "cupertino@tempemail.com"], [37.466940, -122.139720, "East Palo Alto", "eastpaloalto@tempemail.com"], [37.551390, -122.266390, "Foster City", "fostercity@tempemail.com"], [37.368060, -122.097500, "Los Altos", "losaltos@tempemail.com"], [37.371390, -122.137500, "Los Altos Hills", "losaltoshills@tempemail.com"], [37.452780, -122.183330, "Menlo Park", "menlopark@tempemail.com"], [37.389440, -122.081940, "Mountain View", "mountainview@tempemail.com"], [37.533000, -122.033000, "Newark", "newark@tempemail.com"], [37.429170, -122.138060, "Palo Alto", "paloalto@tempemail.com"], [37.375000, -122.218610, "Portola Valley", "portolavalley@tempemail.com"], [37.482780, -122.236110, "Redwood City", "redwoodcity@tempemail.com"], [37.495500, -122.266800, "San Carlos", "sancarlos@tempemail.com"], [37.554170, -122.313060, "San Mateo", "sanmateo@tempemail.com"], [37.272500, -122.019440, "Saratoga", "saratoga@tempemail.com"], [37.371110, -122.037500, "Sunnyvale", "sunnyvale@tempemail.com"], [37.420830, -122.259720, "Woodside", "woodside@tempemail.com"]
+]
+}
+, {
+"x1": 37.500266,
+"y1": -122.330687,
+"x2": 37.812030,
+"y2": -122.003519,
+"children": [
+],
+"points": [
+[37.756110, -122.274440, "Alameda", "alameda@tempemail.com"], [37.518060, -122.291670, "Belmont", "belmont@tempemail.com"], [37.551390, -122.266390, "Foster City", "fostercity@tempemail.com"], [37.668890, -122.080830, "Hayward", "hayward@tempemail.com"], [37.533000, -122.033000, "Newark", "newark@tempemail.com"], [37.804440, -122.270830, "Oakland", "oakland@tempemail.com"], [37.725000, -122.156110, "San Leandro", "sanleandro@tempemail.com"], [37.554170, -122.313060, "San Mateo", "sanmateo@tempemail.com"], [37.586940, -122.025830, "Union City", "unioncity@tempemail.com"]
+]
+}
+, {
+"x1": 37.257783,
+"y1": -122.076223,
+"x2": 37.569547,
+"y2": -121.749054,
+"children": [
+],
+"points": [
+[37.283890, -121.955000, "Campbell", "campbell@tempemail.com"], [37.317500, -122.041940, "Cupertino", "cupertino@tempemail.com"], [37.548330, -121.988610, "Fremont", "fremont@tempemail.com"], [37.434720, -121.895000, "Milpitas", "milpitas@tempemail.com"], [37.533000, -122.033000, "Newark", "newark@tempemail.com"], [37.333000, -121.900000, "San Jose", "sanjose@tempemail.com"], [37.354440, -121.969170, "Santa Clara", "santaclara@tempemail.com"], [37.272500, -122.019440, "Saratoga", "saratoga@tempemail.com"], [37.371110, -122.037500, "Sunnyvale", "sunnyvale@tempemail.com"]
+]
+}
+, {
+"x1": 37.500266,
+"y1": -122.076223,
+"x2": 37.812030,
+"y2": -121.749054,
+"children": [
+],
+"points": [
+[37.702220, -121.935830, "Dublin", "dublin@tempemail.com"], [37.548330, -121.988610, "Fremont", "fremont@tempemail.com"], [37.681940, -121.768060, "Livermore", "livermore@tempemail.com"], [37.533000, -122.033000, "Newark", "newark@tempemail.com"], [37.662500, -121.874720, "Pleasanton", "pleasanton@tempemail.com"], [37.780000, -121.978060, "San Ramon", "sanramon@tempemail.com"], [37.586940, -122.025830, "Union City", "unioncity@tempemail.com"]
+]
+}
+],
+"points": [
+
+]
+}
+, {
+"x1": 36.826702,
+"y1": -121.878306,
+"x2": 37.380949,
+"y2": -121.296672,
+"children": [
+],
+"points": [
+[37.011940, -121.580000, "Gilroy", "gilroy@tempemail.com"], [36.852500, -121.401670, "Hollister", "hollister@tempemail.com"], [37.130560, -121.654440, "Morgan Hill", "morganhill@tempemail.com"], [36.844170, -121.537220, "San Juan Bautista", "sanjuanbautista@tempemail.com"], [36.920000, -121.763610, "Watsonville", "watsonville@tempemail.com"]
+]
+}
+, {
+"x1": 37.257783,
+"y1": -121.878306,
+"x2": 37.812030,
+"y2": -121.296672,
+"children": [
+],
+"points": [
+[37.681940, -121.768060, "Livermore", "livermore@tempemail.com"], [37.662500, -121.874720, "Pleasanton", "pleasanton@tempemail.com"], [37.738060, -121.433890, "Tracy", "tracy@tempemail.com"]
+]
+}
+],
+"points": [
+
+]
+}
+],
+"points": [
+
+]
+}
+],
+"points": [
+
+]
+}
+, {
+"x1": 32.275814,
+"y1": -122.022894,
+"x2": 35.389935,
+"y2": -118.754895,
+"children": [
+{
+"x1": 32.275814,
+"y1": -122.022894,
+"x2": 34.027507,
+"y2": -120.184645,
+"children": [
+],
+"points": [
+
+]
+}
+, {
+"x1": 33.638242,
+"y1": -122.022894,
+"x2": 35.389935,
+"y2": -120.184645,
+"children": [
+],
+"points": [
+[35.120830, -120.586670, "Arroyo Grande", "arroyogrande@tempemail.com"], [34.614170, -120.193890, "Buellton", "buellton@tempemail.com"], [35.120830, -120.619440, "Grover Beach", "groverbeach@tempemail.com"], [34.965560, -120.573060, "Guadalupe", "guadalupe@tempemail.com"], [34.646110, -120.460280, "Lompoc", "lompoc@tempemail.com"], [35.379170, -120.853330, "Morro Bay", "morrobay@tempemail.com"], [35.148330, -120.648060, "Pismo Beach", "pismobeach@tempemail.com"], [35.274170, -120.663060, "San Luis Obispo", "sanluisobispo@tempemail.com"], [34.951390, -120.433330, "Santa Maria", "santamaria@tempemail.com"]
+]
+}
+, {
+"x1": 32.275814,
+"y1": -120.593145,
+"x2": 34.027507,
+"y2": -118.754895,
+"children": [
+],
+"points": [
+
+]
+}
+, {
+"x1": 33.638242,
+"y1": -120.593145,
+"x2": 35.389935,
+"y2": -118.754895,
+"children": [
+],
+"points": [
+[34.153330, -118.761670, "Agoura Hills", "agourahills@tempemail.com"], [35.120830, -120.586670, "Arroyo Grande", "arroyogrande@tempemail.com"], [35.209170, -118.828330, "Arvin", "arvin@tempemail.com"], [35.367000, -119.017000, "Bakersfield", "bakersfield@tempemail.com"], [34.614170, -120.193890, "Buellton", "buellton@tempemail.com"], [34.233000, -119.033000, "Camarillo", "camarillo@tempemail.com"], [34.399170, -119.516390, "Carpinteria", "carpinteria@tempemail.com"], [34.401390, -118.917780, "Fillmore", "fillmore@tempemail.com"], [34.440560, -119.813610, "Goleta", "goleta@tempemail.com"], [34.965560, -120.573060, "Guadalupe", "guadalupe@tempemail.com"], [34.646110, -120.460280, "Lompoc", "lompoc@tempemail.com"], [35.058890, -119.400830, "Maricopa", "maricopa@tempemail.com"], [34.280830, -118.873330, "Moorpark", "moorpark@tempemail.com"], [34.449170, -119.246670, "Ojai", "ojai@tempemail.com"], [34.191390, -119.182500, "Oxnard", "oxnard@tempemail.com"], [34.160280, -119.194440, "Port Hueneme", "porthueneme@tempemail.com"], [34.425830, -119.714170, "Santa Barbara", "santabarbara@tempemail.com"], [34.951390, -120.433330, "Santa Maria", "santamaria@tempemail.com"], [34.355830, -119.068330, "Santa Paula", "santapaula@tempemail.com"], [34.593890, -120.139720, "Solvang", "solvang@tempemail.com"], [35.142500, -119.456390, "Taft", "taft@tempemail.com"], [34.189440, -118.875000, "Thousand Oaks", "thousandoaks@tempemail.com"], [34.275000, -119.227780, "Ventura", "ventura@tempemail.com"], [34.141940, -118.819440, "Westlake Village", "westlakevillage@tempemail.com"]
+]
+}
+],
+"points": [
+
+]
+}
+, {
+"x1": 34.697908,
+"y1": -122.022894,
+"x2": 37.812030,
+"y2": -118.754895,
+"children": [
+{
+"x1": 34.697908,
+"y1": -122.022894,
+"x2": 36.449602,
+"y2": -120.184645,
+"children": [
+],
+"points": [
+[35.120830, -120.586670, "Arroyo Grande", "arroyogrande@tempemail.com"], [35.484170, -120.672500, "Atascadero", "atascadero@tempemail.com"], [36.139720, -120.360280, "Coalinga", "coalinga@tempemail.com"], [36.320830, -121.243890, "Greenfield", "greenfield@tempemail.com"], [35.120830, -120.619440, "Grover Beach", "groverbeach@tempemail.com"], [34.965560, -120.573060, "Guadalupe", "guadalupe@tempemail.com"], [36.212780, -121.126110, "King City", "kingcity@tempemail.com"], [35.379170, -120.853330, "Morro Bay", "morrobay@tempemail.com"], [35.640830, -120.653890, "Paso Robles", "pasorobles@tempemail.com"], [35.148330, -120.648060, "Pismo Beach", "pismobeach@tempemail.com"], [35.274170, -120.663060, "San Luis Obispo", "sanluisobispo@tempemail.com"], [34.951390, -120.433330, "Santa Maria", "santamaria@tempemail.com"], [36.424720, -121.326390, "Soledad", "soledad@tempemail.com"]
+]
+}
+, {
+"x1": 36.060336,
+"y1": -122.022894,
+"x2": 37.812030,
+"y2": -120.184645,
+"children": [
+{
+"x1": 36.060336,
+"y1": -122.022894,
+"x2": 37.045664,
+"y2": -120.988879,
+"children": [
+],
+"points": [
+[36.976390, -121.954720, "Capitola", "capitola@tempemail.com"], [36.555280, -121.923330, "Carmel-by-the-Sea", "carmel-by-the-sea@tempemail.com"], [36.593330, -121.835000, "Del Rey Oaks", "delreyoaks@tempemail.com"], [37.011940, -121.580000, "Gilroy", "gilroy@tempemail.com"], [36.506670, -121.444440, "Gonzales", "gonzales@tempemail.com"], [36.320830, -121.243890, "Greenfield", "greenfield@tempemail.com"], [36.852500, -121.401670, "Hollister", "hollister@tempemail.com"], [36.212780, -121.126110, "King City", "kingcity@tempemail.com"], [36.684440, -121.802220, "Marina", "marina@tempemail.com"], [36.600000, -121.900000, "Monterey", "monterey@tempemail.com"], [36.617780, -121.916670, "Pacific Grove", "pacificgrove@tempemail.com"], [36.677780, -121.655560, "Salinas", "salinas@tempemail.com"], [36.844170, -121.537220, "San Juan Bautista", "sanjuanbautista@tempemail.com"], [36.617220, -121.848330, "Sand City", "sandcity@tempemail.com"], [36.611110, -121.844720, "Seaside", "seaside@tempemail.com"], [36.424720, -121.326390, "Soledad", "soledad@tempemail.com"], [36.920000, -121.763610, "Watsonville", "watsonville@tempemail.com"]
+]
+}
+, {
+"x1": 36.826702,
+"y1": -122.022894,
+"x2": 37.812030,
+"y2": -120.988879,
+"children": [
+{
+"x1": 36.826702,
+"y1": -122.022894,
+"x2": 37.380949,
+"y2": -121.441261,
+"children": [
+],
+"points": [
+[37.283890, -121.955000, "Campbell", "campbell@tempemail.com"], [36.976390, -121.954720, "Capitola", "capitola@tempemail.com"], [37.011940, -121.580000, "Gilroy", "gilroy@tempemail.com"], [37.236110, -121.961670, "Los Gatos", "losgatos@tempemail.com"], [37.238060, -121.989440, "Monte Sereno", "montesereno@tempemail.com"], [37.130560, -121.654440, "Morgan Hill", "morganhill@tempemail.com"], [37.333000, -121.900000, "San Jose", "sanjose@tempemail.com"], [36.844170, -121.537220, "San Juan Bautista", "sanjuanbautista@tempemail.com"], [37.354440, -121.969170, "Santa Clara", "santaclara@tempemail.com"], [37.272500, -122.019440, "Saratoga", "saratoga@tempemail.com"], [37.051390, -122.013330, "Scotts Valley", "scottsvalley@tempemail.com"], [36.920000, -121.763610, "Watsonville", "watsonville@tempemail.com"]
+]
+}
+, {
+"x1": 37.257783,
+"y1": -122.022894,
+"x2": 37.812030,
+"y2": -121.441261,
+"children": [
+],
+"points": [
+[37.283890, -121.955000, "Campbell", "campbell@tempemail.com"], [37.702220, -121.935830, "Dublin", "dublin@tempemail.com"], [37.548330, -121.988610, "Fremont", "fremont@tempemail.com"], [37.681940, -121.768060, "Livermore", "livermore@tempemail.com"], [37.434720, -121.895000, "Milpitas", "milpitas@tempemail.com"], [37.662500, -121.874720, "Pleasanton", "pleasanton@tempemail.com"], [37.333000, -121.900000, "San Jose", "sanjose@tempemail.com"], [37.780000, -121.978060, "San Ramon", "sanramon@tempemail.com"], [37.354440, -121.969170, "Santa Clara", "santaclara@tempemail.com"], [37.272500, -122.019440, "Saratoga", "saratoga@tempemail.com"]
+]
+}
+, {
+"x1": 36.826702,
+"y1": -121.570512,
+"x2": 37.380949,
+"y2": -120.988879,
+"children": [
+],
+"points": [
+[37.257780, -120.998890, "Gustine", "gustine@tempemail.com"], [36.852500, -121.401670, "Hollister", "hollister@tempemail.com"], [37.315000, -121.022500, "Newman", "newman@tempemail.com"], [36.844170, -121.537220, "San Juan Bautista", "sanjuanbautista@tempemail.com"]
+]
+}
+, {
+"x1": 37.257783,
+"y1": -121.570512,
+"x2": 37.812030,
+"y2": -120.988879,
+"children": [
+],
+"points": [
+[37.791700, -120.991700, "Escalon", "escalon@tempemail.com"], [37.802780, -121.220830, "Manteca", "manteca@tempemail.com"], [37.661390, -120.994440, "Modesto", "modesto@tempemail.com"], [37.315000, -121.022500, "Newman", "newman@tempemail.com"], [37.473060, -121.132780, "Patterson", "patterson@tempemail.com"], [37.740560, -121.128330, "Ripon", "ripon@tempemail.com"], [37.738060, -121.433890, "Tracy", "tracy@tempemail.com"]
+]
+}
+],
+"points": [
+
+]
+}
+, {
+"x1": 36.060336,
+"y1": -121.218660,
+"x2": 37.045664,
+"y2": -120.184645,
+"children": [
+],
+"points": [
+[36.139720, -120.360280, "Coalinga", "coalinga@tempemail.com"], [36.983000, -120.633000, "Dos Palos", "dospalos@tempemail.com"], [36.858890, -120.456110, "Firebaugh", "firebaugh@tempemail.com"], [36.212780, -121.126110, "King City", "kingcity@tempemail.com"], [36.753610, -120.381670, "Mendota", "mendota@tempemail.com"], [36.606670, -120.189170, "San Joaquin", "sanjoaquin@tempemail.com"]
+]
+}
+, {
+"x1": 36.826702,
+"y1": -121.218660,
+"x2": 37.812030,
+"y2": -120.184645,
+"children": [
+],
+"points": [
+[37.347780, -120.609170, "Atwater", "atwater@tempemail.com"], [37.601390, -120.957220, "Ceres", "ceres@tempemail.com"], [37.117000, -120.267000, "Chowchilla", "chowchilla@tempemail.com"], [36.983000, -120.633000, "Dos Palos", "dospalos@tempemail.com"], [37.791700, -120.991700, "Escalon", "escalon@tempemail.com"], [36.858890, -120.456110, "Firebaugh", "firebaugh@tempemail.com"], [37.257780, -120.998890, "Gustine", "gustine@tempemail.com"], [37.603060, -120.866940, "Hughson", "hughson@tempemail.com"], [37.386940, -120.723610, "Livingston", "livingston@tempemail.com"], [37.058330, -120.850000, "Los Banos", "losbanos@tempemail.com"], [37.300000, -120.483000, "Merced", "merced@tempemail.com"], [37.661390, -120.994440, "Modesto", "modesto@tempemail.com"], [37.315000, -121.022500, "Newman", "newman@tempemail.com"], [37.769170, -120.856940, "Oakdale", "oakdale@tempemail.com"], [37.473060, -121.132780, "Patterson", "patterson@tempemail.com"], [37.740560, -121.128330, "Ripon", "ripon@tempemail.com"], [37.731390, -120.943610, "Riverbank", "riverbank@tempemail.com"], [37.505830, -120.848890, "Turlock", "turlock@tempemail.com"], [37.645000, -120.767500, "Waterford", "waterford@tempemail.com"]
+]
+}
+],
+"points": [
+
+]
+}
+, {
+"x1": 34.697908,
+"y1": -120.593145,
+"x2": 36.449602,
+"y2": -118.754895,
+"children": [
+],
+"points": [
+[35.120830, -120.586670, "Arroyo Grande", "arroyogrande@tempemail.com"], [35.209170, -118.828330, "Arvin", "arvin@tempemail.com"], [36.004170, -120.128890, "Avenal", "avenal@tempemail.com"], [35.367000, -119.017000, "Bakersfield", "bakersfield@tempemail.com"], [36.139720, -120.360280, "Coalinga", "coalinga@tempemail.com"], [36.098060, -119.560280, "Corcoran", "corcoran@tempemail.com"], [35.768890, -119.246940, "Delano", "delano@tempemail.com"], [36.294170, -119.142780, "Exeter", "exeter@tempemail.com"], [36.301110, -119.207500, "Farmersville", "farmersville@tempemail.com"], [34.965560, -120.573060, "Guadalupe", "guadalupe@tempemail.com"], [36.327500, -119.645560, "Hanford", "hanford@tempemail.com"], [36.202780, -120.103060, "Huron", "huron@tempemail.com"], [36.300830, -119.782780, "Lemoore", "lemoore@tempemail.com"], [36.200000, -119.083000, "Lindsay", "lindsay@tempemail.com"], [35.058890, -119.400830, "Maricopa", "maricopa@tempemail.com"], [35.678060, -119.229170, "McFarland", "mcfarland@tempemail.com"], [36.068610, -119.027500, "Porterville", "porterville@tempemail.com"], [34.951390, -120.433330, "Santa Maria", "santamaria@tempemail.com"], [35.500560, -119.271670, "Shafter", "shafter@tempemail.com"], [35.142500, -119.456390, "Taft", "taft@tempemail.com"], [36.206670, -119.342500, "Tulare", "tulare@tempemail.com"], [36.317000, -119.300000, "Visalia", "visalia@tempemail.com"], [35.594170, -119.340830, "Wasco", "wasco@tempemail.com"], [36.416390, -119.099440, "Woodlake", "woodlake@tempemail.com"]
+]
+}
+, {
+"x1": 36.060336,
+"y1": -120.593145,
+"x2": 37.812030,
+"y2": -118.754895,
+"children": [
+{
+"x1": 36.060336,
+"y1": -120.593145,
+"x2": 37.045664,
+"y2": -119.559129,
+"children": [
+],
+"points": [
+[36.825280, -119.703060, "Clovis", "clovis@tempemail.com"], [36.139720, -120.360280, "Coalinga", "coalinga@tempemail.com"], [36.098060, -119.560280, "Corcoran", "corcoran@tempemail.com"], [36.858890, -120.456110, "Firebaugh", "firebaugh@tempemail.com"], [36.633000, -119.683000, "Fowler", "fowler@tempemail.com"], [36.750000, -119.767000, "Fresno", "fresno@tempemail.com"], [36.327500, -119.645560, "Hanford", "hanford@tempemail.com"], [36.202780, -120.103060, "Huron", "huron@tempemail.com"], [36.723610, -120.060000, "Kerman", "kerman@tempemail.com"], [36.300830, -119.782780, "Lemoore", "lemoore@tempemail.com"], [36.961390, -120.060830, "Madera", "madera@tempemail.com"], [36.753610, -120.381670, "Mendota", "mendota@tempemail.com"], [36.606670, -120.189170, "San Joaquin", "sanjoaquin@tempemail.com"], [36.570830, -119.611940, "Selma", "selma@tempemail.com"]
+]
+}
+, {
+"x1": 36.826702,
+"y1": -120.593145,
+"x2": 37.812030,
+"y2": -119.559129,
+"children": [
+],
+"points": [
+[37.117000, -120.267000, "Chowchilla", "chowchilla@tempemail.com"], [36.858890, -120.456110, "Firebaugh", "firebaugh@tempemail.com"], [36.961390, -120.060830, "Madera", "madera@tempemail.com"], [37.300000, -120.483000, "Merced", "merced@tempemail.com"]
+]
+}
+, {
+"x1": 36.060336,
+"y1": -119.788911,
+"x2": 37.045664,
+"y2": -118.754895,
+"children": [
+],
+"points": [
+[36.825280, -119.703060, "Clovis", "clovis@tempemail.com"], [36.098060, -119.560280, "Corcoran", "corcoran@tempemail.com"], [36.545000, -119.389170, "Dinuba", "dinuba@tempemail.com"], [36.294170, -119.142780, "Exeter", "exeter@tempemail.com"], [36.301110, -119.207500, "Farmersville", "farmersville@tempemail.com"], [36.633000, -119.683000, "Fowler", "fowler@tempemail.com"], [36.750000, -119.767000, "Fresno", "fresno@tempemail.com"], [36.327500, -119.645560, "Hanford", "hanford@tempemail.com"], [36.513890, -119.553890, "Kingsburg", "kingsburg@tempemail.com"], [36.300830, -119.782780, "Lemoore", "lemoore@tempemail.com"], [36.200000, -119.083000, "Lindsay", "lindsay@tempemail.com"], [36.624440, -119.313610, "Orange Cove", "orangecove@tempemail.com"], [36.611670, -119.526940, "Parlier", "parlier@tempemail.com"], [36.068610, -119.027500, "Porterville", "porterville@tempemail.com"], [36.596390, -119.450280, "Reedley", "reedley@tempemail.com"], [36.708060, -119.555830, "Sanger", "sanger@tempemail.com"], [36.570830, -119.611940, "Selma", "selma@tempemail.com"], [36.206670, -119.342500, "Tulare", "tulare@tempemail.com"], [36.317000, -119.300000, "Visalia", "visalia@tempemail.com"], [36.416390, -119.099440, "Woodlake", "woodlake@tempemail.com"]
+]
+}
+, {
+"x1": 36.826702,
+"y1": -119.788911,
+"x2": 37.812030,
+"y2": -118.754895,
+"children": [
+],
+"points": [
+[37.648610, -118.971940, "Mammoth Lakes", "mammothlakes@tempemail.com"]
+]
+}
+],
+"points": [
+
+]
+}
+],
+"points": [
+
+]
+}
+],
+"points": [
+
+]
+}
+, {
+"x1": 36.581759,
+"y1": -124.564671,
+"x2": 42.117975,
+"y2": -118.754895,
+"children": [
+{
+"x1": 36.581759,
+"y1": -124.564671,
+"x2": 39.695881,
+"y2": -121.296672,
+"children": [
+{
+"x1": 36.581759,
+"y1": -124.564671,
+"x2": 38.333453,
+"y2": -122.726422,
+"children": [
+],
+"points": [
+
+]
+}
+, {
+"x1": 37.944187,
+"y1": -124.564671,
+"x2": 39.695881,
+"y2": -122.726422,
+"children": [
+],
+"points": [
+[38.799170, -123.017220, "Cloverdale", "cloverdale@tempemail.com"], [39.445830, -123.805280, "Fort Bragg", "fortbragg@tempemail.com"], [38.617500, -122.866390, "Healdsburg", "healdsburg@tempemail.com"], [39.043060, -122.915830, "Lakeport", "lakeport@tempemail.com"], [38.908890, -123.693060, "Point Arena", "pointarena@tempemail.com"], [38.399170, -122.826940, "Sebastopol", "sebastopol@tempemail.com"], [39.150280, -123.207780, "Ukiah", "ukiah@tempemail.com"], [39.409720, -123.355560, "Willits", "willits@tempemail.com"], [38.546110, -122.805280, "Windsor", "windsor@tempemail.com"]
+]
+}
+, {
+"x1": 36.581759,
+"y1": -123.134922,
+"x2": 38.333453,
+"y2": -121.296672,
+"children": [
+{
+"x1": 36.581759,
+"y1": -123.134922,
+"x2": 37.567087,
+"y2": -122.100906,
+"children": [
+],
+"points": [
+[37.458610, -122.200000, "Atherton", "atherton@tempemail.com"], [37.518060, -122.291670, "Belmont", "belmont@tempemail.com"], [37.466940, -122.139720, "East Palo Alto", "eastpaloalto@tempemail.com"], [37.551390, -122.266390, "Foster City", "fostercity@tempemail.com"], [37.458890, -122.436940, "Half Moon Bay", "halfmoonbay@tempemail.com"], [37.560280, -122.356390, "Hillsborough", "hillsborough@tempemail.com"], [37.371390, -122.137500, "Los Altos Hills", "losaltoshills@tempemail.com"], [37.452780, -122.183330, "Menlo Park", "menlopark@tempemail.com"], [37.429170, -122.138060, "Palo Alto", "paloalto@tempemail.com"], [37.375000, -122.218610, "Portola Valley", "portolavalley@tempemail.com"], [37.482780, -122.236110, "Redwood City", "redwoodcity@tempemail.com"], [37.495500, -122.266800, "San Carlos", "sancarlos@tempemail.com"], [37.554170, -122.313060, "San Mateo", "sanmateo@tempemail.com"], [37.420830, -122.259720, "Woodside", "woodside@tempemail.com"]
+]
+}
+, {
+"x1": 37.348125,
+"y1": -123.134922,
+"x2": 38.333453,
+"y2": -122.100906,
+"children": [
+{
+"x1": 37.348125,
+"y1": -123.134922,
+"x2": 37.902372,
+"y2": -122.553288,
+"children": [
+],
+"points": [
+
+]
+}
+, {
+"x1": 37.779206,
+"y1": -123.134922,
+"x2": 38.333453,
+"y2": -122.553288,
+"children": [
+],
+"points": [
+[38.327780, -122.709170, "Cotati", "cotati@tempemail.com"], [37.987220, -122.588890, "Fairfax", "fairfax@tempemail.com"], [38.107500, -122.569720, "Novato", "novato@tempemail.com"], [38.245830, -122.631390, "Petaluma", "petaluma@tempemail.com"], [37.962500, -122.555000, "Ross", "ross@tempemail.com"], [37.974720, -122.561670, "San Anselmo", "sananselmo@tempemail.com"]
+]
+}
+, {
+"x1": 37.348125,
+"y1": -122.682540,
+"x2": 37.902372,
+"y2": -122.100906,
+"children": [
+{
+"x1": 37.348125,
+"y1": -122.682540,
+"x2": 37.659889,
+"y2": -122.355371,
+"children": [
+],
+"points": [
+[37.583330, -122.363610, "Burlingame", "burlingame@tempemail.com"], [37.458890, -122.436940, "Half Moon Bay", "halfmoonbay@tempemail.com"], [37.560280, -122.356390, "Hillsborough", "hillsborough@tempemail.com"], [37.600830, -122.401390, "Millbrae", "millbrae@tempemail.com"], [37.622780, -122.485560, "Pacifica", "pacifica@tempemail.com"], [37.625280, -122.425280, "San Bruno", "sanbruno@tempemail.com"], [37.656110, -122.425560, "South San Francisco", "southsanfrancisco@tempemail.com"]
+]
+}
+, {
+"x1": 37.590608,
+"y1": -122.682540,
+"x2": 37.902372,
+"y2": -122.355371,
+"children": [
+],
+"points": [
+[37.872780, -122.464440, "Belvedere", "belvedere@tempemail.com"], [37.680830, -122.419170, "Brisbane", "brisbane@tempemail.com"], [37.678890, -122.455560, "Colma", "colma@tempemail.com"], [37.686390, -122.468330, "Daly City", "dalycity@tempemail.com"], [37.600830, -122.401390, "Millbrae", "millbrae@tempemail.com"], [37.622780, -122.485560, "Pacifica", "pacifica@tempemail.com"], [37.625280, -122.425280, "San Bruno", "sanbruno@tempemail.com"], [37.783000, -122.417000, "San Francisco", "sanfrancisco@tempemail.com"], [37.783000, -122.417000, "San Francisco", "sanfrancisco@tempemail.com"], [37.859170, -122.485280, "Sausalito", "sausalito@tempemail.com"], [37.656110, -122.425560, "South San Francisco", "southsanfrancisco@tempemail.com"], [37.873610, -122.456670, "Tiburon", "tiburon@tempemail.com"]
+]
+}
+, {
+"x1": 37.348125,
+"y1": -122.428075,
+"x2": 37.659889,
+"y2": -122.100906,
+"children": [
+],
+"points": [
+[37.458610, -122.200000, "Atherton", "atherton@tempemail.com"], [37.518060, -122.291670, "Belmont", "belmont@tempemail.com"], [37.583330, -122.363610, "Burlingame", "burlingame@tempemail.com"], [37.466940, -122.139720, "East Palo Alto", "eastpaloalto@tempemail.com"], [37.551390, -122.266390, "Foster City", "fostercity@tempemail.com"], [37.560280, -122.356390, "Hillsborough", "hillsborough@tempemail.com"], [37.371390, -122.137500, "Los Altos Hills", "losaltoshills@tempemail.com"], [37.452780, -122.183330, "Menlo Park", "menlopark@tempemail.com"], [37.600830, -122.401390, "Millbrae", "millbrae@tempemail.com"], [37.429170, -122.138060, "Palo Alto", "paloalto@tempemail.com"], [37.375000, -122.218610, "Portola Valley", "portolavalley@tempemail.com"], [37.482780, -122.236110, "Redwood City", "redwoodcity@tempemail.com"], [37.625280, -122.425280, "San Bruno", "sanbruno@tempemail.com"], [37.495500, -122.266800, "San Carlos", "sancarlos@tempemail.com"], [37.554170, -122.313060, "San Mateo", "sanmateo@tempemail.com"], [37.656110, -122.425560, "South San Francisco", "southsanfrancisco@tempemail.com"], [37.420830, -122.259720, "Woodside", "woodside@tempemail.com"]
+]
+}
+, {
+"x1": 37.590608,
+"y1": -122.428075,
+"x2": 37.902372,
+"y2": -122.100906,
+"children": [
+],
+"points": [
+[37.756110, -122.274440, "Alameda", "alameda@tempemail.com"], [37.886940, -122.297780, "Albany", "albany@tempemail.com"], [37.871670, -122.272780, "Berkeley", "berkeley@tempemail.com"], [37.680830, -122.419170, "Brisbane", "brisbane@tempemail.com"], [37.831390, -122.285280, "Emeryville", "emeryville@tempemail.com"], [37.885830, -122.118060, "Lafayette", "lafayette@tempemail.com"], [37.600830, -122.401390, "Millbrae", "millbrae@tempemail.com"], [37.835000, -122.129720, "Moraga", "moraga@tempemail.com"], [37.804440, -122.270830, "Oakland", "oakland@tempemail.com"], [37.882780, -122.179720, "Orinda", "orinda@tempemail.com"], [37.817000, -122.233000, "Piedmont", "piedmont@tempemail.com"], [37.625280, -122.425280, "San Bruno", "sanbruno@tempemail.com"], [37.783000, -122.417000, "San Francisco", "sanfrancisco@tempemail.com"], [37.783000, -122.417000, "San Francisco", "sanfrancisco@tempemail.com"], [37.725000, -122.156110, "San Leandro", "sanleandro@tempemail.com"], [37.656110, -122.425560, "South San Francisco", "southsanfrancisco@tempemail.com"]
+]
+}
+],
+"points": [
+
+]
+}
+, {
+"x1": 37.779206,
+"y1": -122.682540,
+"x2": 38.333453,
+"y2": -122.100906,
+"children": [
+{
+"x1": 37.779206,
+"y1": -122.682540,
+"x2": 38.090970,
+"y2": -122.355371,
+"children": [
+],
+"points": [
+[37.872780, -122.464440, "Belvedere", "belvedere@tempemail.com"], [37.925560, -122.527500, "Corte Madera", "cortemadera@tempemail.com"], [37.987220, -122.588890, "Fairfax", "fairfax@tempemail.com"], [37.934170, -122.535280, "Larkspur", "larkspur@tempemail.com"], [37.906110, -122.545000, "Mill Valley", "millvalley@tempemail.com"], [37.962500, -122.555000, "Ross", "ross@tempemail.com"], [37.974720, -122.561670, "San Anselmo", "sananselmo@tempemail.com"], [37.783000, -122.417000, "San Francisco", "sanfrancisco@tempemail.com"], [37.783000, -122.417000, "San Francisco", "sanfrancisco@tempemail.com"], [37.973610, -122.531110, "San Rafael", "sanrafael@tempemail.com"], [37.859170, -122.485280, "Sausalito", "sausalito@tempemail.com"], [37.873610, -122.456670, "Tiburon", "tiburon@tempemail.com"]
+]
+}
+, {
+"x1": 38.021689,
+"y1": -122.682540,
+"x2": 38.333453,
+"y2": -122.355371,
+"children": [
+],
+"points": [
+[38.107500, -122.569720, "Novato", "novato@tempemail.com"], [38.245830, -122.631390, "Petaluma", "petaluma@tempemail.com"], [38.288890, -122.458890, "Sonoma", "sonoma@tempemail.com"]
+]
+}
+, {
+"x1": 37.779206,
+"y1": -122.428075,
+"x2": 38.090970,
+"y2": -122.100906,
+"children": [
+],
+"points": [
+[37.886940, -122.297780, "Albany", "albany@tempemail.com"], [38.063330, -122.156110, "Benicia", "benicia@tempemail.com"], [37.871670, -122.272780, "Berkeley", "berkeley@tempemail.com"], [37.915830, -122.311670, "El Cerrito", "elcerrito@tempemail.com"], [37.831390, -122.285280, "Emeryville", "emeryville@tempemail.com"], [38.017220, -122.288610, "Hercules", "hercules@tempemail.com"], [37.885830, -122.118060, "Lafayette", "lafayette@tempemail.com"], [38.019440, -122.134170, "Martinez", "martinez@tempemail.com"], [37.835000, -122.129720, "Moraga", "moraga@tempemail.com"], [37.804440, -122.270830, "Oakland", "oakland@tempemail.com"], [37.882780, -122.179720, "Orinda", "orinda@tempemail.com"], [37.817000, -122.233000, "Piedmont", "piedmont@tempemail.com"], [38.004440, -122.291110, "Pinole", "pinole@tempemail.com"], [37.935830, -122.347780, "Richmond", "richmond@tempemail.com"], [37.783000, -122.417000, "San Francisco", "sanfrancisco@tempemail.com"], [37.783000, -122.417000, "San Francisco", "sanfrancisco@tempemail.com"], [37.962220, -122.345560, "San Pablo", "sanpablo@tempemail.com"]
+]
+}
+, {
+"x1": 38.021689,
+"y1": -122.428075,
+"x2": 38.333453,
+"y2": -122.100906,
+"children": [
+],
+"points": [
+[38.168060, -122.252500, "American Canyon", "americancanyon@tempemail.com"], [38.063330, -122.156110, "Benicia", "benicia@tempemail.com"], [38.304720, -122.298890, "Napa", "napa@tempemail.com"], [38.113060, -122.235830, "Vallejo", "vallejo@tempemail.com"]
+]
+}
+],
+"points": [
+
+]
+}
+],
+"points": [
+
+]
+}
+, {
+"x1": 36.581759,
+"y1": -122.330687,
+"x2": 37.567087,
+"y2": -121.296672,
+"children": [
+{
+"x1": 36.581759,
+"y1": -122.330687,
+"x2": 37.136006,
+"y2": -121.749054,
+"children": [
+],
+"points": [
+[36.976390, -121.954720, "Capitola", "capitola@tempemail.com"], [36.593330, -121.835000, "Del Rey Oaks", "delreyoaks@tempemail.com"], [36.684440, -121.802220, "Marina", "marina@tempemail.com"], [36.600000, -121.900000, "Monterey", "monterey@tempemail.com"], [36.617780, -121.916670, "Pacific Grove", "pacificgrove@tempemail.com"], [36.617220, -121.848330, "Sand City", "sandcity@tempemail.com"], [36.971940, -122.026390, "Santa Cruz", "santacruz@tempemail.com"], [37.051390, -122.013330, "Scotts Valley", "scottsvalley@tempemail.com"], [36.611110, -121.844720, "Seaside", "seaside@tempemail.com"], [36.920000, -121.763610, "Watsonville", "watsonville@tempemail.com"]
+]
+}
+, {
+"x1": 37.012840,
+"y1": -122.330687,
+"x2": 37.567087,
+"y2": -121.749054,
+"children": [
+{
+"x1": 37.012840,
+"y1": -122.330687,
+"x2": 37.324604,
+"y2": -122.003519,
+"children": [
+],
+"points": [
+[37.317500, -122.041940, "Cupertino", "cupertino@tempemail.com"], [37.272500, -122.019440, "Saratoga", "saratoga@tempemail.com"], [37.051390, -122.013330, "Scotts Valley", "scottsvalley@tempemail.com"]
+]
+}
+, {
+"x1": 37.255323,
+"y1": -122.330687,
+"x2": 37.567087,
+"y2": -122.003519,
+"children": [
+],
+"points": [
+[37.458610, -122.200000, "Atherton", "atherton@tempemail.com"], [37.518060, -122.291670, "Belmont", "belmont@tempemail.com"], [37.317500, -122.041940, "Cupertino", "cupertino@tempemail.com"], [37.466940, -122.139720, "East Palo Alto", "eastpaloalto@tempemail.com"], [37.551390, -122.266390, "Foster City", "fostercity@tempemail.com"], [37.368060, -122.097500, "Los Altos", "losaltos@tempemail.com"], [37.371390, -122.137500, "Los Altos Hills", "losaltoshills@tempemail.com"], [37.452780, -122.183330, "Menlo Park", "menlopark@tempemail.com"], [37.389440, -122.081940, "Mountain View", "mountainview@tempemail.com"], [37.533000, -122.033000, "Newark", "newark@tempemail.com"], [37.429170, -122.138060, "Palo Alto", "paloalto@tempemail.com"], [37.375000, -122.218610, "Portola Valley", "portolavalley@tempemail.com"], [37.482780, -122.236110, "Redwood City", "redwoodcity@tempemail.com"], [37.495500, -122.266800, "San Carlos", "sancarlos@tempemail.com"], [37.554170, -122.313060, "San Mateo", "sanmateo@tempemail.com"], [37.272500, -122.019440, "Saratoga", "saratoga@tempemail.com"], [37.371110, -122.037500, "Sunnyvale", "sunnyvale@tempemail.com"], [37.420830, -122.259720, "Woodside", "woodside@tempemail.com"]
+]
+}
+, {
+"x1": 37.012840,
+"y1": -122.076223,
+"x2": 37.324604,
+"y2": -121.749054,
+"children": [
+],
+"points": [
+[37.283890, -121.955000, "Campbell", "campbell@tempemail.com"], [37.317500, -122.041940, "Cupertino", "cupertino@tempemail.com"], [37.236110, -121.961670, "Los Gatos", "losgatos@tempemail.com"], [37.238060, -121.989440, "Monte Sereno", "montesereno@tempemail.com"], [37.272500, -122.019440, "Saratoga", "saratoga@tempemail.com"], [37.051390, -122.013330, "Scotts Valley", "scottsvalley@tempemail.com"]
+]
+}
+, {
+"x1": 37.255323,
+"y1": -122.076223,
+"x2": 37.567087,
+"y2": -121.749054,
+"children": [
+],
+"points": [
+[37.283890, -121.955000, "Campbell", "campbell@tempemail.com"], [37.317500, -122.041940, "Cupertino", "cupertino@tempemail.com"], [37.548330, -121.988610, "Fremont", "fremont@tempemail.com"], [37.434720, -121.895000, "Milpitas", "milpitas@tempemail.com"], [37.533000, -122.033000, "Newark", "newark@tempemail.com"], [37.333000, -121.900000, "San Jose", "sanjose@tempemail.com"], [37.354440, -121.969170, "Santa Clara", "santaclara@tempemail.com"], [37.272500, -122.019440, "Saratoga", "saratoga@tempemail.com"], [37.371110, -122.037500, "Sunnyvale", "sunnyvale@tempemail.com"]
+]
+}
+],
+"points": [
+
+]
+}
+, {
+"x1": 36.581759,
+"y1": -121.878306,
+"x2": 37.136006,
+"y2": -121.296672,
+"children": [
+],
+"points": [
+[36.593330, -121.835000, "Del Rey Oaks", "delreyoaks@tempemail.com"], [37.011940, -121.580000, "Gilroy", "gilroy@tempemail.com"], [36.852500, -121.401670, "Hollister", "hollister@tempemail.com"], [36.684440, -121.802220, "Marina", "marina@tempemail.com"], [37.130560, -121.654440, "Morgan Hill", "morganhill@tempemail.com"], [36.677780, -121.655560, "Salinas", "salinas@tempemail.com"], [36.844170, -121.537220, "San Juan Bautista", "sanjuanbautista@tempemail.com"], [36.617220, -121.848330, "Sand City", "sandcity@tempemail.com"], [36.611110, -121.844720, "Seaside", "seaside@tempemail.com"], [36.920000, -121.763610, "Watsonville", "watsonville@tempemail.com"]
+]
+}
+, {
+"x1": 37.012840,
+"y1": -121.878306,
+"x2": 37.567087,
+"y2": -121.296672,
+"children": [
+],
+"points": [
+[37.130560, -121.654440, "Morgan Hill", "morganhill@tempemail.com"]
+]
+}
+],
+"points": [
+
+]
+}
+, {
+"x1": 37.348125,
+"y1": -122.330687,
+"x2": 38.333453,
+"y2": -121.296672,
+"children": [
+{
+"x1": 37.348125,
+"y1": -122.330687,
+"x2": 37.902372,
+"y2": -121.749054,
+"children": [
+{
+"x1": 37.348125,
+"y1": -122.330687,
+"x2": 37.659889,
+"y2": -122.003519,
+"children": [
+],
+"points": [
+[37.458610, -122.200000, "Atherton", "atherton@tempemail.com"], [37.518060, -122.291670, "Belmont", "belmont@tempemail.com"], [37.466940, -122.139720, "East Palo Alto", "eastpaloalto@tempemail.com"], [37.551390, -122.266390, "Foster City", "fostercity@tempemail.com"], [37.368060, -122.097500, "Los Altos", "losaltos@tempemail.com"], [37.371390, -122.137500, "Los Altos Hills", "losaltoshills@tempemail.com"], [37.452780, -122.183330, "Menlo Park", "menlopark@tempemail.com"], [37.389440, -122.081940, "Mountain View", "mountainview@tempemail.com"], [37.533000, -122.033000, "Newark", "newark@tempemail.com"], [37.429170, -122.138060, "Palo Alto", "paloalto@tempemail.com"], [37.375000, -122.218610, "Portola Valley", "portolavalley@tempemail.com"], [37.482780, -122.236110, "Redwood City", "redwoodcity@tempemail.com"], [37.495500, -122.266800, "San Carlos", "sancarlos@tempemail.com"], [37.554170, -122.313060, "San Mateo", "sanmateo@tempemail.com"], [37.371110, -122.037500, "Sunnyvale", "sunnyvale@tempemail.com"], [37.586940, -122.025830, "Union City", "unioncity@tempemail.com"], [37.420830, -122.259720, "Woodside", "woodside@tempemail.com"]
+]
+}
+, {
+"x1": 37.590608,
+"y1": -122.330687,
+"x2": 37.902372,
+"y2": -122.003519,
+"children": [
+],
+"points": [
+[37.756110, -122.274440, "Alameda", "alameda@tempemail.com"], [37.886940, -122.297780, "Albany", "albany@tempemail.com"], [37.871670, -122.272780, "Berkeley", "berkeley@tempemail.com"], [37.831390, -122.285280, "Emeryville", "emeryville@tempemail.com"], [37.668890, -122.080830, "Hayward", "hayward@tempemail.com"], [37.885830, -122.118060, "Lafayette", "lafayette@tempemail.com"], [37.835000, -122.129720, "Moraga", "moraga@tempemail.com"], [37.804440, -122.270830, "Oakland", "oakland@tempemail.com"], [37.882780, -122.179720, "Orinda", "orinda@tempemail.com"], [37.817000, -122.233000, "Piedmont", "piedmont@tempemail.com"], [37.725000, -122.156110, "San Leandro", "sanleandro@tempemail.com"]
+]
+}
+, {
+"x1": 37.348125,
+"y1": -122.076223,
+"x2": 37.659889,
+"y2": -121.749054,
+"children": [
+],
+"points": [
+[37.548330, -121.988610, "Fremont", "fremont@tempemail.com"], [37.434720, -121.895000, "Milpitas", "milpitas@tempemail.com"], [37.533000, -122.033000, "Newark", "newark@tempemail.com"], [37.354440, -121.969170, "Santa Clara", "santaclara@tempemail.com"], [37.371110, -122.037500, "Sunnyvale", "sunnyvale@tempemail.com"], [37.586940, -122.025830, "Union City", "unioncity@tempemail.com"]
+]
+}
+, {
+"x1": 37.590608,
+"y1": -122.076223,
+"x2": 37.902372,
+"y2": -121.749054,
+"children": [
+],
+"points": [
+[37.821670, -122.000000, "Danville", "danville@tempemail.com"], [37.702220, -121.935830, "Dublin", "dublin@tempemail.com"], [37.681940, -121.768060, "Livermore", "livermore@tempemail.com"], [37.662500, -121.874720, "Pleasanton", "pleasanton@tempemail.com"], [37.780000, -121.978060, "San Ramon", "sanramon@tempemail.com"]
+]
+}
+],
+"points": [
+
+]
+}
+, {
+"x1": 37.779206,
+"y1": -122.330687,
+"x2": 38.333453,
+"y2": -121.749054,
+"children": [
+{
+"x1": 37.779206,
+"y1": -122.330687,
+"x2": 38.090970,
+"y2": -122.003519,
+"children": [
+],
+"points": [
+[37.886940, -122.297780, "Albany", "albany@tempemail.com"], [38.063330, -122.156110, "Benicia", "benicia@tempemail.com"], [37.871670, -122.272780, "Berkeley", "berkeley@tempemail.com"], [37.978060, -122.031110, "Concord", "concord@tempemail.com"], [37.915830, -122.311670, "El Cerrito", "elcerrito@tempemail.com"], [37.831390, -122.285280, "Emeryville", "emeryville@tempemail.com"], [38.017220, -122.288610, "Hercules", "hercules@tempemail.com"], [37.885830, -122.118060, "Lafayette", "lafayette@tempemail.com"], [38.019440, -122.134170, "Martinez", "martinez@tempemail.com"], [37.835000, -122.129720, "Moraga", "moraga@tempemail.com"], [37.804440, -122.270830, "Oakland", "oakland@tempemail.com"], [37.882780, -122.179720, "Orinda", "orinda@tempemail.com"], [37.817000, -122.233000, "Piedmont", "piedmont@tempemail.com"], [38.004440, -122.291110, "Pinole", "pinole@tempemail.com"], [37.948060, -122.052500, "Pleasant Hill", "pleasanthill@tempemail.com"], [37.906390, -122.065000, "Walnut Creek", "walnutcreek@tempemail.com"]
+]
+}
+, {
+"x1": 38.021689,
+"y1": -122.330687,
+"x2": 38.333453,
+"y2": -122.003519,
+"children": [
+],
+"points": [
+[38.168060, -122.252500, "American Canyon", "americancanyon@tempemail.com"], [38.063330, -122.156110, "Benicia", "benicia@tempemail.com"], [38.257780, -122.054170, "Fairfield", "fairfield@tempemail.com"], [38.304720, -122.298890, "Napa", "napa@tempemail.com"], [38.245000, -122.016940, "Suisun City", "suisuncity@tempemail.com"], [38.113060, -122.235830, "Vallejo", "vallejo@tempemail.com"]
+]
+}
+, {
+"x1": 37.779206,
+"y1": -122.076223,
+"x2": 38.090970,
+"y2": -121.749054,
+"children": [
+],
+"points": [
+[38.005000, -121.805830, "Antioch", "antioch@tempemail.com"], [37.941110, -121.935830, "Clayton", "clayton@tempemail.com"], [37.978060, -122.031110, "Concord", "concord@tempemail.com"], [37.821670, -122.000000, "Danville", "danville@tempemail.com"], [38.028060, -121.884720, "Pittsburg", "pittsburg@tempemail.com"], [37.948060, -122.052500, "Pleasant Hill", "pleasanthill@tempemail.com"], [37.780000, -121.978060, "San Ramon", "sanramon@tempemail.com"], [37.906390, -122.065000, "Walnut Creek", "walnutcreek@tempemail.com"]
+]
+}
+, {
+"x1": 38.021689,
+"y1": -122.076223,
+"x2": 38.333453,
+"y2": -121.749054,
+"children": [
+],
+"points": [
+[38.257780, -122.054170, "Fairfield", "fairfield@tempemail.com"], [38.028060, -121.884720, "Pittsburg", "pittsburg@tempemail.com"], [38.245000, -122.016940, "Suisun City", "suisuncity@tempemail.com"]
+]
+}
+],
+"points": [
+
+]
+}
+, {
+"x1": 37.348125,
+"y1": -121.878306,
+"x2": 37.902372,
+"y2": -121.296672,
+"children": [
+],
+"points": [
+[37.681940, -121.768060, "Livermore", "livermore@tempemail.com"], [37.662500, -121.874720, "Pleasanton", "pleasanton@tempemail.com"], [37.738060, -121.433890, "Tracy", "tracy@tempemail.com"]
+]
+}
+, {
+"x1": 37.779206,
+"y1": -121.878306,
+"x2": 38.333453,
+"y2": -121.296672,
+"children": [
+],
+"points": [
+[38.005000, -121.805830, "Antioch", "antioch@tempemail.com"], [37.931940, -121.695830, "Brentwood", "brentwood@tempemail.com"], [38.260830, -121.303060, "Galt", "galt@tempemail.com"], [38.161940, -121.609170, "Isleton", "isleton@tempemail.com"], [37.997500, -121.712500, "Oakley", "oakley@tempemail.com"], [38.163890, -121.695830, "Rio Vista", "riovista@tempemail.com"], [37.975560, -121.300830, "Stockton", "stockton@tempemail.com"]
+]
+}
+],
+"points": [
+
+]
+}
+],
+"points": [
+
+]
+}
+, {
+"x1": 37.944187,
+"y1": -123.134922,
+"x2": 39.695881,
+"y2": -121.296672,
+"children": [
+{
+"x1": 37.944187,
+"y1": -123.134922,
+"x2": 38.929515,
+"y2": -122.100906,
+"children": [
+],
+"points": [
+[38.168060, -122.252500, "American Canyon", "americancanyon@tempemail.com"], [38.063330, -122.156110, "Benicia", "benicia@tempemail.com"], [38.581390, -122.582780, "Calistoga", "calistoga@tempemail.com"], [38.799170, -123.017220, "Cloverdale", "cloverdale@tempemail.com"], [38.327780, -122.709170, "Cotati", "cotati@tempemail.com"], [37.987220, -122.588890, "Fairfax", "fairfax@tempemail.com"], [38.617500, -122.866390, "Healdsburg", "healdsburg@tempemail.com"], [38.017220, -122.288610, "Hercules", "hercules@tempemail.com"], [38.019440, -122.134170, "Martinez", "martinez@tempemail.com"], [38.304720, -122.298890, "Napa", "napa@tempemail.com"], [38.107500, -122.569720, "Novato", "novato@tempemail.com"], [38.245830, -122.631390, "Petaluma", "petaluma@tempemail.com"], [38.004440, -122.291110, "Pinole", "pinole@tempemail.com"], [38.347220, -122.695280, "Rohnert Park", "rohnertpark@tempemail.com"], [37.962500, -122.555000, "Ross", "ross@tempemail.com"], [38.505280, -122.470280, "St. Helena", "st.helena@tempemail.com"], [37.974720, -122.561670, "San Anselmo", "sananselmo@tempemail.com"], [37.962220, -122.345560, "San Pablo", "sanpablo@tempemail.com"], [37.973610, -122.531110, "San Rafael", "sanrafael@tempemail.com"], [38.448610, -122.704720, "Santa Rosa", "santarosa@tempemail.com"], [38.399170, -122.826940, "Sebastopol", "sebastopol@tempemail.com"], [38.288890, -122.458890, "Sonoma", "sonoma@tempemail.com"], [38.113060, -122.235830, "Vallejo", "vallejo@tempemail.com"], [38.546110, -122.805280, "Windsor", "windsor@tempemail.com"], [38.403060, -122.362220, "Yountville", "yountville@tempemail.com"]
+]
+}
+, {
+"x1": 38.710553,
+"y1": -123.134922,
+"x2": 39.695881,
+"y2": -122.100906,
+"children": [
+],
+"points": [
+[38.958330, -122.626390, "Clearlake", "clearlake@tempemail.com"], [38.799170, -123.017220, "Cloverdale", "cloverdale@tempemail.com"], [39.043060, -122.915830, "Lakeport", "lakeport@tempemail.com"], [39.154720, -122.149440, "Williams", "williams@tempemail.com"], [39.524440, -122.193610, "Willows", "willows@tempemail.com"]
+]
+}
+, {
+"x1": 37.944187,
+"y1": -122.330687,
+"x2": 38.929515,
+"y2": -121.296672,
+"children": [
+{
+"x1": 37.944187,
+"y1": -122.330687,
+"x2": 38.498434,
+"y2": -121.749054,
+"children": [
+],
+"points": [
+[38.168060, -122.252500, "American Canyon", "americancanyon@tempemail.com"], [38.005000, -121.805830, "Antioch", "antioch@tempemail.com"], [38.063330, -122.156110, "Benicia", "benicia@tempemail.com"], [37.978060, -122.031110, "Concord", "concord@tempemail.com"], [38.449170, -121.826940, "Dixon", "dixon@tempemail.com"], [38.257780, -122.054170, "Fairfield", "fairfield@tempemail.com"], [38.017220, -122.288610, "Hercules", "hercules@tempemail.com"], [38.019440, -122.134170, "Martinez", "martinez@tempemail.com"], [38.304720, -122.298890, "Napa", "napa@tempemail.com"], [38.004440, -122.291110, "Pinole", "pinole@tempemail.com"], [38.028060, -121.884720, "Pittsburg", "pittsburg@tempemail.com"], [37.948060, -122.052500, "Pleasant Hill", "pleasanthill@tempemail.com"], [38.245000, -122.016940, "Suisun City", "suisuncity@tempemail.com"], [38.353890, -121.972780, "Vacaville", "vacaville@tempemail.com"], [38.113060, -122.235830, "Vallejo", "vallejo@tempemail.com"]
+]
+}
+, {
+"x1": 38.375268,
+"y1": -122.330687,
+"x2": 38.929515,
+"y2": -121.749054,
+"children": [
+],
+"points": [
+[38.449170, -121.826940, "Dixon", "dixon@tempemail.com"], [38.525000, -121.970830, "Winters", "winters@tempemail.com"], [38.678610, -121.773330, "Woodland", "woodland@tempemail.com"]
+]
+}
+, {
+"x1": 37.944187,
+"y1": -121.878306,
+"x2": 38.498434,
+"y2": -121.296672,
+"children": [
+],
+"points": [
+[38.005000, -121.805830, "Antioch", "antioch@tempemail.com"], [38.449170, -121.826940, "Dixon", "dixon@tempemail.com"], [38.438330, -121.381940, "Elk Grove", "elkgrove@tempemail.com"], [38.260830, -121.303060, "Galt", "galt@tempemail.com"], [38.161940, -121.609170, "Isleton", "isleton@tempemail.com"], [37.997500, -121.712500, "Oakley", "oakley@tempemail.com"], [38.163890, -121.695830, "Rio Vista", "riovista@tempemail.com"], [37.975560, -121.300830, "Stockton", "stockton@tempemail.com"]
+]
+}
+, {
+"x1": 38.375268,
+"y1": -121.878306,
+"x2": 38.929515,
+"y2": -121.296672,
+"children": [
+],
+"points": [
+[38.553890, -121.738060, "Davis", "davis@tempemail.com"], [38.449170, -121.826940, "Dixon", "dixon@tempemail.com"], [38.438330, -121.381940, "Elk Grove", "elkgrove@tempemail.com"], [38.589170, -121.302780, "Rancho Cordova", "ranchocordova@tempemail.com"], [38.555560, -121.468890, "Sacramento", "sacramento@tempemail.com"], [38.580560, -121.530280, "West Sacramento", "westsacramento@tempemail.com"], [38.678610, -121.773330, "Woodland", "woodland@tempemail.com"]
+]
+}
+],
+"points": [
+
+]
+}
+, {
+"x1": 38.710553,
+"y1": -122.330687,
+"x2": 39.695881,
+"y2": -121.296672,
+"children": [
+],
+"points": [
+[39.413890, -121.710280, "Biggs", "biggs@tempemail.com"], [39.214440, -122.009440, "Colusa", "colusa@tempemail.com"], [39.363890, -121.693610, "Gridley", "gridley@tempemail.com"], [39.150000, -121.583000, "Marysville", "marysville@tempemail.com"], [39.517000, -121.550000, "Oroville", "oroville@tempemail.com"], [39.010000, -121.423060, "Wheatland", "wheatland@tempemail.com"], [39.154720, -122.149440, "Williams", "williams@tempemail.com"], [39.524440, -122.193610, "Willows", "willows@tempemail.com"], [39.134720, -121.626110, "Yuba City", "yubacity@tempemail.com"]
+]
+}
+],
+"points": [
+
+]
+}
+],
+"points": [
+
+]
+}
+, {
+"x1": 39.003854,
+"y1": -124.564671,
+"x2": 42.117975,
+"y2": -121.296672,
+"children": [
+{
+"x1": 39.003854,
+"y1": -124.564671,
+"x2": 40.755547,
+"y2": -122.726422,
+"children": [
+],
+"points": [
+[40.576700, -124.263300, "Ferndale", "ferndale@tempemail.com"], [39.445830, -123.805280, "Fort Bragg", "fortbragg@tempemail.com"], [40.598060, -124.157220, "Fortuna", "fortuna@tempemail.com"], [39.043060, -122.915830, "Lakeport", "lakeport@tempemail.com"], [40.499170, -124.106390, "Rio Dell", "riodell@tempemail.com"], [39.150280, -123.207780, "Ukiah", "ukiah@tempemail.com"], [39.409720, -123.355560, "Willits", "willits@tempemail.com"]
+]
+}
+, {
+"x1": 40.366282,
+"y1": -124.564671,
+"x2": 42.117975,
+"y2": -122.726422,
+"children": [
+],
+"points": [
+[40.866390, -124.082780, "Arcata", "arcata@tempemail.com"], [40.882780, -123.983890, "Blue Lake", "bluelake@tempemail.com"], [41.755830, -124.201670, "Crescent City", "crescentcity@tempemail.com"], [41.457220, -122.896940, "Etna", "etna@tempemail.com"], [40.801940, -124.163610, "Eureka", "eureka@tempemail.com"], [40.576700, -124.263300, "Ferndale", "ferndale@tempemail.com"], [41.607220, -122.841940, "Fort Jones", "fortjones@tempemail.com"], [40.598060, -124.157220, "Fortuna", "fortuna@tempemail.com"], [40.499170, -124.106390, "Rio Dell", "riodell@tempemail.com"], [41.059170, -124.143060, "Trinidad", "trinidad@tempemail.com"]
+]
+}
+, {
+"x1": 39.003854,
+"y1": -123.134922,
+"x2": 40.755547,
+"y2": -121.296672,
+"children": [
+],
+"points": [
+[40.452220, -122.296670, "Anderson", "anderson@tempemail.com"], [39.413890, -121.710280, "Biggs", "biggs@tempemail.com"], [39.740000, -121.835560, "Chico", "chico@tempemail.com"], [39.214440, -122.009440, "Colusa", "colusa@tempemail.com"], [39.926110, -122.180560, "Corning", "corning@tempemail.com"], [39.363890, -121.693610, "Gridley", "gridley@tempemail.com"], [39.990000, -121.541110, "Inskip", "inskip@tempemail.com"], [39.043060, -122.915830, "Lakeport", "lakeport@tempemail.com"], [39.150000, -121.583000, "Marysville", "marysville@tempemail.com"], [39.747500, -122.196390, "Orland", "orland@tempemail.com"], [39.517000, -121.550000, "Oroville", "oroville@tempemail.com"], [39.759720, -121.621390, "Paradise", "paradise@tempemail.com"], [40.176670, -122.238060, "Red Bluff", "redbluff@tempemail.com"], [40.583000, -122.367000, "Redding", "redding@tempemail.com"], [40.678060, -122.370000, "Shasta Lake", "shastalake@tempemail.com"], [40.024440, -122.123890, "Tehama", "tehama@tempemail.com"], [39.010000, -121.423060, "Wheatland", "wheatland@tempemail.com"], [39.154720, -122.149440, "Williams", "williams@tempemail.com"], [39.524440, -122.193610, "Willows", "willows@tempemail.com"], [39.134720, -121.626110, "Yuba City", "yubacity@tempemail.com"]
+]
+}
+, {
+"x1": 40.366282,
+"y1": -123.134922,
+"x2": 42.117975,
+"y2": -121.296672,
+"children": [
+],
+"points": [
+[40.452220, -122.296670, "Anderson", "anderson@tempemail.com"], [41.965000, -121.918890, "Dorris", "dorris@tempemail.com"], [41.221670, -122.273060, "Dunsmuir", "dunsmuir@tempemail.com"], [41.457220, -122.896940, "Etna", "etna@tempemail.com"], [41.607220, -122.841940, "Fort Jones", "fortjones@tempemail.com"], [41.727220, -122.526390, "Montague", "montague@tempemail.com"], [41.314440, -122.311390, "Mount Shasta", "mountshasta@tempemail.com"], [40.583000, -122.367000, "Redding", "redding@tempemail.com"], [40.678060, -122.370000, "Shasta Lake", "shastalake@tempemail.com"], [41.954170, -121.475830, "Tulelake", "tulelake@tempemail.com"], [41.424170, -122.384440, "Weed", "weed@tempemail.com"], [41.726670, -122.637500, "Yreka", "yreka@tempemail.com"]
+]
+}
+],
+"points": [
+
+]
+}
+, {
+"x1": 36.581759,
+"y1": -122.022894,
+"x2": 39.695881,
+"y2": -118.754895,
+"children": [
+{
+"x1": 36.581759,
+"y1": -122.022894,
+"x2": 38.333453,
+"y2": -120.184645,
+"children": [
+{
+"x1": 36.581759,
+"y1": -122.022894,
+"x2": 37.567087,
+"y2": -120.988879,
+"children": [
+],
+"points": [
+[37.283890, -121.955000, "Campbell", "campbell@tempemail.com"], [36.976390, -121.954720, "Capitola", "capitola@tempemail.com"], [36.593330, -121.835000, "Del Rey Oaks", "delreyoaks@tempemail.com"], [37.548330, -121.988610, "Fremont", "fremont@tempemail.com"], [37.011940, -121.580000, "Gilroy", "gilroy@tempemail.com"], [37.257780, -120.998890, "Gustine", "gustine@tempemail.com"], [36.852500, -121.401670, "Hollister", "hollister@tempemail.com"], [37.236110, -121.961670, "Los Gatos", "losgatos@tempemail.com"], [36.684440, -121.802220, "Marina", "marina@tempemail.com"], [37.434720, -121.895000, "Milpitas", "milpitas@tempemail.com"], [37.238060, -121.989440, "Monte Sereno", "montesereno@tempemail.com"], [36.600000, -121.900000, "Monterey", "monterey@tempemail.com"], [37.130560, -121.654440, "Morgan Hill", "morganhill@tempemail.com"], [37.315000, -121.022500, "Newman", "newman@tempemail.com"], [36.617780, -121.916670, "Pacific Grove", "pacificgrove@tempemail.com"], [37.473060, -121.132780, "Patterson", "patterson@tempemail.com"], [36.677780, -121.655560, "Salinas", "salinas@tempemail.com"], [37.333000, -121.900000, "San Jose", "sanjose@tempemail.com"], [36.844170, -121.537220, "San Juan Bautista", "sanjuanbautista@tempemail.com"], [36.617220, -121.848330, "Sand City", "sandcity@tempemail.com"], [37.354440, -121.969170, "Santa Clara", "santaclara@tempemail.com"], [37.272500, -122.019440, "Saratoga", "saratoga@tempemail.com"], [37.051390, -122.013330, "Scotts Valley", "scottsvalley@tempemail.com"], [36.611110, -121.844720, "Seaside", "seaside@tempemail.com"], [36.920000, -121.763610, "Watsonville", "watsonville@tempemail.com"]
+]
+}
+, {
+"x1": 37.348125,
+"y1": -122.022894,
+"x2": 38.333453,
+"y2": -120.988879,
+"children": [
+{
+"x1": 37.348125,
+"y1": -122.022894,
+"x2": 37.902372,
+"y2": -121.441261,
+"children": [
+],
+"points": [
+[37.821670, -122.000000, "Danville", "danville@tempemail.com"], [37.702220, -121.935830, "Dublin", "dublin@tempemail.com"], [37.548330, -121.988610, "Fremont", "fremont@tempemail.com"], [37.681940, -121.768060, "Livermore", "livermore@tempemail.com"], [37.434720, -121.895000, "Milpitas", "milpitas@tempemail.com"], [37.662500, -121.874720, "Pleasanton", "pleasanton@tempemail.com"], [37.780000, -121.978060, "San Ramon", "sanramon@tempemail.com"], [37.354440, -121.969170, "Santa Clara", "santaclara@tempemail.com"]
+]
+}
+, {
+"x1": 37.779206,
+"y1": -122.022894,
+"x2": 38.333453,
+"y2": -121.441261,
+"children": [
+],
+"points": [
+[38.005000, -121.805830, "Antioch", "antioch@tempemail.com"], [37.931940, -121.695830, "Brentwood", "brentwood@tempemail.com"], [37.941110, -121.935830, "Clayton", "clayton@tempemail.com"], [37.821670, -122.000000, "Danville", "danville@tempemail.com"], [38.161940, -121.609170, "Isleton", "isleton@tempemail.com"], [37.997500, -121.712500, "Oakley", "oakley@tempemail.com"], [38.028060, -121.884720, "Pittsburg", "pittsburg@tempemail.com"], [38.163890, -121.695830, "Rio Vista", "riovista@tempemail.com"], [37.780000, -121.978060, "San Ramon", "sanramon@tempemail.com"], [38.245000, -122.016940, "Suisun City", "suisuncity@tempemail.com"]
+]
+}
+, {
+"x1": 37.348125,
+"y1": -121.570512,
+"x2": 37.902372,
+"y2": -120.988879,
+"children": [
+],
+"points": [
+[37.791700, -120.991700, "Escalon", "escalon@tempemail.com"], [37.816940, -121.288610, "Lathrop", "lathrop@tempemail.com"], [37.802780, -121.220830, "Manteca", "manteca@tempemail.com"], [37.661390, -120.994440, "Modesto", "modesto@tempemail.com"], [37.473060, -121.132780, "Patterson", "patterson@tempemail.com"], [37.740560, -121.128330, "Ripon", "ripon@tempemail.com"], [37.738060, -121.433890, "Tracy", "tracy@tempemail.com"]
+]
+}
+, {
+"x1": 37.779206,
+"y1": -121.570512,
+"x2": 38.333453,
+"y2": -120.988879,
+"children": [
+],
+"points": [
+[37.791700, -120.991700, "Escalon", "escalon@tempemail.com"], [38.260830, -121.303060, "Galt", "galt@tempemail.com"], [37.816940, -121.288610, "Lathrop", "lathrop@tempemail.com"], [38.128890, -121.280830, "Lodi", "lodi@tempemail.com"], [37.802780, -121.220830, "Manteca", "manteca@tempemail.com"], [37.975560, -121.300830, "Stockton", "stockton@tempemail.com"]
+]
+}
+],
+"points": [
+
+]
+}
+, {
+"x1": 36.581759,
+"y1": -121.218660,
+"x2": 37.567087,
+"y2": -120.184645,
+"children": [
+],
+"points": [
+[37.347780, -120.609170, "Atwater", "atwater@tempemail.com"], [37.117000, -120.267000, "Chowchilla", "chowchilla@tempemail.com"], [36.983000, -120.633000, "Dos Palos", "dospalos@tempemail.com"], [36.858890, -120.456110, "Firebaugh", "firebaugh@tempemail.com"], [37.257780, -120.998890, "Gustine", "gustine@tempemail.com"], [37.386940, -120.723610, "Livingston", "livingston@tempemail.com"], [37.058330, -120.850000, "Los Banos", "losbanos@tempemail.com"], [36.753610, -120.381670, "Mendota", "mendota@tempemail.com"], [37.300000, -120.483000, "Merced", "merced@tempemail.com"], [37.315000, -121.022500, "Newman", "newman@tempemail.com"], [37.473060, -121.132780, "Patterson", "patterson@tempemail.com"], [36.606670, -120.189170, "San Joaquin", "sanjoaquin@tempemail.com"], [37.505830, -120.848890, "Turlock", "turlock@tempemail.com"]
+]
+}
+, {
+"x1": 37.348125,
+"y1": -121.218660,
+"x2": 38.333453,
+"y2": -120.184645,
+"children": [
+],
+"points": [
+[38.068330, -120.539720, "Angels Camp", "angelscamp@tempemail.com"], [37.601390, -120.957220, "Ceres", "ceres@tempemail.com"], [37.791700, -120.991700, "Escalon", "escalon@tempemail.com"], [37.603060, -120.866940, "Hughson", "hughson@tempemail.com"], [37.386940, -120.723610, "Livingston", "livingston@tempemail.com"], [37.661390, -120.994440, "Modesto", "modesto@tempemail.com"], [37.769170, -120.856940, "Oakdale", "oakdale@tempemail.com"], [37.473060, -121.132780, "Patterson", "patterson@tempemail.com"], [37.740560, -121.128330, "Ripon", "ripon@tempemail.com"], [37.731390, -120.943610, "Riverbank", "riverbank@tempemail.com"], [37.984440, -120.381670, "Sonora", "sonora@tempemail.com"], [37.505830, -120.848890, "Turlock", "turlock@tempemail.com"], [37.645000, -120.767500, "Waterford", "waterford@tempemail.com"]
+]
+}
+],
+"points": [
+
+]
+}
+, {
+"x1": 37.944187,
+"y1": -122.022894,
+"x2": 39.695881,
+"y2": -120.184645,
+"children": [
+{
+"x1": 37.944187,
+"y1": -122.022894,
+"x2": 38.929515,
+"y2": -120.988879,
+"children": [
+],
+"points": [
+[38.005000, -121.805830, "Antioch", "antioch@tempemail.com"], [38.898610, -121.074440, "Auburn", "auburn@tempemail.com"], [38.700000, -121.283000, "Citrus Heights", "citrusheights@tempemail.com"], [38.553890, -121.738060, "Davis", "davis@tempemail.com"], [38.449170, -121.826940, "Dixon", "dixon@tempemail.com"], [38.438330, -121.381940, "Elk Grove", "elkgrove@tempemail.com"], [38.672220, -121.157780, "Folsom", "folsom@tempemail.com"], [38.260830, -121.303060, "Galt", "galt@tempemail.com"], [38.161940, -121.609170, "Isleton", "isleton@tempemail.com"], [38.887220, -121.296110, "Lincoln", "lincoln@tempemail.com"], [38.128890, -121.280830, "Lodi", "lodi@tempemail.com"], [38.816390, -121.192780, "Loomis", "loomis@tempemail.com"], [37.997500, -121.712500, "Oakley", "oakley@tempemail.com"], [38.028060, -121.884720, "Pittsburg", "pittsburg@tempemail.com"], [38.589170, -121.302780, "Rancho Cordova", "ranchocordova@tempemail.com"], [38.163890, -121.695830, "Rio Vista", "riovista@tempemail.com"], [38.800000, -121.246670, "Rocklin", "rocklin@tempemail.com"], [38.752500, -121.289440, "Roseville", "roseville@tempemail.com"], [38.555560, -121.468890, "Sacramento", "sacramento@tempemail.com"], [37.975560, -121.300830, "Stockton", "stockton@tempemail.com"], [38.245000, -122.016940, "Suisun City", "suisuncity@tempemail.com"], [38.353890, -121.972780, "Vacaville", "vacaville@tempemail.com"], [38.580560, -121.530280, "West Sacramento", "westsacramento@tempemail.com"], [38.525000, -121.970830, "Winters", "winters@tempemail.com"], [38.678610, -121.773330, "Woodland", "woodland@tempemail.com"]
+]
+}
+, {
+"x1": 38.710553,
+"y1": -122.022894,
+"x2": 39.695881,
+"y2": -120.988879,
+"children": [
+],
+"points": [
+[38.898610, -121.074440, "Auburn", "auburn@tempemail.com"], [39.413890, -121.710280, "Biggs", "biggs@tempemail.com"], [39.214440, -122.009440, "Colusa", "colusa@tempemail.com"], [39.219170, -121.058330, "Grass Valley", "grassvalley@tempemail.com"], [39.363890, -121.693610, "Gridley", "gridley@tempemail.com"], [38.887220, -121.296110, "Lincoln", "lincoln@tempemail.com"], [38.816390, -121.192780, "Loomis", "loomis@tempemail.com"], [39.150000, -121.583000, "Marysville", "marysville@tempemail.com"], [39.261390, -121.018610, "Nevada City", "nevadacity@tempemail.com"], [39.517000, -121.550000, "Oroville", "oroville@tempemail.com"], [38.800000, -121.246670, "Rocklin", "rocklin@tempemail.com"], [38.752500, -121.289440, "Roseville", "roseville@tempemail.com"], [39.010000, -121.423060, "Wheatland", "wheatland@tempemail.com"], [39.134720, -121.626110, "Yuba City", "yubacity@tempemail.com"]
+]
+}
+, {
+"x1": 37.944187,
+"y1": -121.218660,
+"x2": 38.929515,
+"y2": -120.184645,
+"children": [
+],
+"points": [
+[38.419440, -120.824170, "Amador City", "amadorcity@tempemail.com"], [38.068330, -120.539720, "Angels Camp", "angelscamp@tempemail.com"], [38.898610, -121.074440, "Auburn", "auburn@tempemail.com"], [38.672220, -121.157780, "Folsom", "folsom@tempemail.com"], [38.352780, -120.932780, "Ione", "ione@tempemail.com"], [38.348890, -120.774170, "Jackson", "jackson@tempemail.com"], [38.816390, -121.192780, "Loomis", "loomis@tempemail.com"], [38.729720, -120.798610, "Placerville", "placerville@tempemail.com"], [38.481940, -120.844720, "Plymouth", "plymouth@tempemail.com"], [37.984440, -120.381670, "Sonora", "sonora@tempemail.com"], [38.393060, -120.802500, "Sutter Creek", "suttercreek@tempemail.com"]
+]
+}
+, {
+"x1": 38.710553,
+"y1": -121.218660,
+"x2": 39.695881,
+"y2": -120.184645,
+"children": [
+],
+"points": [
+[38.898610, -121.074440, "Auburn", "auburn@tempemail.com"], [39.097220, -120.953890, "Colfax", "colfax@tempemail.com"], [39.219170, -121.058330, "Grass Valley", "grassvalley@tempemail.com"], [38.816390, -121.192780, "Loomis", "loomis@tempemail.com"], [39.676670, -120.243060, "Loyalton", "loyalton@tempemail.com"], [39.261390, -121.018610, "Nevada City", "nevadacity@tempemail.com"], [38.729720, -120.798610, "Placerville", "placerville@tempemail.com"], [39.342220, -120.203610, "Truckee", "truckee@tempemail.com"]
+]
+}
+],
+"points": [
+
+]
+}
+, {
+"x1": 36.581759,
+"y1": -120.593145,
+"x2": 38.333453,
+"y2": -118.754895,
+"children": [
+],
+"points": [
+[38.068330, -120.539720, "Angels Camp", "angelscamp@tempemail.com"], [37.117000, -120.267000, "Chowchilla", "chowchilla@tempemail.com"], [36.825280, -119.703060, "Clovis", "clovis@tempemail.com"], [36.858890, -120.456110, "Firebaugh", "firebaugh@tempemail.com"], [36.633000, -119.683000, "Fowler", "fowler@tempemail.com"], [36.750000, -119.767000, "Fresno", "fresno@tempemail.com"], [36.723610, -120.060000, "Kerman", "kerman@tempemail.com"], [36.961390, -120.060830, "Madera", "madera@tempemail.com"], [37.648610, -118.971940, "Mammoth Lakes", "mammothlakes@tempemail.com"], [36.753610, -120.381670, "Mendota", "mendota@tempemail.com"], [37.300000, -120.483000, "Merced", "merced@tempemail.com"], [36.624440, -119.313610, "Orange Cove", "orangecove@tempemail.com"], [36.611670, -119.526940, "Parlier", "parlier@tempemail.com"], [36.596390, -119.450280, "Reedley", "reedley@tempemail.com"], [36.606670, -120.189170, "San Joaquin", "sanjoaquin@tempemail.com"], [36.708060, -119.555830, "Sanger", "sanger@tempemail.com"], [37.984440, -120.381670, "Sonora", "sonora@tempemail.com"]
+]
+}
+, {
+"x1": 37.944187,
+"y1": -120.593145,
+"x2": 39.695881,
+"y2": -118.754895,
+"children": [
+],
+"points": [
+[38.068330, -120.539720, "Angels Camp", "angelscamp@tempemail.com"], [39.676670, -120.243060, "Loyalton", "loyalton@tempemail.com"], [37.984440, -120.381670, "Sonora", "sonora@tempemail.com"], [38.940000, -119.976940, "South Lake Tahoe", "southlaketahoe@tempemail.com"], [39.342220, -120.203610, "Truckee", "truckee@tempemail.com"]
+]
+}
+],
+"points": [
+
+]
+}
+, {
+"x1": 39.003854,
+"y1": -122.022894,
+"x2": 42.117975,
+"y2": -118.754895,
+"children": [
+],
+"points": [
+[41.487220, -120.542500, "Alturas", "alturas@tempemail.com"], [39.413890, -121.710280, "Biggs", "biggs@tempemail.com"], [39.740000, -121.835560, "Chico", "chico@tempemail.com"], [39.097220, -120.953890, "Colfax", "colfax@tempemail.com"], [39.214440, -122.009440, "Colusa", "colusa@tempemail.com"], [41.965000, -121.918890, "Dorris", "dorris@tempemail.com"], [39.219170, -121.058330, "Grass Valley", "grassvalley@tempemail.com"], [39.363890, -121.693610, "Gridley", "gridley@tempemail.com"], [39.990000, -121.541110, "Inskip", "inskip@tempemail.com"], [39.676670, -120.243060, "Loyalton", "loyalton@tempemail.com"], [39.150000, -121.583000, "Marysville", "marysville@tempemail.com"], [39.261390, -121.018610, "Nevada City", "nevadacity@tempemail.com"], [39.517000, -121.550000, "Oroville", "oroville@tempemail.com"], [39.759720, -121.621390, "Paradise", "paradise@tempemail.com"], [39.810280, -120.469720, "Portola", "portola@tempemail.com"], [40.416390, -120.653060, "Susanville", "susanville@tempemail.com"], [39.342220, -120.203610, "Truckee", "truckee@tempemail.com"], [41.954170, -121.475830, "Tulelake", "tulelake@tempemail.com"], [39.010000, -121.423060, "Wheatland", "wheatland@tempemail.com"], [39.134720, -121.626110, "Yuba City", "yubacity@tempemail.com"]
+]
+}
+],
+"points": [
+
+]
+}
+, {
+"x1": 32.275814,
+"y1": -120.045957,
+"x2": 37.812030,
+"y2": -114.236181,
+"children": [
+{
+"x1": 32.275814,
+"y1": -120.045957,
+"x2": 35.389935,
+"y2": -116.777958,
+"children": [
+{
+"x1": 32.275814,
+"y1": -120.045957,
+"x2": 34.027507,
+"y2": -118.207707,
+"children": [
+],
+"points": [
+[33.340830, -118.327780, "Avalon", "avalon@tempemail.com"], [33.839720, -118.259720, "Carson", "carson@tempemail.com"], [33.896670, -118.225000, "Compton", "compton@tempemail.com"], [34.007780, -118.400830, "Culver City", "culvercity@tempemail.com"], [33.921390, -118.406110, "El Segundo", "elsegundo@tempemail.com"], [33.893610, -118.307780, "Gardena", "gardena@tempemail.com"], [33.917220, -118.348610, "Hawthorne", "hawthorne@tempemail.com"], [33.866390, -118.399720, "Hermosa Beach", "hermosabeach@tempemail.com"], [33.983000, -118.217000, "Huntington Park", "huntingtonpark@tempemail.com"], [33.957500, -118.346110, "Inglewood", "inglewood@tempemail.com"], [33.886670, -118.353610, "Lawndale", "lawndale@tempemail.com"], [33.793330, -118.316110, "Lomita", "lomita@tempemail.com"], [33.888890, -118.405280, "Manhattan Beach", "manhattanbeach@tempemail.com"], [33.786940, -118.396670, "Palos Verdes Estates", "palosverdesestates@tempemail.com"], [33.758330, -118.364170, "Rancho Palos Verdes", "ranchopalosverdes@tempemail.com"], [33.858060, -118.378890, "Redondo Beach", "redondobeach@tempemail.com"], [33.759440, -118.341670, "Rolling Hills", "rollinghills@tempemail.com"], [33.773610, -118.360830, "Rolling Hills Estates", "rollinghillsestates@tempemail.com"], [34.021940, -118.481390, "Santa Monica", "santamonica@tempemail.com"], [33.834720, -118.341390, "Torrance", "torrance@tempemail.com"], [34.001110, -118.211110, "Vernon", "vernon@tempemail.com"]
+]
+}
+, {
+"x1": 33.638242,
+"y1": -120.045957,
+"x2": 35.389935,
+"y2": -118.207707,
+"children": [
+{
+"x1": 33.638242,
+"y1": -120.045957,
+"x2": 34.623569,
+"y2": -119.011941,
+"children": [
+],
+"points": [
+[34.233000, -119.033000, "Camarillo", "camarillo@tempemail.com"], [34.399170, -119.516390, "Carpinteria", "carpinteria@tempemail.com"], [34.440560, -119.813610, "Goleta", "goleta@tempemail.com"], [34.449170, -119.246670, "Ojai", "ojai@tempemail.com"], [34.191390, -119.182500, "Oxnard", "oxnard@tempemail.com"], [34.160280, -119.194440, "Port Hueneme", "porthueneme@tempemail.com"], [34.425830, -119.714170, "Santa Barbara", "santabarbara@tempemail.com"], [34.355830, -119.068330, "Santa Paula", "santapaula@tempemail.com"], [34.275000, -119.227780, "Ventura", "ventura@tempemail.com"]
+]
+}
+, {
+"x1": 34.404608,
+"y1": -120.045957,
+"x2": 35.389935,
+"y2": -119.011941,
+"children": [
+],
+"points": [
+[35.367000, -119.017000, "Bakersfield", "bakersfield@tempemail.com"], [34.440560, -119.813610, "Goleta", "goleta@tempemail.com"], [35.058890, -119.400830, "Maricopa", "maricopa@tempemail.com"], [34.449170, -119.246670, "Ojai", "ojai@tempemail.com"], [34.425830, -119.714170, "Santa Barbara", "santabarbara@tempemail.com"], [35.142500, -119.456390, "Taft", "taft@tempemail.com"]
+]
+}
+, {
+"x1": 33.638242,
+"y1": -119.241723,
+"x2": 34.623569,
+"y2": -118.207707,
+"children": [
+{
+"x1": 33.638242,
+"y1": -119.241723,
+"x2": 34.192489,
+"y2": -118.660089,
+"children": [
+],
+"points": [
+[34.153330, -118.761670, "Agoura Hills", "agourahills@tempemail.com"], [34.138330, -118.660830, "Calabasas", "calabasas@tempemail.com"], [34.167500, -118.660830, "Hidden Hills", "hiddenhills@tempemail.com"], [34.030000, -118.750000, "Malibu", "malibu@tempemail.com"], [34.191390, -119.182500, "Oxnard", "oxnard@tempemail.com"], [34.160280, -119.194440, "Port Hueneme", "porthueneme@tempemail.com"], [34.189440, -118.875000, "Thousand Oaks", "thousandoaks@tempemail.com"], [34.141940, -118.819440, "Westlake Village", "westlakevillage@tempemail.com"]
+]
+}
+, {
+"x1": 34.069323,
+"y1": -119.241723,
+"x2": 34.623569,
+"y2": -118.660089,
+"children": [
+],
+"points": [
+[34.153330, -118.761670, "Agoura Hills", "agourahills@tempemail.com"], [34.138330, -118.660830, "Calabasas", "calabasas@tempemail.com"], [34.233000, -119.033000, "Camarillo", "camarillo@tempemail.com"], [34.401390, -118.917780, "Fillmore", "fillmore@tempemail.com"], [34.167500, -118.660830, "Hidden Hills", "hiddenhills@tempemail.com"], [34.280830, -118.873330, "Moorpark", "moorpark@tempemail.com"], [34.191390, -119.182500, "Oxnard", "oxnard@tempemail.com"], [34.160280, -119.194440, "Port Hueneme", "porthueneme@tempemail.com"], [34.355830, -119.068330, "Santa Paula", "santapaula@tempemail.com"], [34.271110, -118.739440, "Simi Valley", "simivalley@tempemail.com"], [34.189440, -118.875000, "Thousand Oaks", "thousandoaks@tempemail.com"], [34.275000, -119.227780, "Ventura", "ventura@tempemail.com"], [34.141940, -118.819440, "Westlake Village", "westlakevillage@tempemail.com"]
+]
+}
+, {
+"x1": 33.638242,
+"y1": -118.789341,
+"x2": 34.192489,
+"y2": -118.207707,
+"children": [
+{
+"x1": 33.638242,
+"y1": -118.789341,
+"x2": 33.950006,
+"y2": -118.462172,
+"children": [
+],
+"points": [
+
+]
+}
+, {
+"x1": 33.880725,
+"y1": -118.789341,
+"x2": 34.192489,
+"y2": -118.462172,
+"children": [
+],
+"points": [
+[34.153330, -118.761670, "Agoura Hills", "agourahills@tempemail.com"], [34.138330, -118.660830, "Calabasas", "calabasas@tempemail.com"], [34.167500, -118.660830, "Hidden Hills", "hiddenhills@tempemail.com"], [34.030000, -118.750000, "Malibu", "malibu@tempemail.com"], [34.021940, -118.481390, "Santa Monica", "santamonica@tempemail.com"]
+]
+}
+, {
+"x1": 33.638242,
+"y1": -118.534876,
+"x2": 33.950006,
+"y2": -118.207707,
+"children": [
+],
+"points": [
+[33.839720, -118.259720, "Carson", "carson@tempemail.com"], [33.896670, -118.225000, "Compton", "compton@tempemail.com"], [33.921390, -118.406110, "El Segundo", "elsegundo@tempemail.com"], [33.893610, -118.307780, "Gardena", "gardena@tempemail.com"], [33.917220, -118.348610, "Hawthorne", "hawthorne@tempemail.com"], [33.866390, -118.399720, "Hermosa Beach", "hermosabeach@tempemail.com"], [33.886670, -118.353610, "Lawndale", "lawndale@tempemail.com"], [33.793330, -118.316110, "Lomita", "lomita@tempemail.com"], [33.888890, -118.405280, "Manhattan Beach", "manhattanbeach@tempemail.com"], [33.786940, -118.396670, "Palos Verdes Estates", "palosverdesestates@tempemail.com"], [33.758330, -118.364170, "Rancho Palos Verdes", "ranchopalosverdes@tempemail.com"], [33.858060, -118.378890, "Redondo Beach", "redondobeach@tempemail.com"], [33.759440, -118.341670, "Rolling Hills", "rollinghills@tempemail.com"], [33.773610, -118.360830, "Rolling Hills Estates", "rollinghillsestates@tempemail.com"], [33.834720, -118.341390, "Torrance", "torrance@tempemail.com"]
+]
+}
+, {
+"x1": 33.880725,
+"y1": -118.534876,
+"x2": 34.192489,
+"y2": -118.207707,
+"children": [
+],
+"points": [
+[34.073060, -118.399440, "Beverly Hills", "beverlyhills@tempemail.com"], [34.180280, -118.328330, "Burbank", "burbank@tempemail.com"], [33.896670, -118.225000, "Compton", "compton@tempemail.com"], [34.007780, -118.400830, "Culver City", "culvercity@tempemail.com"], [33.921390, -118.406110, "El Segundo", "elsegundo@tempemail.com"], [33.893610, -118.307780, "Gardena", "gardena@tempemail.com"], [34.146110, -118.255000, "Glendale", "glendale@tempemail.com"], [33.917220, -118.348610, "Hawthorne", "hawthorne@tempemail.com"], [33.983000, -118.217000, "Huntington Park", "huntingtonpark@tempemail.com"], [33.957500, -118.346110, "Inglewood", "inglewood@tempemail.com"], [33.886670, -118.353610, "Lawndale", "lawndale@tempemail.com"], [34.050000, -118.250000, "Los Angeles", "losangeles@tempemail.com"], [33.888890, -118.405280, "Manhattan Beach", "manhattanbeach@tempemail.com"], [34.021940, -118.481390, "Santa Monica", "santamonica@tempemail.com"], [34.001110, -118.211110, "Vernon", "vernon@tempemail.com"], [34.087780, -118.372220, "West Hollywood", "westhollywood@tempemail.com"]
+]
+}
+],
+"points": [
+
+]
+}
+, {
+"x1": 34.069323,
+"y1": -118.789341,
+"x2": 34.623569,
+"y2": -118.207707,
+"children": [
+],
+"points": [
+[34.153330, -118.761670, "Agoura Hills", "agourahills@tempemail.com"], [34.073060, -118.399440, "Beverly Hills", "beverlyhills@tempemail.com"], [34.180280, -118.328330, "Burbank", "burbank@tempemail.com"], [34.138330, -118.660830, "Calabasas", "calabasas@tempemail.com"], [34.146110, -118.255000, "Glendale", "glendale@tempemail.com"], [34.167500, -118.660830, "Hidden Hills", "hiddenhills@tempemail.com"], [34.287220, -118.438890, "San Fernando", "sanfernando@tempemail.com"], [34.416670, -118.506390, "Santa Clarita", "santaclarita@tempemail.com"], [34.271110, -118.739440, "Simi Valley", "simivalley@tempemail.com"], [34.087780, -118.372220, "West Hollywood", "westhollywood@tempemail.com"]
+]
+}
+],
+"points": [
+
+]
+}
+, {
+"x1": 34.404608,
+"y1": -119.241723,
+"x2": 35.389935,
+"y2": -118.207707,
+"children": [
+],
+"points": [
+[35.209170, -118.828330, "Arvin", "arvin@tempemail.com"], [35.367000, -119.017000, "Bakersfield", "bakersfield@tempemail.com"], [34.416670, -118.506390, "Santa Clarita", "santaclarita@tempemail.com"], [35.132220, -118.448890, "Tehachapi", "tehachapi@tempemail.com"]
+]
+}
+],
+"points": [
+
+]
+}
+, {
+"x1": 32.275814,
+"y1": -118.616207,
+"x2": 34.027507,
+"y2": -116.777958,
+"children": [
+{
+"x1": 32.275814,
+"y1": -118.616207,
+"x2": 33.261141,
+"y2": -117.582192,
+"children": [
+],
+"points": [
+
+]
+}
+, {
+"x1": 33.042180,
+"y1": -118.616207,
+"x2": 34.027507,
+"y2": -117.582192,
+"children": [
+{
+"x1": 33.042180,
+"y1": -118.616207,
+"x2": 33.596426,
+"y2": -118.034574,
+"children": [
+],
+"points": [
+[33.340830, -118.327780, "Avalon", "avalon@tempemail.com"]
+]
+}
+, {
+"x1": 33.473261,
+"y1": -118.616207,
+"x2": 34.027507,
+"y2": -118.034574,
+"children": [
+{
+"x1": 33.473261,
+"y1": -118.616207,
+"x2": 33.785024,
+"y2": -118.289038,
+"children": [
+],
+"points": [
+[33.758330, -118.364170, "Rancho Palos Verdes", "ranchopalosverdes@tempemail.com"], [33.759440, -118.341670, "Rolling Hills", "rollinghills@tempemail.com"], [33.773610, -118.360830, "Rolling Hills Estates", "rollinghillsestates@tempemail.com"]
+]
+}
+, {
+"x1": 33.715743,
+"y1": -118.616207,
+"x2": 34.027507,
+"y2": -118.289038,
+"children": [
+],
+"points": [
+[34.007780, -118.400830, "Culver City", "culvercity@tempemail.com"], [33.921390, -118.406110, "El Segundo", "elsegundo@tempemail.com"], [33.893610, -118.307780, "Gardena", "gardena@tempemail.com"], [33.917220, -118.348610, "Hawthorne", "hawthorne@tempemail.com"], [33.866390, -118.399720, "Hermosa Beach", "hermosabeach@tempemail.com"], [33.957500, -118.346110, "Inglewood", "inglewood@tempemail.com"], [33.886670, -118.353610, "Lawndale", "lawndale@tempemail.com"], [33.793330, -118.316110, "Lomita", "lomita@tempemail.com"], [33.888890, -118.405280, "Manhattan Beach", "manhattanbeach@tempemail.com"], [33.786940, -118.396670, "Palos Verdes Estates", "palosverdesestates@tempemail.com"], [33.758330, -118.364170, "Rancho Palos Verdes", "ranchopalosverdes@tempemail.com"], [33.858060, -118.378890, "Redondo Beach", "redondobeach@tempemail.com"], [33.759440, -118.341670, "Rolling Hills", "rollinghills@tempemail.com"], [33.773610, -118.360830, "Rolling Hills Estates", "rollinghillsestates@tempemail.com"], [34.021940, -118.481390, "Santa Monica", "santamonica@tempemail.com"], [33.834720, -118.341390, "Torrance", "torrance@tempemail.com"]
+]
+}
+, {
+"x1": 33.473261,
+"y1": -118.361742,
+"x2": 33.785024,
+"y2": -118.034574,
+"children": [
+],
+"points": [
+[33.768330, -118.195560, "Long Beach", "longbeach@tempemail.com"], [33.759440, -118.341670, "Rolling Hills", "rollinghills@tempemail.com"], [33.773610, -118.360830, "Rolling Hills Estates", "rollinghillsestates@tempemail.com"], [33.759170, -118.082500, "Seal Beach", "sealbeach@tempemail.com"]
+]
+}
+, {
+"x1": 33.715743,
+"y1": -118.361742,
+"x2": 34.027507,
+"y2": -118.034574,
+"children": [
+{
+"x1": 33.715743,
+"y1": -118.361742,
+"x2": 33.891111,
+"y2": -118.177710,
+"children": [
+],
+"points": [
+[33.839720, -118.259720, "Carson", "carson@tempemail.com"], [33.886670, -118.353610, "Lawndale", "lawndale@tempemail.com"], [33.793330, -118.316110, "Lomita", "lomita@tempemail.com"], [33.768330, -118.195560, "Long Beach", "longbeach@tempemail.com"], [33.759440, -118.341670, "Rolling Hills", "rollinghills@tempemail.com"], [33.773610, -118.360830, "Rolling Hills Estates", "rollinghillsestates@tempemail.com"], [33.834720, -118.341390, "Torrance", "torrance@tempemail.com"]
+]
+}
+, {
+"x1": 33.852140,
+"y1": -118.361742,
+"x2": 34.027507,
+"y2": -118.177710,
+"children": [
+],
+"points": [
+[33.983000, -118.183000, "Bell", "bell@tempemail.com"], [33.896670, -118.225000, "Compton", "compton@tempemail.com"], [33.964170, -118.182500, "Cudahy", "cudahy@tempemail.com"], [33.893610, -118.307780, "Gardena", "gardena@tempemail.com"], [33.917220, -118.348610, "Hawthorne", "hawthorne@tempemail.com"], [33.983000, -118.217000, "Huntington Park", "huntingtonpark@tempemail.com"], [33.957500, -118.346110, "Inglewood", "inglewood@tempemail.com"], [33.886670, -118.353610, "Lawndale", "lawndale@tempemail.com"], [33.924720, -118.201940, "Lynwood", "lynwood@tempemail.com"], [33.987780, -118.186670, "Maywood", "maywood@tempemail.com"], [33.944170, -118.195000, "South Gate", "southgate@tempemail.com"], [34.001110, -118.211110, "Vernon", "vernon@tempemail.com"]
+]
+}
+, {
+"x1": 33.715743,
+"y1": -118.218606,
+"x2": 33.891111,
+"y2": -118.034574,
+"children": [
+],
+"points": [
+[33.867220, -118.080560, "Artesia", "artesia@tempemail.com"], [33.888060, -118.127500, "Bellflower", "bellflower@tempemail.com"], [33.868330, -118.067500, "Cerritos", "cerritos@tempemail.com"], [33.818330, -118.039170, "Cypress", "cypress@tempemail.com"], [33.828610, -118.073610, "Hawaiian Gardens", "hawaiiangardens@tempemail.com"], [33.849440, -118.043890, "La Palma", "lapalma@tempemail.com"], [33.847500, -118.120000, "Lakewood", "lakewood@tempemail.com"], [33.768330, -118.195560, "Long Beach", "longbeach@tempemail.com"], [33.802220, -118.064440, "Los Alamitos", "losalamitos@tempemail.com"], [33.759170, -118.082500, "Seal Beach", "sealbeach@tempemail.com"], [33.799350, -118.165580, "Signal Hill", "signalhill@tempemail.com"]
+]
+}
+, {
+"x1": 33.852140,
+"y1": -118.218606,
+"x2": 34.027507,
+"y2": -118.034574,
+"children": [
+],
+"points": [
+[33.867220, -118.080560, "Artesia", "artesia@tempemail.com"], [33.983000, -118.183000, "Bell", "bell@tempemail.com"], [33.968060, -118.156110, "Bell Gardens", "bellgardens@tempemail.com"], [33.888060, -118.127500, "Bellflower", "bellflower@tempemail.com"], [33.868330, -118.067500, "Cerritos", "cerritos@tempemail.com"], [34.000560, -118.154720, "Commerce", "commerce@tempemail.com"], [33.964170, -118.182500, "Cudahy", "cudahy@tempemail.com"], [33.938060, -118.130830, "Downey", "downey@tempemail.com"], [33.983000, -118.217000, "Huntington Park", "huntingtonpark@tempemail.com"], [33.924720, -118.201940, "Lynwood", "lynwood@tempemail.com"], [33.987780, -118.186670, "Maywood", "maywood@tempemail.com"], [34.014440, -118.114440, "Montebello", "montebello@tempemail.com"], [33.906940, -118.083330, "Norwalk", "norwalk@tempemail.com"], [33.900000, -118.166670, "Paramount", "paramount@tempemail.com"], [33.988890, -118.089170, "Pico Rivera", "picorivera@tempemail.com"], [33.937500, -118.067220, "Santa Fe Springs", "santafesprings@tempemail.com"], [33.944170, -118.195000, "South Gate", "southgate@tempemail.com"], [34.001110, -118.211110, "Vernon", "vernon@tempemail.com"]
+]
+}
+],
+"points": [
+
+]
+}
+],
+"points": [
+
+]
+}
+, {
+"x1": 33.042180,
+"y1": -118.163825,
+"x2": 33.596426,
+"y2": -117.582192,
+"children": [
+],
+"points": [
+[33.575000, -117.725560, "Aliso Viejo", "alisoviejo@tempemail.com"], [33.467220, -117.698060, "Dana Point", "danapoint@tempemail.com"], [33.531390, -117.769170, "Laguna Beach", "lagunabeach@tempemail.com"], [33.531940, -117.702500, "Laguna Niguel", "lagunaniguel@tempemail.com"], [33.437780, -117.620280, "San Clemente", "sanclemente@tempemail.com"], [33.499440, -117.661670, "San Juan Capistrano", "sanjuancapistrano@tempemail.com"]
+]
+}
+, {
+"x1": 33.473261,
+"y1": -118.163825,
+"x2": 34.027507,
+"y2": -117.582192,
+"children": [
+{
+"x1": 33.473261,
+"y1": -118.163825,
+"x2": 33.785024,
+"y2": -117.836657,
+"children": [
+],
+"points": [
+[33.665000, -117.912220, "Costa Mesa", "costamesa@tempemail.com"], [33.708610, -117.956390, "Fountain Valley", "fountainvalley@tempemail.com"], [33.778890, -117.960280, "Garden Grove", "gardengrove@tempemail.com"], [33.692780, -118.000280, "Huntington Beach", "huntingtonbeach@tempemail.com"], [33.616670, -117.897500, "Newport Beach", "newportbeach@tempemail.com"], [33.740830, -117.881390, "Santa Ana", "santaana@tempemail.com"], [33.759170, -118.082500, "Seal Beach", "sealbeach@tempemail.com"], [33.751390, -117.993890, "Westminster", "westminster@tempemail.com"]
+]
+}
+, {
+"x1": 33.715743,
+"y1": -118.163825,
+"x2": 34.027507,
+"y2": -117.836657,
+"children": [
+{
+"x1": 33.715743,
+"y1": -118.163825,
+"x2": 33.891111,
+"y2": -117.979793,
+"children": [
+],
+"points": [
+[33.867220, -118.080560, "Artesia", "artesia@tempemail.com"], [33.888060, -118.127500, "Bellflower", "bellflower@tempemail.com"], [33.856110, -118.004170, "Buena Park", "buenapark@tempemail.com"], [33.868330, -118.067500, "Cerritos", "cerritos@tempemail.com"], [33.818330, -118.039170, "Cypress", "cypress@tempemail.com"], [33.828610, -118.073610, "Hawaiian Gardens", "hawaiiangardens@tempemail.com"], [33.849440, -118.043890, "La Palma", "lapalma@tempemail.com"], [33.847500, -118.120000, "Lakewood", "lakewood@tempemail.com"], [33.802220, -118.064440, "Los Alamitos", "losalamitos@tempemail.com"], [33.759170, -118.082500, "Seal Beach", "sealbeach@tempemail.com"], [33.802500, -117.994440, "Stanton", "stanton@tempemail.com"], [33.751390, -117.993890, "Westminster", "westminster@tempemail.com"]
+]
+}
+, {
+"x1": 33.852140,
+"y1": -118.163825,
+"x2": 34.027507,
+"y2": -117.979793,
+"children": [
+],
+"points": [
+[33.867220, -118.080560, "Artesia", "artesia@tempemail.com"], [33.968060, -118.156110, "Bell Gardens", "bellgardens@tempemail.com"], [33.888060, -118.127500, "Bellflower", "bellflower@tempemail.com"], [33.856110, -118.004170, "Buena Park", "buenapark@tempemail.com"], [33.868330, -118.067500, "Cerritos", "cerritos@tempemail.com"], [34.000560, -118.154720, "Commerce", "commerce@tempemail.com"], [33.938060, -118.130830, "Downey", "downey@tempemail.com"], [33.902220, -118.009720, "La Mirada", "lamirada@tempemail.com"], [34.014440, -118.114440, "Montebello", "montebello@tempemail.com"], [33.906940, -118.083330, "Norwalk", "norwalk@tempemail.com"], [33.988890, -118.089170, "Pico Rivera", "picorivera@tempemail.com"], [33.937500, -118.067220, "Santa Fe Springs", "santafesprings@tempemail.com"], [33.965560, -118.024440, "Whittier", "whittier@tempemail.com"]
+]
+}
+, {
+"x1": 33.715743,
+"y1": -118.020689,
+"x2": 33.891111,
+"y2": -117.836657,
+"children": [
+],
+"points": [
+[33.836110, -117.889720, "Anaheim", "anaheim@tempemail.com"], [33.856110, -118.004170, "Buena Park", "buenapark@tempemail.com"], [33.880000, -117.928610, "Fullerton", "fullerton@tempemail.com"], [33.778890, -117.960280, "Garden Grove", "gardengrove@tempemail.com"], [33.882500, -117.855000, "Placentia", "placentia@tempemail.com"], [33.740830, -117.881390, "Santa Ana", "santaana@tempemail.com"], [33.802500, -117.994440, "Stanton", "stanton@tempemail.com"], [33.751390, -117.993890, "Westminster", "westminster@tempemail.com"]
+]
+}
+, {
+"x1": 33.852140,
+"y1": -118.020689,
+"x2": 34.027507,
+"y2": -117.836657,
+"children": [
+],
+"points": [
+[33.923330, -117.888890, "Brea", "brea@tempemail.com"], [33.856110, -118.004170, "Buena Park", "buenapark@tempemail.com"], [33.880000, -117.928610, "Fullerton", "fullerton@tempemail.com"], [34.017000, -117.950000, "Industry", "industry@tempemail.com"], [33.931940, -117.946110, "La Habra", "lahabra@tempemail.com"], [33.963890, -117.952780, "La Habra Heights", "lahabraheights@tempemail.com"], [33.902220, -118.009720, "La Mirada", "lamirada@tempemail.com"], [33.882500, -117.855000, "Placentia", "placentia@tempemail.com"]
+]
+}
+],
+"points": [
+
+]
+}
+, {
+"x1": 33.473261,
+"y1": -117.909361,
+"x2": 33.785024,
+"y2": -117.582192,
+"children": [
+],
+"points": [
+[33.575000, -117.725560, "Aliso Viejo", "alisoviejo@tempemail.com"], [33.669440, -117.823060, "Irvine", "irvine@tempemail.com"], [33.531390, -117.769170, "Laguna Beach", "lagunabeach@tempemail.com"], [33.599720, -117.699440, "Laguna Hills", "lagunahills@tempemail.com"], [33.531940, -117.702500, "Laguna Niguel", "lagunaniguel@tempemail.com"], [33.609170, -117.732780, "Laguna Woods", "lagunawoods@tempemail.com"], [33.641670, -117.690830, "Lake Forest", "lakeforest@tempemail.com"], [33.612780, -117.656110, "Mission Viejo", "missionviejo@tempemail.com"], [33.616670, -117.897500, "Newport Beach", "newportbeach@tempemail.com"], [33.641390, -117.594440, "Rancho Santa Margarita", "ranchosantamargarita@tempemail.com"], [33.499440, -117.661670, "San Juan Capistrano", "sanjuancapistrano@tempemail.com"], [33.740830, -117.881390, "Santa Ana", "santaana@tempemail.com"], [33.739720, -117.813610, "Tustin", "tustin@tempemail.com"]
+]
+}
+, {
+"x1": 33.715743,
+"y1": -117.909361,
+"x2": 34.027507,
+"y2": -117.582192,
+"children": [
+],
+"points": [
+[33.836110, -117.889720, "Anaheim", "anaheim@tempemail.com"], [33.923330, -117.888890, "Brea", "brea@tempemail.com"], [34.017780, -117.690000, "Chino", "chino@tempemail.com"], [33.993890, -117.758890, "Chino Hills", "chinohills@tempemail.com"], [34.001670, -117.820830, "Diamond Bar", "diamondbar@tempemail.com"], [33.803060, -117.832500, "Orange", "orange@tempemail.com"], [33.882500, -117.855000, "Placentia", "placentia@tempemail.com"], [33.740830, -117.881390, "Santa Ana", "santaana@tempemail.com"], [33.739720, -117.813610, "Tustin", "tustin@tempemail.com"], [33.816110, -117.811110, "Villa Park", "villapark@tempemail.com"], [33.888551, -117.813231, "Yorba Linda", "yorbalinda@tempemail.com"]
+]
+}
+],
+"points": [
+
+]
+}
+],
+"points": [
+
+]
+}
+, {
+"x1": 32.275814,
+"y1": -117.811973,
+"x2": 33.261141,
+"y2": -116.777958,
+"children": [
+],
+"points": [
+[33.003890, -117.061940, "Calimesa", "calimesa@tempemail.com"], [33.121940, -117.296940, "Carlsbad", "carlsbad@tempemail.com"], [32.627780, -117.048060, "Chula Vista", "chulavista@tempemail.com"], [32.678060, -117.172500, "Coronado", "coronado@tempemail.com"], [32.955000, -117.263890, "Del Mar", "delmar@tempemail.com"], [32.798330, -116.960000, "El Cajon", "elcajon@tempemail.com"], [33.044440, -117.271670, "Encinitas", "encinitas@tempemail.com"], [33.124720, -117.080830, "Escondido", "escondido@tempemail.com"], [32.578330, -117.117220, "Imperial Beach", "imperialbeach@tempemail.com"], [32.771390, -117.022780, "La Mesa", "lamesa@tempemail.com"], [32.741390, -117.031670, "Lemon Grove", "lemongrove@tempemail.com"], [32.678060, -117.099170, "National City", "nationalcity@tempemail.com"], [33.211670, -117.325830, "Oceanside", "oceanside@tempemail.com"], [32.970000, -117.038610, "Poway", "poway@tempemail.com"], [32.715000, -117.162500, "San Diego", "sandiego@tempemail.com"], [33.141940, -117.170280, "San Marcos", "sanmarcos@tempemail.com"], [32.869720, -116.971110, "Santee", "santee@tempemail.com"], [32.995280, -117.260280, "Solana Beach", "solanabeach@tempemail.com"], [33.193610, -117.241110, "Vista", "vista@tempemail.com"]
+]
+}
+, {
+"x1": 33.042180,
+"y1": -117.811973,
+"x2": 34.027507,
+"y2": -116.777958,
+"children": [
+{
+"x1": 33.042180,
+"y1": -117.811973,
+"x2": 33.596426,
+"y2": -117.230340,
+"children": [
+],
+"points": [
+[33.575000, -117.725560, "Aliso Viejo", "alisoviejo@tempemail.com"], [33.121940, -117.296940, "Carlsbad", "carlsbad@tempemail.com"], [33.467220, -117.698060, "Dana Point", "danapoint@tempemail.com"], [33.044440, -117.271670, "Encinitas", "encinitas@tempemail.com"], [33.531390, -117.769170, "Laguna Beach", "lagunabeach@tempemail.com"], [33.531940, -117.702500, "Laguna Niguel", "lagunaniguel@tempemail.com"], [33.211670, -117.325830, "Oceanside", "oceanside@tempemail.com"], [33.437780, -117.620280, "San Clemente", "sanclemente@tempemail.com"], [33.499440, -117.661670, "San Juan Capistrano", "sanjuancapistrano@tempemail.com"], [33.193610, -117.241110, "Vista", "vista@tempemail.com"]
+]
+}
+, {
+"x1": 33.473261,
+"y1": -117.811973,
+"x2": 34.027507,
+"y2": -117.230340,
+"children": [
+],
+"points": [
+[33.575000, -117.725560, "Aliso Viejo", "alisoviejo@tempemail.com"], [33.684170, -117.255560, "Canyon Lake", "canyonlake@tempemail.com"], [34.017780, -117.690000, "Chino", "chino@tempemail.com"], [33.993890, -117.758890, "Chino Hills", "chinohills@tempemail.com"], [33.867000, -117.567000, "Corona", "corona@tempemail.com"], [33.963610, -117.564170, "Eastvale", "eastvale@tempemail.com"], [34.000000, -117.483000, "Jurupa Valley", "jurupavalley@tempemail.com"], [33.531390, -117.769170, "Laguna Beach", "lagunabeach@tempemail.com"], [33.599720, -117.699440, "Laguna Hills", "lagunahills@tempemail.com"], [33.531940, -117.702500, "Laguna Niguel", "lagunaniguel@tempemail.com"], [33.609170, -117.732780, "Laguna Woods", "lagunawoods@tempemail.com"], [33.681390, -117.345280, "Lake Elsinore", "lakeelsinore@tempemail.com"], [33.641670, -117.690830, "Lake Forest", "lakeforest@tempemail.com"], [33.612780, -117.656110, "Mission Viejo", "missionviejo@tempemail.com"], [33.931110, -117.548610, "Norco", "norco@tempemail.com"], [33.641390, -117.594440, "Rancho Santa Margarita", "ranchosantamargarita@tempemail.com"], [33.948060, -117.396110, "Riverside", "riverside@tempemail.com"], [33.499440, -117.661670, "San Juan Capistrano", "sanjuancapistrano@tempemail.com"], [33.816110, -117.811110, "Villa Park", "villapark@tempemail.com"], [33.598890, -117.280000, "Wildomar", "wildomar@tempemail.com"]
+]
+}
+, {
+"x1": 33.042180,
+"y1": -117.359591,
+"x2": 33.596426,
+"y2": -116.777958,
+"children": [
+],
+"points": [
+[33.121940, -117.296940, "Carlsbad", "carlsbad@tempemail.com"], [33.044440, -117.271670, "Encinitas", "encinitas@tempemail.com"], [33.124720, -117.080830, "Escondido", "escondido@tempemail.com"], [33.569440, -117.202500, "Murrieta", "murrieta@tempemail.com"], [33.211670, -117.325830, "Oceanside", "oceanside@tempemail.com"], [33.141940, -117.170280, "San Marcos", "sanmarcos@tempemail.com"], [33.503330, -117.123610, "Temecula", "temecula@tempemail.com"], [33.193610, -117.241110, "Vista", "vista@tempemail.com"]
+]
+}
+, {
+"x1": 33.473261,
+"y1": -117.359591,
+"x2": 34.027507,
+"y2": -116.777958,
+"children": [
+],
+"points": [
+[33.931670, -116.897500, "Banning", "banning@tempemail.com"], [33.929440, -116.977220, "Beaumont", "beaumont@tempemail.com"], [33.684170, -117.255560, "Canyon Lake", "canyonlake@tempemail.com"], [33.747500, -116.971940, "Hemet", "hemet@tempemail.com"], [33.681390, -117.345280, "Lake Elsinore", "lakeelsinore@tempemail.com"], [33.690830, -117.185000, "Menifee", "menifee@tempemail.com"], [33.943060, -117.228330, "Moreno Valley", "morenovalley@tempemail.com"], [33.569440, -117.202500, "Murrieta", "murrieta@tempemail.com"], [33.796670, -117.224440, "Perris", "perris@tempemail.com"], [33.787220, -116.966670, "San Jacinto", "sanjacinto@tempemail.com"], [33.503330, -117.123610, "Temecula", "temecula@tempemail.com"], [33.598890, -117.280000, "Wildomar", "wildomar@tempemail.com"]
+]
+}
+],
+"points": [
+
+]
+}
+],
+"points": [
+
+]
+}
+, {
+"x1": 33.638242,
+"y1": -118.616207,
+"x2": 35.389935,
+"y2": -116.777958,
+"children": [
+{
+"x1": 33.638242,
+"y1": -118.616207,
+"x2": 34.623569,
+"y2": -117.582192,
+"children": [
+{
+"x1": 33.638242,
+"y1": -118.616207,
+"x2": 34.192489,
+"y2": -118.034574,
+"children": [
+{
+"x1": 33.638242,
+"y1": -118.616207,
+"x2": 33.950006,
+"y2": -118.289038,
+"children": [
+],
+"points": [
+[33.921390, -118.406110, "El Segundo", "elsegundo@tempemail.com"], [33.893610, -118.307780, "Gardena", "gardena@tempemail.com"], [33.917220, -118.348610, "Hawthorne", "hawthorne@tempemail.com"], [33.866390, -118.399720, "Hermosa Beach", "hermosabeach@tempemail.com"], [33.886670, -118.353610, "Lawndale", "lawndale@tempemail.com"], [33.793330, -118.316110, "Lomita", "lomita@tempemail.com"], [33.888890, -118.405280, "Manhattan Beach", "manhattanbeach@tempemail.com"], [33.786940, -118.396670, "Palos Verdes Estates", "palosverdesestates@tempemail.com"], [33.758330, -118.364170, "Rancho Palos Verdes", "ranchopalosverdes@tempemail.com"], [33.858060, -118.378890, "Redondo Beach", "redondobeach@tempemail.com"], [33.759440, -118.341670, "Rolling Hills", "rollinghills@tempemail.com"], [33.773610, -118.360830, "Rolling Hills Estates", "rollinghillsestates@tempemail.com"], [33.834720, -118.341390, "Torrance", "torrance@tempemail.com"]
+]
+}
+, {
+"x1": 33.880725,
+"y1": -118.616207,
+"x2": 34.192489,
+"y2": -118.289038,
+"children": [
+],
+"points": [
+[34.073060, -118.399440, "Beverly Hills", "beverlyhills@tempemail.com"], [34.180280, -118.328330, "Burbank", "burbank@tempemail.com"], [34.007780, -118.400830, "Culver City", "culvercity@tempemail.com"], [33.921390, -118.406110, "El Segundo", "elsegundo@tempemail.com"], [33.893610, -118.307780, "Gardena", "gardena@tempemail.com"], [33.917220, -118.348610, "Hawthorne", "hawthorne@tempemail.com"], [33.957500, -118.346110, "Inglewood", "inglewood@tempemail.com"], [33.886670, -118.353610, "Lawndale", "lawndale@tempemail.com"], [33.888890, -118.405280, "Manhattan Beach", "manhattanbeach@tempemail.com"], [34.021940, -118.481390, "Santa Monica", "santamonica@tempemail.com"], [34.087780, -118.372220, "West Hollywood", "westhollywood@tempemail.com"]
+]
+}
+, {
+"x1": 33.638242,
+"y1": -118.361742,
+"x2": 33.950006,
+"y2": -118.034574,
+"children": [
+{
+"x1": 33.638242,
+"y1": -118.361742,
+"x2": 33.813609,
+"y2": -118.177710,
+"children": [
+],
+"points": [
+[33.793330, -118.316110, "Lomita", "lomita@tempemail.com"], [33.768330, -118.195560, "Long Beach", "longbeach@tempemail.com"], [33.759440, -118.341670, "Rolling Hills", "rollinghills@tempemail.com"], [33.773610, -118.360830, "Rolling Hills Estates", "rollinghillsestates@tempemail.com"]
+]
+}
+, {
+"x1": 33.774639,
+"y1": -118.361742,
+"x2": 33.950006,
+"y2": -118.177710,
+"children": [
+],
+"points": [
+[33.839720, -118.259720, "Carson", "carson@tempemail.com"], [33.896670, -118.225000, "Compton", "compton@tempemail.com"], [33.893610, -118.307780, "Gardena", "gardena@tempemail.com"], [33.917220, -118.348610, "Hawthorne", "hawthorne@tempemail.com"], [33.886670, -118.353610, "Lawndale", "lawndale@tempemail.com"], [33.793330, -118.316110, "Lomita", "lomita@tempemail.com"], [33.924720, -118.201940, "Lynwood", "lynwood@tempemail.com"], [33.944170, -118.195000, "South Gate", "southgate@tempemail.com"], [33.834720, -118.341390, "Torrance", "torrance@tempemail.com"]
+]
+}
+, {
+"x1": 33.638242,
+"y1": -118.218606,
+"x2": 33.813609,
+"y2": -118.034574,
+"children": [
+],
+"points": [
+[33.768330, -118.195560, "Long Beach", "longbeach@tempemail.com"], [33.802220, -118.064440, "Los Alamitos", "losalamitos@tempemail.com"], [33.759170, -118.082500, "Seal Beach", "sealbeach@tempemail.com"], [33.799350, -118.165580, "Signal Hill", "signalhill@tempemail.com"]
+]
+}
+, {
+"x1": 33.774639,
+"y1": -118.218606,
+"x2": 33.950006,
+"y2": -118.034574,
+"children": [
+],
+"points": [
+[33.867220, -118.080560, "Artesia", "artesia@tempemail.com"], [33.888060, -118.127500, "Bellflower", "bellflower@tempemail.com"], [33.868330, -118.067500, "Cerritos", "cerritos@tempemail.com"], [33.818330, -118.039170, "Cypress", "cypress@tempemail.com"], [33.938060, -118.130830, "Downey", "downey@tempemail.com"], [33.828610, -118.073610, "Hawaiian Gardens", "hawaiiangardens@tempemail.com"], [33.849440, -118.043890, "La Palma", "lapalma@tempemail.com"], [33.847500, -118.120000, "Lakewood", "lakewood@tempemail.com"], [33.802220, -118.064440, "Los Alamitos", "losalamitos@tempemail.com"], [33.924720, -118.201940, "Lynwood", "lynwood@tempemail.com"], [33.906940, -118.083330, "Norwalk", "norwalk@tempemail.com"], [33.900000, -118.166670, "Paramount", "paramount@tempemail.com"], [33.937500, -118.067220, "Santa Fe Springs", "santafesprings@tempemail.com"], [33.799350, -118.165580, "Signal Hill", "signalhill@tempemail.com"], [33.944170, -118.195000, "South Gate", "southgate@tempemail.com"]
+]
+}
+],
+"points": [
+
+]
+}
+, {
+"x1": 33.880725,
+"y1": -118.361742,
+"x2": 34.192489,
+"y2": -118.034574,
+"children": [
+{
+"x1": 33.880725,
+"y1": -118.361742,
+"x2": 34.056092,
+"y2": -118.177710,
+"children": [
+],
+"points": [
+[33.983000, -118.183000, "Bell", "bell@tempemail.com"], [33.896670, -118.225000, "Compton", "compton@tempemail.com"], [33.964170, -118.182500, "Cudahy", "cudahy@tempemail.com"], [33.893610, -118.307780, "Gardena", "gardena@tempemail.com"], [33.917220, -118.348610, "Hawthorne", "hawthorne@tempemail.com"], [33.983000, -118.217000, "Huntington Park", "huntingtonpark@tempemail.com"], [33.957500, -118.346110, "Inglewood", "inglewood@tempemail.com"], [33.886670, -118.353610, "Lawndale", "lawndale@tempemail.com"], [34.050000, -118.250000, "Los Angeles", "losangeles@tempemail.com"], [33.924720, -118.201940, "Lynwood", "lynwood@tempemail.com"], [33.987780, -118.186670, "Maywood", "maywood@tempemail.com"], [33.944170, -118.195000, "South Gate", "southgate@tempemail.com"], [34.001110, -118.211110, "Vernon", "vernon@tempemail.com"]
+]
+}
+, {
+"x1": 34.017122,
+"y1": -118.361742,
+"x2": 34.192489,
+"y2": -118.177710,
+"children": [
+],
+"points": [
+[34.180280, -118.328330, "Burbank", "burbank@tempemail.com"], [34.146110, -118.255000, "Glendale", "glendale@tempemail.com"], [34.050000, -118.250000, "Los Angeles", "losangeles@tempemail.com"]
+]
+}
+, {
+"x1": 33.880725,
+"y1": -118.218606,
+"x2": 34.056092,
+"y2": -118.034574,
+"children": [
+],
+"points": [
+[33.983000, -118.183000, "Bell", "bell@tempemail.com"], [33.968060, -118.156110, "Bell Gardens", "bellgardens@tempemail.com"], [33.888060, -118.127500, "Bellflower", "bellflower@tempemail.com"], [34.000560, -118.154720, "Commerce", "commerce@tempemail.com"], [33.964170, -118.182500, "Cudahy", "cudahy@tempemail.com"], [33.938060, -118.130830, "Downey", "downey@tempemail.com"], [33.983000, -118.217000, "Huntington Park", "huntingtonpark@tempemail.com"], [33.924720, -118.201940, "Lynwood", "lynwood@tempemail.com"], [33.987780, -118.186670, "Maywood", "maywood@tempemail.com"], [34.014440, -118.114440, "Montebello", "montebello@tempemail.com"], [34.049170, -118.135560, "Monterey Park", "montereypark@tempemail.com"], [33.906940, -118.083330, "Norwalk", "norwalk@tempemail.com"], [33.900000, -118.166670, "Paramount", "paramount@tempemail.com"], [33.988890, -118.089170, "Pico Rivera", "picorivera@tempemail.com"], [33.937500, -118.067220, "Santa Fe Springs", "santafesprings@tempemail.com"], [34.048890, -118.048330, "South El Monte", "southelmonte@tempemail.com"], [33.944170, -118.195000, "South Gate", "southgate@tempemail.com"], [34.001110, -118.211110, "Vernon", "vernon@tempemail.com"]
+]
+}
+, {
+"x1": 34.017122,
+"y1": -118.218606,
+"x2": 34.192489,
+"y2": -118.034574,
+"children": [
+],
+"points": [
+[34.081940, -118.135000, "Alhambra", "alhambra@tempemail.com"], [34.132780, -118.036390, "Arcadia", "arcadia@tempemail.com"], [34.049170, -118.135560, "Monterey Park", "montereypark@tempemail.com"], [34.156110, -118.131940, "Pasadena", "pasadena@tempemail.com"], [34.067000, -118.083000, "Rosemead", "rosemead@tempemail.com"], [34.102817, -118.099692, "San Gabriel", "sangabriel@tempemail.com"], [34.122780, -118.113060, "San Marino", "sanmarino@tempemail.com"], [34.164720, -118.050830, "Sierra Madre", "sierramadre@tempemail.com"], [34.048890, -118.048330, "South El Monte", "southelmonte@tempemail.com"], [34.116110, -118.150280, "South Pasadena", "southpasadena@tempemail.com"], [34.102780, -118.058060, "Temple City", "templecity@tempemail.com"]
+]
+}
+],
+"points": [
+
+]
+}
+],
+"points": [
+
+]
+}
+, {
+"x1": 34.069323,
+"y1": -118.616207,
+"x2": 34.623569,
+"y2": -118.034574,
+"children": [
+],
+"points": [
+[34.081940, -118.135000, "Alhambra", "alhambra@tempemail.com"], [34.132780, -118.036390, "Arcadia", "arcadia@tempemail.com"], [34.073060, -118.399440, "Beverly Hills", "beverlyhills@tempemail.com"], [34.180280, -118.328330, "Burbank", "burbank@tempemail.com"], [34.146110, -118.255000, "Glendale", "glendale@tempemail.com"], [34.207721, -118.206979, "La Canada Flintridge", "lacanadaflintridge@tempemail.com"], [34.581110, -118.100560, "Palmdale", "palmdale@tempemail.com"], [34.156110, -118.131940, "Pasadena", "pasadena@tempemail.com"], [34.287220, -118.438890, "San Fernando", "sanfernando@tempemail.com"], [34.102817, -118.099692, "San Gabriel", "sangabriel@tempemail.com"], [34.122780, -118.113060, "San Marino", "sanmarino@tempemail.com"], [34.416670, -118.506390, "Santa Clarita", "santaclarita@tempemail.com"], [34.164720, -118.050830, "Sierra Madre", "sierramadre@tempemail.com"], [34.116110, -118.150280, "South Pasadena", "southpasadena@tempemail.com"], [34.102780, -118.058060, "Temple City", "templecity@tempemail.com"], [34.087780, -118.372220, "West Hollywood", "westhollywood@tempemail.com"]
+]
+}
+, {
+"x1": 33.638242,
+"y1": -118.163825,
+"x2": 34.192489,
+"y2": -117.582192,
+"children": [
+{
+"x1": 33.638242,
+"y1": -118.163825,
+"x2": 33.950006,
+"y2": -117.836657,
+"children": [
+{
+"x1": 33.638242,
+"y1": -118.163825,
+"x2": 33.813609,
+"y2": -117.979793,
+"children": [
+],
+"points": [
+[33.692780, -118.000280, "Huntington Beach", "huntingtonbeach@tempemail.com"], [33.802220, -118.064440, "Los Alamitos", "losalamitos@tempemail.com"], [33.759170, -118.082500, "Seal Beach", "sealbeach@tempemail.com"], [33.802500, -117.994440, "Stanton", "stanton@tempemail.com"], [33.751390, -117.993890, "Westminster", "westminster@tempemail.com"]
+]
+}
+, {
+"x1": 33.774639,
+"y1": -118.163825,
+"x2": 33.950006,
+"y2": -117.979793,
+"children": [
+],
+"points": [
+[33.867220, -118.080560, "Artesia", "artesia@tempemail.com"], [33.888060, -118.127500, "Bellflower", "bellflower@tempemail.com"], [33.856110, -118.004170, "Buena Park", "buenapark@tempemail.com"], [33.868330, -118.067500, "Cerritos", "cerritos@tempemail.com"], [33.818330, -118.039170, "Cypress", "cypress@tempemail.com"], [33.938060, -118.130830, "Downey", "downey@tempemail.com"], [33.828610, -118.073610, "Hawaiian Gardens", "hawaiiangardens@tempemail.com"], [33.902220, -118.009720, "La Mirada", "lamirada@tempemail.com"], [33.849440, -118.043890, "La Palma", "lapalma@tempemail.com"], [33.847500, -118.120000, "Lakewood", "lakewood@tempemail.com"], [33.802220, -118.064440, "Los Alamitos", "losalamitos@tempemail.com"], [33.906940, -118.083330, "Norwalk", "norwalk@tempemail.com"], [33.937500, -118.067220, "Santa Fe Springs", "santafesprings@tempemail.com"], [33.802500, -117.994440, "Stanton", "stanton@tempemail.com"]
+]
+}
+, {
+"x1": 33.638242,
+"y1": -118.020689,
+"x2": 33.813609,
+"y2": -117.836657,
+"children": [
+],
+"points": [
+[33.665000, -117.912220, "Costa Mesa", "costamesa@tempemail.com"], [33.708610, -117.956390, "Fountain Valley", "fountainvalley@tempemail.com"], [33.778890, -117.960280, "Garden Grove", "gardengrove@tempemail.com"], [33.692780, -118.000280, "Huntington Beach", "huntingtonbeach@tempemail.com"], [33.740830, -117.881390, "Santa Ana", "santaana@tempemail.com"], [33.802500, -117.994440, "Stanton", "stanton@tempemail.com"], [33.751390, -117.993890, "Westminster", "westminster@tempemail.com"]
+]
+}
+, {
+"x1": 33.774639,
+"y1": -118.020689,
+"x2": 33.950006,
+"y2": -117.836657,
+"children": [
+],
+"points": [
+[33.836110, -117.889720, "Anaheim", "anaheim@tempemail.com"], [33.923330, -117.888890, "Brea", "brea@tempemail.com"], [33.856110, -118.004170, "Buena Park", "buenapark@tempemail.com"], [33.880000, -117.928610, "Fullerton", "fullerton@tempemail.com"], [33.778890, -117.960280, "Garden Grove", "gardengrove@tempemail.com"], [33.931940, -117.946110, "La Habra", "lahabra@tempemail.com"], [33.902220, -118.009720, "La Mirada", "lamirada@tempemail.com"], [33.882500, -117.855000, "Placentia", "placentia@tempemail.com"], [33.802500, -117.994440, "Stanton", "stanton@tempemail.com"]
+]
+}
+],
+"points": [
+
+]
+}
+, {
+"x1": 33.880725,
+"y1": -118.163825,
+"x2": 34.192489,
+"y2": -117.836657,
+"children": [
+{
+"x1": 33.880725,
+"y1": -118.163825,
+"x2": 34.056092,
+"y2": -117.979793,
+"children": [
+],
+"points": [
+[33.968060, -118.156110, "Bell Gardens", "bellgardens@tempemail.com"], [33.888060, -118.127500, "Bellflower", "bellflower@tempemail.com"], [34.000560, -118.154720, "Commerce", "commerce@tempemail.com"], [33.938060, -118.130830, "Downey", "downey@tempemail.com"], [33.902220, -118.009720, "La Mirada", "lamirada@tempemail.com"], [34.014440, -118.114440, "Montebello", "montebello@tempemail.com"], [34.049170, -118.135560, "Monterey Park", "montereypark@tempemail.com"], [33.906940, -118.083330, "Norwalk", "norwalk@tempemail.com"], [33.988890, -118.089170, "Pico Rivera", "picorivera@tempemail.com"], [33.937500, -118.067220, "Santa Fe Springs", "santafesprings@tempemail.com"], [34.048890, -118.048330, "South El Monte", "southelmonte@tempemail.com"], [33.965560, -118.024440, "Whittier", "whittier@tempemail.com"]
+]
+}
+, {
+"x1": 34.017122,
+"y1": -118.163825,
+"x2": 34.192489,
+"y2": -117.979793,
+"children": [
+],
+"points": [
+[34.081940, -118.135000, "Alhambra", "alhambra@tempemail.com"], [34.132780, -118.036390, "Arcadia", "arcadia@tempemail.com"], [34.073330, -118.027500, "El Monte", "elmonte@tempemail.com"], [34.145911, -118.000950, "Monrovia", "monrovia@tempemail.com"], [34.049170, -118.135560, "Monterey Park", "montereypark@tempemail.com"], [34.156110, -118.131940, "Pasadena", "pasadena@tempemail.com"], [34.067000, -118.083000, "Rosemead", "rosemead@tempemail.com"], [34.102817, -118.099692, "San Gabriel", "sangabriel@tempemail.com"], [34.122780, -118.113060, "San Marino", "sanmarino@tempemail.com"], [34.164720, -118.050830, "Sierra Madre", "sierramadre@tempemail.com"], [34.048890, -118.048330, "South El Monte", "southelmonte@tempemail.com"], [34.116110, -118.150280, "South Pasadena", "southpasadena@tempemail.com"], [34.102780, -118.058060, "Temple City", "templecity@tempemail.com"]
+]
+}
+, {
+"x1": 33.880725,
+"y1": -118.020689,
+"x2": 34.056092,
+"y2": -117.836657,
+"children": [
+],
+"points": [
+[33.923330, -117.888890, "Brea", "brea@tempemail.com"], [34.017000, -117.950000, "Industry", "industry@tempemail.com"], [33.931940, -117.946110, "La Habra", "lahabra@tempemail.com"], [33.963890, -117.952780, "La Habra Heights", "lahabraheights@tempemail.com"], [33.902220, -118.009720, "La Mirada", "lamirada@tempemail.com"], [34.032500, -117.955280, "La Puente", "lapuente@tempemail.com"], [33.882500, -117.855000, "Placentia", "placentia@tempemail.com"], [34.033000, -117.867000, "Walnut", "walnut@tempemail.com"]
+]
+}
+, {
+"x1": 34.017122,
+"y1": -118.020689,
+"x2": 34.192489,
+"y2": -117.836657,
+"children": [
+],
+"points": [
+[34.130560, -117.906940, "Azusa", "azusa@tempemail.com"], [34.082780, -117.971670, "Baldwin Park", "baldwinpark@tempemail.com"], [34.149440, -117.974440, "Bradbury", "bradbury@tempemail.com"], [34.091670, -117.879170, "Covina", "covina@tempemail.com"], [34.140280, -117.961670, "Duarte", "duarte@tempemail.com"], [34.136110, -117.865280, "Glendora", "glendora@tempemail.com"], [34.117000, -117.967000, "Irwindale", "irwindale@tempemail.com"], [34.032500, -117.955280, "La Puente", "lapuente@tempemail.com"], [34.145911, -118.000950, "Monrovia", "monrovia@tempemail.com"], [34.033000, -117.867000, "Walnut", "walnut@tempemail.com"], [34.056670, -117.918610, "West Covina", "westcovina@tempemail.com"]
+]
+}
+],
+"points": [
+
+]
+}
+, {
+"x1": 33.638242,
+"y1": -117.909361,
+"x2": 33.950006,
+"y2": -117.582192,
+"children": [
+],
+"points": [
+[33.836110, -117.889720, "Anaheim", "anaheim@tempemail.com"], [33.923330, -117.888890, "Brea", "brea@tempemail.com"], [33.669440, -117.823060, "Irvine", "irvine@tempemail.com"], [33.641670, -117.690830, "Lake Forest", "lakeforest@tempemail.com"], [33.803060, -117.832500, "Orange", "orange@tempemail.com"], [33.882500, -117.855000, "Placentia", "placentia@tempemail.com"], [33.641390, -117.594440, "Rancho Santa Margarita", "ranchosantamargarita@tempemail.com"], [33.740830, -117.881390, "Santa Ana", "santaana@tempemail.com"], [33.739720, -117.813610, "Tustin", "tustin@tempemail.com"], [33.816110, -117.811110, "Villa Park", "villapark@tempemail.com"], [33.888551, -117.813231, "Yorba Linda", "yorbalinda@tempemail.com"]
+]
+}
+, {
+"x1": 33.880725,
+"y1": -117.909361,
+"x2": 34.192489,
+"y2": -117.582192,
+"children": [
+],
+"points": [
+[34.130560, -117.906940, "Azusa", "azusa@tempemail.com"], [33.923330, -117.888890, "Brea", "brea@tempemail.com"], [34.017780, -117.690000, "Chino", "chino@tempemail.com"], [33.993890, -117.758890, "Chino Hills", "chinohills@tempemail.com"], [34.110000, -117.719720, "Claremont", "claremont@tempemail.com"], [34.091670, -117.879170, "Covina", "covina@tempemail.com"], [34.001670, -117.820830, "Diamond Bar", "diamondbar@tempemail.com"], [34.136110, -117.865280, "Glendora", "glendora@tempemail.com"], [34.114440, -117.771390, "La Verne", "laverne@tempemail.com"], [34.077500, -117.689720, "Montclair", "montclair@tempemail.com"], [34.052780, -117.627780, "Ontario", "ontario@tempemail.com"], [33.882500, -117.855000, "Placentia", "placentia@tempemail.com"], [34.060830, -117.755830, "Pomona", "pomona@tempemail.com"], [34.102780, -117.816110, "San Dimas", "sandimas@tempemail.com"], [34.100000, -117.650000, "Upland", "upland@tempemail.com"], [34.033000, -117.867000, "Walnut", "walnut@tempemail.com"], [33.888551, -117.813231, "Yorba Linda", "yorbalinda@tempemail.com"]
+]
+}
+],
+"points": [
+
+]
+}
+, {
+"x1": 34.069323,
+"y1": -118.163825,
+"x2": 34.623569,
+"y2": -117.582192,
+"children": [
+],
+"points": [
+[34.081940, -118.135000, "Alhambra", "alhambra@tempemail.com"], [34.132780, -118.036390, "Arcadia", "arcadia@tempemail.com"], [34.130560, -117.906940, "Azusa", "azusa@tempemail.com"], [34.082780, -117.971670, "Baldwin Park", "baldwinpark@tempemail.com"], [34.149440, -117.974440, "Bradbury", "bradbury@tempemail.com"], [34.110000, -117.719720, "Claremont", "claremont@tempemail.com"], [34.091670, -117.879170, "Covina", "covina@tempemail.com"], [34.140280, -117.961670, "Duarte", "duarte@tempemail.com"], [34.073330, -118.027500, "El Monte", "elmonte@tempemail.com"], [34.136110, -117.865280, "Glendora", "glendora@tempemail.com"], [34.117000, -117.967000, "Irwindale", "irwindale@tempemail.com"], [34.114440, -117.771390, "La Verne", "laverne@tempemail.com"], [34.145911, -118.000950, "Monrovia", "monrovia@tempemail.com"], [34.077500, -117.689720, "Montclair", "montclair@tempemail.com"], [34.581110, -118.100560, "Palmdale", "palmdale@tempemail.com"], [34.156110, -118.131940, "Pasadena", "pasadena@tempemail.com"], [34.102780, -117.816110, "San Dimas", "sandimas@tempemail.com"], [34.102817, -118.099692, "San Gabriel", "sangabriel@tempemail.com"], [34.122780, -118.113060, "San Marino", "sanmarino@tempemail.com"], [34.164720, -118.050830, "Sierra Madre", "sierramadre@tempemail.com"], [34.116110, -118.150280, "South Pasadena", "southpasadena@tempemail.com"], [34.102780, -118.058060, "Temple City", "templecity@tempemail.com"], [34.100000, -117.650000, "Upland", "upland@tempemail.com"]
+]
+}
+],
+"points": [
+
+]
+}
+, {
+"x1": 34.404608,
+"y1": -118.616207,
+"x2": 35.389935,
+"y2": -117.582192,
+"children": [
+],
+"points": [
+[35.125830, -117.985830, "California City", "californiacity@tempemail.com"], [34.683000, -118.150000, "Lancaster", "lancaster@tempemail.com"], [34.581110, -118.100560, "Palmdale", "palmdale@tempemail.com"], [34.416670, -118.506390, "Santa Clarita", "santaclarita@tempemail.com"], [35.132220, -118.448890, "Tehachapi", "tehachapi@tempemail.com"]
+]
+}
+, {
+"x1": 33.638242,
+"y1": -117.811973,
+"x2": 34.623569,
+"y2": -116.777958,
+"children": [
+{
+"x1": 33.638242,
+"y1": -117.811973,
+"x2": 34.192489,
+"y2": -117.230340,
+"children": [
+],
+"points": [
+[33.684170, -117.255560, "Canyon Lake", "canyonlake@tempemail.com"], [34.017780, -117.690000, "Chino", "chino@tempemail.com"], [33.993890, -117.758890, "Chino Hills", "chinohills@tempemail.com"], [34.110000, -117.719720, "Claremont", "claremont@tempemail.com"], [34.073890, -117.313610, "Colton", "colton@tempemail.com"], [33.867000, -117.567000, "Corona", "corona@tempemail.com"], [33.963610, -117.564170, "Eastvale", "eastvale@tempemail.com"], [34.100000, -117.467000, "Fontana", "fontana@tempemail.com"], [34.033890, -117.313610, "Grand Terrace", "grandterrace@tempemail.com"], [34.000000, -117.483000, "Jurupa Valley", "jurupavalley@tempemail.com"], [34.114440, -117.771390, "La Verne", "laverne@tempemail.com"], [33.681390, -117.345280, "Lake Elsinore", "lakeelsinore@tempemail.com"], [33.641670, -117.690830, "Lake Forest", "lakeforest@tempemail.com"], [34.048330, -117.250560, "Loma Linda", "lomalinda@tempemail.com"], [34.077500, -117.689720, "Montclair", "montclair@tempemail.com"], [33.931110, -117.548610, "Norco", "norco@tempemail.com"], [34.052780, -117.627780, "Ontario", "ontario@tempemail.com"], [34.060830, -117.755830, "Pomona", "pomona@tempemail.com"], [34.123330, -117.579440, "Rancho Cucamonga", "ranchocucamonga@tempemail.com"], [33.641390, -117.594440, "Rancho Santa Margarita", "ranchosantamargarita@tempemail.com"], [34.111390, -117.382500, "Rialto", "rialto@tempemail.com"], [33.948060, -117.396110, "Riverside", "riverside@tempemail.com"], [34.100000, -117.300000, "San Bernardino", "sanbernardino@tempemail.com"], [34.100000, -117.650000, "Upland", "upland@tempemail.com"], [33.816110, -117.811110, "Villa Park", "villapark@tempemail.com"]
+]
+}
+, {
+"x1": 34.069323,
+"y1": -117.811973,
+"x2": 34.623569,
+"y2": -117.230340,
+"children": [
+],
+"points": [
+[34.576110, -117.432780, "Adelanto", "adelanto@tempemail.com"], [34.110000, -117.719720, "Claremont", "claremont@tempemail.com"], [34.073890, -117.313610, "Colton", "colton@tempemail.com"], [34.100000, -117.467000, "Fontana", "fontana@tempemail.com"], [34.412780, -117.306110, "Hesperia", "hesperia@tempemail.com"], [34.114440, -117.771390, "La Verne", "laverne@tempemail.com"], [34.077500, -117.689720, "Montclair", "montclair@tempemail.com"], [34.123330, -117.579440, "Rancho Cucamonga", "ranchocucamonga@tempemail.com"], [34.111390, -117.382500, "Rialto", "rialto@tempemail.com"], [34.100000, -117.300000, "San Bernardino", "sanbernardino@tempemail.com"], [34.100000, -117.650000, "Upland", "upland@tempemail.com"], [34.536110, -117.291110, "Victorville", "victorville@tempemail.com"]
+]
+}
+, {
+"x1": 33.638242,
+"y1": -117.359591,
+"x2": 34.192489,
+"y2": -116.777958,
+"children": [
+],
+"points": [
+[33.931670, -116.897500, "Banning", "banning@tempemail.com"], [33.929440, -116.977220, "Beaumont", "beaumont@tempemail.com"], [33.684170, -117.255560, "Canyon Lake", "canyonlake@tempemail.com"], [34.073890, -117.313610, "Colton", "colton@tempemail.com"], [34.033890, -117.313610, "Grand Terrace", "grandterrace@tempemail.com"], [33.747500, -116.971940, "Hemet", "hemet@tempemail.com"], [34.128330, -117.208610, "Highland", "highland@tempemail.com"], [33.681390, -117.345280, "Lake Elsinore", "lakeelsinore@tempemail.com"], [34.048330, -117.250560, "Loma Linda", "lomalinda@tempemail.com"], [33.690830, -117.185000, "Menifee", "menifee@tempemail.com"], [33.943060, -117.228330, "Moreno Valley", "morenovalley@tempemail.com"], [33.796670, -117.224440, "Perris", "perris@tempemail.com"], [34.054720, -117.182500, "Redlands", "redlands@tempemail.com"], [34.100000, -117.300000, "San Bernardino", "sanbernardino@tempemail.com"], [33.787220, -116.966670, "San Jacinto", "sanjacinto@tempemail.com"], [34.033610, -117.043060, "Yucaipa", "yucaipa@tempemail.com"]
+]
+}
+, {
+"x1": 34.069323,
+"y1": -117.359591,
+"x2": 34.623569,
+"y2": -116.777958,
+"children": [
+],
+"points": [
+[34.500830, -117.185830, "Apple Valley", "applevalley@tempemail.com"], [34.243890, -116.911390, "Big Bear Lake", "bigbearlake@tempemail.com"], [34.073890, -117.313610, "Colton", "colton@tempemail.com"], [34.412780, -117.306110, "Hesperia", "hesperia@tempemail.com"], [34.128330, -117.208610, "Highland", "highland@tempemail.com"], [34.100000, -117.300000, "San Bernardino", "sanbernardino@tempemail.com"], [34.536110, -117.291110, "Victorville", "victorville@tempemail.com"]
+]
+}
+],
+"points": [
+
+]
+}
+, {
+"x1": 34.404608,
+"y1": -117.811973,
+"x2": 35.389935,
+"y2": -116.777958,
+"children": [
+],
+"points": [
+[34.576110, -117.432780, "Adelanto", "adelanto@tempemail.com"], [34.500830, -117.185830, "Apple Valley", "applevalley@tempemail.com"], [34.900000, -117.017000, "Barstow", "barstow@tempemail.com"], [34.412780, -117.306110, "Hesperia", "hesperia@tempemail.com"], [34.536110, -117.291110, "Victorville", "victorville@tempemail.com"]
+]
+}
+],
+"points": [
+
+]
+}
+],
+"points": [
+
+]
+}
+, {
+"x1": 34.697908,
+"y1": -120.045957,
+"x2": 37.812030,
+"y2": -116.777958,
+"children": [
+{
+"x1": 34.697908,
+"y1": -120.045957,
+"x2": 36.449602,
+"y2": -118.207707,
+"children": [
+],
+"points": [
+[35.209170, -118.828330, "Arvin", "arvin@tempemail.com"], [35.367000, -119.017000, "Bakersfield", "bakersfield@tempemail.com"], [36.098060, -119.560280, "Corcoran", "corcoran@tempemail.com"], [35.768890, -119.246940, "Delano", "delano@tempemail.com"], [36.294170, -119.142780, "Exeter", "exeter@tempemail.com"], [36.301110, -119.207500, "Farmersville", "farmersville@tempemail.com"], [36.327500, -119.645560, "Hanford", "hanford@tempemail.com"], [36.300830, -119.782780, "Lemoore", "lemoore@tempemail.com"], [36.200000, -119.083000, "Lindsay", "lindsay@tempemail.com"], [35.058890, -119.400830, "Maricopa", "maricopa@tempemail.com"], [35.678060, -119.229170, "McFarland", "mcfarland@tempemail.com"], [36.068610, -119.027500, "Porterville", "porterville@tempemail.com"], [35.500560, -119.271670, "Shafter", "shafter@tempemail.com"], [35.142500, -119.456390, "Taft", "taft@tempemail.com"], [35.132220, -118.448890, "Tehachapi", "tehachapi@tempemail.com"], [36.206670, -119.342500, "Tulare", "tulare@tempemail.com"], [36.317000, -119.300000, "Visalia", "visalia@tempemail.com"], [35.594170, -119.340830, "Wasco", "wasco@tempemail.com"], [36.416390, -119.099440, "Woodlake", "woodlake@tempemail.com"]
+]
+}
+, {
+"x1": 36.060336,
+"y1": -120.045957,
+"x2": 37.812030,
+"y2": -118.207707,
+"children": [
+],
+"points": [
+[37.363500, -118.395100, "Bishop", "bishop@tempemail.com"], [36.825280, -119.703060, "Clovis", "clovis@tempemail.com"], [36.098060, -119.560280, "Corcoran", "corcoran@tempemail.com"], [36.545000, -119.389170, "Dinuba", "dinuba@tempemail.com"], [36.294170, -119.142780, "Exeter", "exeter@tempemail.com"], [36.301110, -119.207500, "Farmersville", "farmersville@tempemail.com"], [36.633000, -119.683000, "Fowler", "fowler@tempemail.com"], [36.750000, -119.767000, "Fresno", "fresno@tempemail.com"], [36.327500, -119.645560, "Hanford", "hanford@tempemail.com"], [36.513890, -119.553890, "Kingsburg", "kingsburg@tempemail.com"], [36.300830, -119.782780, "Lemoore", "lemoore@tempemail.com"], [36.200000, -119.083000, "Lindsay", "lindsay@tempemail.com"], [37.648610, -118.971940, "Mammoth Lakes", "mammothlakes@tempemail.com"], [36.624440, -119.313610, "Orange Cove", "orangecove@tempemail.com"], [36.611670, -119.526940, "Parlier", "parlier@tempemail.com"], [36.068610, -119.027500, "Porterville", "porterville@tempemail.com"], [36.596390, -119.450280, "Reedley", "reedley@tempemail.com"], [36.708060, -119.555830, "Sanger", "sanger@tempemail.com"], [36.570830, -119.611940, "Selma", "selma@tempemail.com"], [36.206670, -119.342500, "Tulare", "tulare@tempemail.com"], [36.317000, -119.300000, "Visalia", "visalia@tempemail.com"], [36.416390, -119.099440, "Woodlake", "woodlake@tempemail.com"]
+]
+}
+, {
+"x1": 34.697908,
+"y1": -118.616207,
+"x2": 36.449602,
+"y2": -116.777958,
+"children": [
+],
+"points": [
+[34.900000, -117.017000, "Barstow", "barstow@tempemail.com"], [35.125830, -117.985830, "California City", "californiacity@tempemail.com"], [35.622500, -117.670830, "Ridgecrest", "ridgecrest@tempemail.com"], [35.132220, -118.448890, "Tehachapi", "tehachapi@tempemail.com"]
+]
+}
+, {
+"x1": 36.060336,
+"y1": -118.616207,
+"x2": 37.812030,
+"y2": -116.777958,
+"children": [
+],
+"points": [
+[37.363500, -118.395100, "Bishop", "bishop@tempemail.com"]
+]
+}
+],
+"points": [
+
+]
+}
+, {
+"x1": 32.275814,
+"y1": -117.504180,
+"x2": 35.389935,
+"y2": -114.236181,
+"children": [
+{
+"x1": 32.275814,
+"y1": -117.504180,
+"x2": 34.027507,
+"y2": -115.665930,
+"children": [
+{
+"x1": 32.275814,
+"y1": -117.504180,
+"x2": 33.261141,
+"y2": -116.470165,
+"children": [
+],
+"points": [
+[33.003890, -117.061940, "Calimesa", "calimesa@tempemail.com"], [33.121940, -117.296940, "Carlsbad", "carlsbad@tempemail.com"], [32.627780, -117.048060, "Chula Vista", "chulavista@tempemail.com"], [32.678060, -117.172500, "Coronado", "coronado@tempemail.com"], [32.955000, -117.263890, "Del Mar", "delmar@tempemail.com"], [32.798330, -116.960000, "El Cajon", "elcajon@tempemail.com"], [33.044440, -117.271670, "Encinitas", "encinitas@tempemail.com"], [33.124720, -117.080830, "Escondido", "escondido@tempemail.com"], [32.578330, -117.117220, "Imperial Beach", "imperialbeach@tempemail.com"], [32.771390, -117.022780, "La Mesa", "lamesa@tempemail.com"], [32.741390, -117.031670, "Lemon Grove", "lemongrove@tempemail.com"], [32.678060, -117.099170, "National City", "nationalcity@tempemail.com"], [33.211670, -117.325830, "Oceanside", "oceanside@tempemail.com"], [32.970000, -117.038610, "Poway", "poway@tempemail.com"], [32.715000, -117.162500, "San Diego", "sandiego@tempemail.com"], [33.141940, -117.170280, "San Marcos", "sanmarcos@tempemail.com"], [32.869720, -116.971110, "Santee", "santee@tempemail.com"], [32.995280, -117.260280, "Solana Beach", "solanabeach@tempemail.com"], [33.193610, -117.241110, "Vista", "vista@tempemail.com"]
+]
+}
+, {
+"x1": 33.042180,
+"y1": -117.504180,
+"x2": 34.027507,
+"y2": -116.470165,
+"children": [
+],
+"points": [
+[33.931670, -116.897500, "Banning", "banning@tempemail.com"], [33.929440, -116.977220, "Beaumont", "beaumont@tempemail.com"], [33.684170, -117.255560, "Canyon Lake", "canyonlake@tempemail.com"], [33.121940, -117.296940, "Carlsbad", "carlsbad@tempemail.com"], [33.961110, -116.508060, "Desert Hot Springs", "deserthotsprings@tempemail.com"], [33.044440, -117.271670, "Encinitas", "encinitas@tempemail.com"], [33.124720, -117.080830, "Escondido", "escondido@tempemail.com"], [33.747500, -116.971940, "Hemet", "hemet@tempemail.com"], [34.000000, -117.483000, "Jurupa Valley", "jurupavalley@tempemail.com"], [33.681390, -117.345280, "Lake Elsinore", "lakeelsinore@tempemail.com"], [33.690830, -117.185000, "Menifee", "menifee@tempemail.com"], [33.943060, -117.228330, "Moreno Valley", "morenovalley@tempemail.com"], [33.569440, -117.202500, "Murrieta", "murrieta@tempemail.com"], [33.211670, -117.325830, "Oceanside", "oceanside@tempemail.com"], [33.830280, -116.545280, "Palm Springs", "palmsprings@tempemail.com"], [33.796670, -117.224440, "Perris", "perris@tempemail.com"], [33.948060, -117.396110, "Riverside", "riverside@tempemail.com"], [33.787220, -116.966670, "San Jacinto", "sanjacinto@tempemail.com"], [33.141940, -117.170280, "San Marcos", "sanmarcos@tempemail.com"], [33.503330, -117.123610, "Temecula", "temecula@tempemail.com"], [33.193610, -117.241110, "Vista", "vista@tempemail.com"], [33.598890, -117.280000, "Wildomar", "wildomar@tempemail.com"]
+]
+}
+, {
+"x1": 32.275814,
+"y1": -116.699946,
+"x2": 33.261141,
+"y2": -115.665930,
+"children": [
+],
+"points": [
+
+]
+}
+, {
+"x1": 33.042180,
+"y1": -116.699946,
+"x2": 34.027507,
+"y2": -115.665930,
+"children": [
+],
+"points": [
+[33.779720, -116.465280, "Cathedral City", "cathedralcity@tempemail.com"], [33.679440, -116.174440, "Coachella", "coachella@tempemail.com"], [33.961110, -116.508060, "Desert Hot Springs", "deserthotsprings@tempemail.com"], [33.718610, -116.308330, "Indian Wells", "indianwells@tempemail.com"], [33.720560, -116.215560, "Indio", "indio@tempemail.com"], [33.675280, -116.297500, "La Quinta", "laquinta@tempemail.com"], [33.722220, -116.374440, "Palm Desert", "palmdesert@tempemail.com"], [33.830280, -116.545280, "Palm Springs", "palmsprings@tempemail.com"], [33.769170, -116.421110, "Rancho Mirage", "ranchomirage@tempemail.com"]
+]
+}
+],
+"points": [
+
+]
+}
+, {
+"x1": 33.638242,
+"y1": -117.504180,
+"x2": 35.389935,
+"y2": -115.665930,
+"children": [
+{
+"x1": 33.638242,
+"y1": -117.504180,
+"x2": 34.623569,
+"y2": -116.470165,
+"children": [
+{
+"x1": 33.638242,
+"y1": -117.504180,
+"x2": 34.192489,
+"y2": -116.922546,
+"children": [
+],
+"points": [
+[33.929440, -116.977220, "Beaumont", "beaumont@tempemail.com"], [33.684170, -117.255560, "Canyon Lake", "canyonlake@tempemail.com"], [34.073890, -117.313610, "Colton", "colton@tempemail.com"], [34.100000, -117.467000, "Fontana", "fontana@tempemail.com"], [34.033890, -117.313610, "Grand Terrace", "grandterrace@tempemail.com"], [33.747500, -116.971940, "Hemet", "hemet@tempemail.com"], [34.128330, -117.208610, "Highland", "highland@tempemail.com"], [34.000000, -117.483000, "Jurupa Valley", "jurupavalley@tempemail.com"], [33.681390, -117.345280, "Lake Elsinore", "lakeelsinore@tempemail.com"], [34.048330, -117.250560, "Loma Linda", "lomalinda@tempemail.com"], [33.690830, -117.185000, "Menifee", "menifee@tempemail.com"], [33.943060, -117.228330, "Moreno Valley", "morenovalley@tempemail.com"], [33.796670, -117.224440, "Perris", "perris@tempemail.com"], [34.054720, -117.182500, "Redlands", "redlands@tempemail.com"], [34.111390, -117.382500, "Rialto", "rialto@tempemail.com"], [33.948060, -117.396110, "Riverside", "riverside@tempemail.com"], [34.100000, -117.300000, "San Bernardino", "sanbernardino@tempemail.com"], [33.787220, -116.966670, "San Jacinto", "sanjacinto@tempemail.com"], [34.033610, -117.043060, "Yucaipa", "yucaipa@tempemail.com"]
+]
+}
+, {
+"x1": 34.069323,
+"y1": -117.504180,
+"x2": 34.623569,
+"y2": -116.922546,
+"children": [
+],
+"points": [
+[34.576110, -117.432780, "Adelanto", "adelanto@tempemail.com"], [34.500830, -117.185830, "Apple Valley", "applevalley@tempemail.com"], [34.073890, -117.313610, "Colton", "colton@tempemail.com"], [34.100000, -117.467000, "Fontana", "fontana@tempemail.com"], [34.412780, -117.306110, "Hesperia", "hesperia@tempemail.com"], [34.128330, -117.208610, "Highland", "highland@tempemail.com"], [34.111390, -117.382500, "Rialto", "rialto@tempemail.com"], [34.100000, -117.300000, "San Bernardino", "sanbernardino@tempemail.com"], [34.536110, -117.291110, "Victorville", "victorville@tempemail.com"]
+]
+}
+, {
+"x1": 33.638242,
+"y1": -117.051798,
+"x2": 34.192489,
+"y2": -116.470165,
+"children": [
+],
+"points": [
+[33.931670, -116.897500, "Banning", "banning@tempemail.com"], [33.929440, -116.977220, "Beaumont", "beaumont@tempemail.com"], [33.961110, -116.508060, "Desert Hot Springs", "deserthotsprings@tempemail.com"], [33.747500, -116.971940, "Hemet", "hemet@tempemail.com"], [33.830280, -116.545280, "Palm Springs", "palmsprings@tempemail.com"], [33.787220, -116.966670, "San Jacinto", "sanjacinto@tempemail.com"], [34.033610, -117.043060, "Yucaipa", "yucaipa@tempemail.com"]
+]
+}
+, {
+"x1": 34.069323,
+"y1": -117.051798,
+"x2": 34.623569,
+"y2": -116.470165,
+"children": [
+],
+"points": [
+[34.243890, -116.911390, "Big Bear Lake", "bigbearlake@tempemail.com"]
+]
+}
+],
+"points": [
+
+]
+}
+, {
+"x1": 34.404608,
+"y1": -117.504180,
+"x2": 35.389935,
+"y2": -116.470165,
+"children": [
+],
+"points": [
+[34.576110, -117.432780, "Adelanto", "adelanto@tempemail.com"], [34.500830, -117.185830, "Apple Valley", "applevalley@tempemail.com"], [34.900000, -117.017000, "Barstow", "barstow@tempemail.com"], [34.412780, -117.306110, "Hesperia", "hesperia@tempemail.com"], [34.536110, -117.291110, "Victorville", "victorville@tempemail.com"]
+]
+}
+, {
+"x1": 33.638242,
+"y1": -116.699946,
+"x2": 34.623569,
+"y2": -115.665930,
+"children": [
+],
+"points": [
+[33.779720, -116.465280, "Cathedral City", "cathedralcity@tempemail.com"], [33.679440, -116.174440, "Coachella", "coachella@tempemail.com"], [33.961110, -116.508060, "Desert Hot Springs", "deserthotsprings@tempemail.com"], [33.718610, -116.308330, "Indian Wells", "indianwells@tempemail.com"], [33.720560, -116.215560, "Indio", "indio@tempemail.com"], [33.675280, -116.297500, "La Quinta", "laquinta@tempemail.com"], [33.722220, -116.374440, "Palm Desert", "palmdesert@tempemail.com"], [33.830280, -116.545280, "Palm Springs", "palmsprings@tempemail.com"], [33.769170, -116.421110, "Rancho Mirage", "ranchomirage@tempemail.com"], [34.135560, -116.054170, "Twentynine Palms", "twentyninepalms@tempemail.com"], [34.114170, -116.432220, "Yucca Valley", "yuccavalley@tempemail.com"]
+]
+}
+, {
+"x1": 34.404608,
+"y1": -116.699946,
+"x2": 35.389935,
+"y2": -115.665930,
+"children": [
+],
+"points": [
+
+]
+}
+],
+"points": [
+
+]
+}
+, {
+"x1": 32.275814,
+"y1": -116.074430,
+"x2": 34.027507,
+"y2": -114.236181,
+"children": [
+],
+"points": [
+[33.610280, -114.596390, "Blythe", "blythe@tempemail.com"], [32.978610, -115.530280, "Brawley", "brawley@tempemail.com"], [32.678890, -115.498890, "Calexico", "calexico@tempemail.com"], [33.125560, -115.514170, "Calipatria", "calipatria@tempemail.com"], [32.800000, -115.567000, "El Centro", "elcentro@tempemail.com"], [32.811110, -115.380280, "Holtville", "holtville@tempemail.com"], [32.847500, -115.569440, "Imperial", "imperial@tempemail.com"], [33.037220, -115.621390, "Westmorland", "westmorland@tempemail.com"]
+]
+}
+, {
+"x1": 33.638242,
+"y1": -116.074430,
+"x2": 35.389935,
+"y2": -114.236181,
+"children": [
+],
+"points": [
+[34.848060, -114.614170, "Needles", "needles@tempemail.com"], [34.135560, -116.054170, "Twentynine Palms", "twentyninepalms@tempemail.com"]
+]
+}
+],
+"points": [
+
+]
+}
+, {
+"x1": 34.697908,
+"y1": -117.504180,
+"x2": 37.812030,
+"y2": -114.236181,
+"children": [
+],
+"points": [
+[34.900000, -117.017000, "Barstow", "barstow@tempemail.com"], [34.848060, -114.614170, "Needles", "needles@tempemail.com"]
+]
+}
+],
+"points": [
+
+]
+}
+, {
+"x1": 36.581759,
+"y1": -120.045957,
+"x2": 42.117975,
+"y2": -114.236181,
+"children": [
+],
+"points": [
+[37.363500, -118.395100, "Bishop", "bishop@tempemail.com"], [36.825280, -119.703060, "Clovis", "clovis@tempemail.com"], [36.633000, -119.683000, "Fowler", "fowler@tempemail.com"], [36.750000, -119.767000, "Fresno", "fresno@tempemail.com"], [37.648610, -118.971940, "Mammoth Lakes", "mammothlakes@tempemail.com"], [36.624440, -119.313610, "Orange Cove", "orangecove@tempemail.com"], [36.611670, -119.526940, "Parlier", "parlier@tempemail.com"], [36.596390, -119.450280, "Reedley", "reedley@tempemail.com"], [36.708060, -119.555830, "Sanger", "sanger@tempemail.com"], [38.940000, -119.976940, "South Lake Tahoe", "southlaketahoe@tempemail.com"]
+]
+}
+],
+"points": [
+
+]
+}

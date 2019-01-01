@@ -1,0 +1,482 @@
+city,coordinates,email,county
+Adelanto,34.57611; -117.43278,adelanto@tempemail.com,San Bernardino
+Agoura Hills,34.15333; -118.76167,agourahills@tempemail.com,Los Angeles
+Alameda,37.75611; -122.27444,alameda@tempemail.com,Alameda
+Albany,37.88694; -122.29778,albany@tempemail.com,Alameda
+Alhambra,34.08194; -118.13500,alhambra@tempemail.com,Los Angeles
+Aliso Viejo,33.57500; -117.72556,alisoviejo@tempemail.com,Orange
+Alturas,41.48722; -120.54250,alturas@tempemail.com,Modoc
+Amador City,38.41944; -120.82417,amadorcity@tempemail.com,Amador
+American Canyon,38.16806; -122.25250,americancanyon@tempemail.com,Napa
+Anaheim,33.83611; -117.88972,anaheim@tempemail.com,Orange
+Anderson,40.45222; -122.29667,anderson@tempemail.com,Shasta
+Angels Camp,38.06833; -120.53972,angelscamp@tempemail.com,Calaveras
+Antioch,38.00500; -121.80583,antioch@tempemail.com,Contra Costa
+Apple Valley,34.50083; -117.18583,applevalley@tempemail.com,San Bernardino
+Arcadia,34.13278; -118.03639,arcadia@tempemail.com,Los Angeles
+Arcata,40.86639; -124.08278,arcata@tempemail.com,Humboldt
+Arroyo Grande,35.12083; -120.58667,arroyogrande@tempemail.com,San Luis Obispo
+Artesia,33.86722; -118.08056,artesia@tempemail.com,Los Angeles
+Arvin,35.20917; -118.82833,arvin@tempemail.com,Kern
+Atascadero,35.48417; -120.67250,atascadero@tempemail.com,San Luis Obispo
+Atherton,37.45861; -122.20000,atherton@tempemail.com,San Mateo
+Atwater,37.34778; -120.60917,atwater@tempemail.com,Merced
+Auburn,38.89861; -121.07444,auburn@tempemail.com,Placer
+Avalon,33.34083; -118.32778,avalon@tempemail.com,Los Angeles
+Avenal,36.00417; -120.12889,avenal@tempemail.com,Kings
+Azusa,34.13056; -117.90694,azusa@tempemail.com,Los Angeles
+Bakersfield,35.367; -119.017,bakersfield@tempemail.com,Kern
+Baldwin Park,34.08278; -117.97167,baldwinpark@tempemail.com,Los Angeles
+Banning,33.93167; -116.89750,banning@tempemail.com,Riverside
+Barstow,34.900; -117.017,barstow@tempemail.com,San Bernardino
+Beaumont,33.92944; -116.97722,beaumont@tempemail.com,Riverside
+Bell,33.983; -118.183,bell@tempemail.com,Los Angeles
+Bell Gardens,33.96806; -118.15611,bellgardens@tempemail.com,Los Angeles
+Bellflower,33.88806; -118.12750,bellflower@tempemail.com,Los Angeles
+Belmont,37.51806; -122.29167,belmont@tempemail.com,San Mateo
+Belvedere,37.87278; -122.46444,belvedere@tempemail.com,Marin
+Benicia,38.06333; -122.15611,benicia@tempemail.com,Solano
+Berkeley,37.87167; -122.27278,berkeley@tempemail.com,Alameda
+Beverly Hills,34.07306; -118.39944,beverlyhills@tempemail.com,Los Angeles
+Big Bear Lake,34.24389; -116.91139,bigbearlake@tempemail.com,San Bernardino
+Biggs,39.41389; -121.71028,biggs@tempemail.com,Butte
+Bishop,37.3635; -118.3951,bishop@tempemail.com,Inyo
+Blue Lake,40.88278; -123.98389,bluelake@tempemail.com,Humboldt
+Blythe,33.61028; -114.59639,blythe@tempemail.com,Riverside
+Bradbury,34.14944; -117.97444,bradbury@tempemail.com,Los Angeles
+Brawley,32.97861; -115.53028,brawley@tempemail.com,Imperial
+Brea,33.92333; -117.88889,brea@tempemail.com,Orange
+Brentwood,37.93194; -121.69583,brentwood@tempemail.com,Contra Costa
+Brisbane,37.68083; -122.41917,brisbane@tempemail.com,San Mateo
+Buellton,34.61417; -120.19389,buellton@tempemail.com,Santa Barbara
+Buena Park,33.85611; -118.00417,buenapark@tempemail.com,Orange
+Burbank,34.18028; -118.32833,burbank@tempemail.com,Los Angeles
+Burlingame,37.58333; -122.36361,burlingame@tempemail.com,San Mateo
+Calabasas,34.13833; -118.66083,calabasas@tempemail.com,Los Angeles
+Calexico,32.67889; -115.49889,calexico@tempemail.com,Imperial
+California City,35.12583; -117.98583,californiacity@tempemail.com,Kern
+Calimesa,33.00389; -117.06194,calimesa@tempemail.com,Riverside
+Calipatria,33.12556; -115.51417,calipatria@tempemail.com,Imperial
+Calistoga,38.58139; -122.58278,calistoga@tempemail.com,Napa
+Camarillo,34.233; -119.033,camarillo@tempemail.com,Ventura
+Campbell,37.28389; -121.95500,campbell@tempemail.com,Santa Clara
+Canyon Lake,33.68417; -117.25556,canyonlake@tempemail.com,Riverside
+Capitola,36.97639; -121.95472,capitola@tempemail.com,Santa Cruz
+Carlsbad,33.12194; -117.29694,carlsbad@tempemail.com,San Diego
+Carmel-by-the-Sea,36.55528; -121.92333,carmel-by-the-sea@tempemail.com,Monterey
+Carpinteria,34.39917; -119.51639,carpinteria@tempemail.com,Santa Barbara
+Carson,33.83972; -118.25972,carson@tempemail.com,Los Angeles
+Cathedral City,33.77972; -116.46528,cathedralcity@tempemail.com,Riverside
+Ceres,37.60139; -120.95722,ceres@tempemail.com,Stanislaus
+Cerritos,33.86833; -118.06750,cerritos@tempemail.com,Los Angeles
+Chico,39.74000; -121.83556,chico@tempemail.com,Butte
+Chino,34.01778; -117.69000,chino@tempemail.com,San Bernardino
+Chino Hills,33.99389; -117.75889,chinohills@tempemail.com,San Bernardino
+Chowchilla,37.117; -120.267,chowchilla@tempemail.com,Madera
+Chula Vista,32.62778; -117.04806,chulavista@tempemail.com,San Diego
+Citrus Heights,38.700; -121.283,citrusheights@tempemail.com,Sacramento
+Claremont,34.11000; -117.71972,claremont@tempemail.com,Los Angeles
+Clayton,37.94111; -121.93583,clayton@tempemail.com,Contra Costa
+Clearlake,38.95833; -122.62639,clearlake@tempemail.com,Lake
+Cloverdale,38.79917; -123.01722,cloverdale@tempemail.com,Sonoma
+Clovis,36.82528; -119.70306,clovis@tempemail.com,Fresno
+Coachella,33.67944; -116.17444,coachella@tempemail.com,Riverside
+Coalinga,36.13972; -120.36028,coalinga@tempemail.com,Fresno
+Colfax,39.09722; -120.95389,colfax@tempemail.com,Placer
+Colma,37.67889; -122.45556,colma@tempemail.com,San Mateo
+Colton,34.07389; -117.31361,colton@tempemail.com,San Bernardino
+Colusa,39.21444; -122.00944,colusa@tempemail.com,Colusa
+Commerce,34.00056; -118.15472,commerce@tempemail.com,Los Angeles
+Compton,33.89667; -118.22500,compton@tempemail.com,Los Angeles
+Concord,37.97806; -122.03111,concord@tempemail.com,Contra Costa
+Corcoran,36.09806; -119.56028,corcoran@tempemail.com,Kings
+Corning,39.92611; -122.18056,corning@tempemail.com,Tehama
+Corona,33.867; -117.567,corona@tempemail.com,Riverside
+Coronado,32.67806; -117.17250,coronado@tempemail.com,San Diego
+Corte Madera,37.92556; -122.52750,cortemadera@tempemail.com,Marin
+Costa Mesa,33.66500; -117.91222,costamesa@tempemail.com,Orange
+Cotati,38.32778; -122.70917,cotati@tempemail.com,Sonoma
+Covina,34.09167; -117.87917,covina@tempemail.com,Los Angeles
+Crescent City,41.75583; -124.20167,crescentcity@tempemail.com,Del Norte
+Cudahy,33.96417; -118.18250,cudahy@tempemail.com,Los Angeles
+Culver City,34.00778; -118.40083,culvercity@tempemail.com,Los Angeles
+Cupertino,37.31750; -122.04194,cupertino@tempemail.com,Santa Clara
+Cypress,33.81833; -118.03917,cypress@tempemail.com,Orange
+Daly City,37.68639; -122.46833,dalycity@tempemail.com,San Mateo
+Dana Point,33.46722; -117.69806,danapoint@tempemail.com,Orange
+Danville,37.82167; -122.00000,danville@tempemail.com,Contra Costa
+Davis,38.55389; -121.73806,davis@tempemail.com,Yolo
+Del Mar,32.95500; -117.26389,delmar@tempemail.com,San Diego
+Del Rey Oaks,36.59333; -121.83500,delreyoaks@tempemail.com,Monterey
+Delano,35.76889; -119.24694,delano@tempemail.com,Kern
+Desert Hot Springs,33.96111; -116.50806,deserthotsprings@tempemail.com,Riverside
+Diamond Bar,34.00167; -117.82083,diamondbar@tempemail.com,Los Angeles
+Dinuba,36.54500; -119.38917,dinuba@tempemail.com,Tulare
+Dixon,38.44917; -121.82694,dixon@tempemail.com,Solano
+Dorris,41.96500; -121.91889,dorris@tempemail.com,Siskiyou
+Dos Palos,36.983; -120.633,dospalos@tempemail.com,Merced
+Downey,33.93806; -118.13083,downey@tempemail.com,Los Angeles
+Duarte,34.14028; -117.96167,duarte@tempemail.com,Los Angeles
+Dublin,37.70222; -121.93583,dublin@tempemail.com,Alameda
+Dunsmuir,41.22167; -122.27306,dunsmuir@tempemail.com,Siskiyou
+East Palo Alto,37.46694; -122.13972,eastpaloalto@tempemail.com,San Mateo
+Eastvale,33.96361; -117.56417,eastvale@tempemail.com,Riverside
+El Cajon,32.79833; -116.96000,elcajon@tempemail.com,San Diego
+El Centro,32.800; -115.567,elcentro@tempemail.com,Imperial
+El Cerrito,37.91583; -122.31167,elcerrito@tempemail.com,Contra Costa
+El Monte,34.07333; -118.02750,elmonte@tempemail.com,Los Angeles
+El Segundo,33.92139; -118.40611,elsegundo@tempemail.com,Los Angeles
+Elk Grove,38.43833; -121.38194,elkgrove@tempemail.com,Sacramento
+Emeryville,37.83139; -122.28528,emeryville@tempemail.com,Alameda
+Encinitas,33.04444; -117.27167,encinitas@tempemail.com,San Diego
+Escalon,37.7917; -120.9917,escalon@tempemail.com,San Joaquin
+Escondido,33.12472; -117.08083,escondido@tempemail.com,San Diego
+Etna,41.45722; -122.89694,etna@tempemail.com,Siskiyou
+Eureka,40.80194; -124.16361,eureka@tempemail.com,Humboldt
+Exeter,36.29417; -119.14278,exeter@tempemail.com,Tulare
+Fairfax,37.98722; -122.58889,fairfax@tempemail.com,Marin
+Fairfield,38.25778; -122.05417,fairfield@tempemail.com,Solano
+Farmersville,36.30111; -119.20750,farmersville@tempemail.com,Tulare
+Ferndale,40.5767; -124.2633,ferndale@tempemail.com,Humboldt
+Fillmore,34.40139; -118.91778,fillmore@tempemail.com,Ventura
+Firebaugh,36.85889; -120.45611,firebaugh@tempemail.com,Fresno
+Folsom,38.67222; -121.15778,folsom@tempemail.com,Sacramento
+Fontana,34.100; -117.467,fontana@tempemail.com,San Bernardino
+Fort Bragg,39.44583; -123.80528,fortbragg@tempemail.com,Mendocino
+Fort Jones,41.60722; -122.84194,fortjones@tempemail.com,Siskiyou
+Fortuna,40.59806; -124.15722,fortuna@tempemail.com,Humboldt
+Foster City,37.55139; -122.26639,fostercity@tempemail.com,San Mateo
+Fountain Valley,33.70861; -117.95639,fountainvalley@tempemail.com,Orange
+Fowler,36.633; -119.683,fowler@tempemail.com,Fresno
+Fremont,37.54833; -121.98861,fremont@tempemail.com,Alameda
+Fresno,36.750; -119.767,fresno@tempemail.com,Fresno
+Fullerton,33.88000; -117.92861,fullerton@tempemail.com,Orange
+Galt,38.26083; -121.30306,galt@tempemail.com,Sacramento
+Garden Grove,33.77889; -117.96028,gardengrove@tempemail.com,Orange
+Gardena,33.89361; -118.30778,gardena@tempemail.com,Los Angeles
+Gilroy,37.01194; -121.58000,gilroy@tempemail.com,Santa Clara
+Glendale,34.14611; -118.25500,glendale@tempemail.com,Los Angeles
+Glendora,34.13611; -117.86528,glendora@tempemail.com,Los Angeles
+Goleta,34.44056; -119.81361,goleta@tempemail.com,Santa Barbara
+Gonzales,36.50667; -121.44444,gonzales@tempemail.com,Monterey
+Grand Terrace,34.03389; -117.31361,grandterrace@tempemail.com,San Bernardino
+Grass Valley,39.21917; -121.05833,grassvalley@tempemail.com,Nevada
+Greenfield,36.32083; -121.24389,greenfield@tempemail.com,Monterey
+Gridley,39.36389; -121.69361,gridley@tempemail.com,Butte
+Grover Beach,35.12083; -120.61944,groverbeach@tempemail.com,San Luis Obispo
+Guadalupe,34.96556; -120.57306,guadalupe@tempemail.com,Santa Barbara
+Gustine,37.25778; -120.99889,gustine@tempemail.com,Merced
+Half Moon Bay,37.45889; -122.43694,halfmoonbay@tempemail.com,San Mateo
+Hanford,36.32750; -119.64556,hanford@tempemail.com,Kings
+Hawaiian Gardens,33.82861; -118.07361,hawaiiangardens@tempemail.com,Los Angeles
+Hawthorne,33.91722; -118.34861,hawthorne@tempemail.com,Los Angeles
+Hayward,37.668820; -122.080796,hayward@tempemail.com,Alameda
+Healdsburg,38.61750; -122.86639,healdsburg@tempemail.com,Sonoma
+Hemet,33.74750; -116.97194,hemet@tempemail.com,Riverside
+Hercules,38.01722; -122.28861,hercules@tempemail.com,Contra Costa
+Hermosa Beach,33.86639; -118.39972,hermosabeach@tempemail.com,Los Angeles
+Hesperia,34.41278; -117.30611,hesperia@tempemail.com,San Bernardino
+Hidden Hills,34.16750; -118.66083,hiddenhills@tempemail.com,Los Angeles
+Highland,34.12833; -117.20861,highland@tempemail.com,San Bernardino
+Hillsborough,37.56028; -122.35639,hillsborough@tempemail.com,San Mateo
+Hollister,36.85250; -121.40167,hollister@tempemail.com,San Benito
+Holtville,32.81111; -115.38028,holtville@tempemail.com,Imperial
+Hughson,37.60306; -120.86694,hughson@tempemail.com,Stanislaus
+Huntington Beach,33.69278; -118.00028,huntingtonbeach@tempemail.com,Orange
+Huntington Park,33.983; -118.217,huntingtonpark@tempemail.com,Los Angeles
+Huron,36.20278; -120.10306,huron@tempemail.com,Fresno
+Imperial,32.84750; -115.56944,imperial@tempemail.com,Imperial
+Imperial Beach,32.57833; -117.11722,imperialbeach@tempemail.com,San Diego
+Indian Wells,33.71861; -116.30833,indianwells@tempemail.com,Riverside
+Indio,33.72056; -116.21556,indio@tempemail.com,Riverside
+Industry,34.017; -117.950,industry@tempemail.com,Los Angeles
+Inglewood,33.95750; -118.34611,inglewood@tempemail.com,Los Angeles
+Ione,38.35278; -120.93278,ione@tempemail.com,Amador
+Irvine,33.66944; -117.82306,irvine@tempemail.com,Orange
+Irwindale,34.117; -117.967,irwindale@tempemail.com,Los Angeles
+Isleton,38.16194; -121.60917,isleton@tempemail.com,Sacramento
+Jackson,38.34889; -120.77417,jackson@tempemail.com,Amador
+Jurupa Valley,34.000; -117.483,jurupavalley@tempemail.com,Riverside
+Kerman,36.72361; -120.06000,kerman@tempemail.com,Fresno
+King City,36.21278; -121.12611,kingcity@tempemail.com,Monterey
+Kingsburg,36.51389; -119.55389,kingsburg@tempemail.com,Fresno
+La Cañada Flintridge,34.207721; -118.206979,lacañadaflintridge@tempemail.com,Los Angeles
+La Habra,33.93194; -117.94611,lahabra@tempemail.com,Orange
+La Habra Heights,33.96389; -117.95278,lahabraheights@tempemail.com,Los Angeles
+La Mesa,32.77139; -117.02278,lamesa@tempemail.com,San Diego
+La Mirada,33.90222; -118.00972,lamirada@tempemail.com,Los Angeles
+La Palma,33.84944; -118.04389,lapalma@tempemail.com,Orange
+La Puente,34.03250; -117.95528,lapuente@tempemail.com,Los Angeles
+La Quinta,33.67528; -116.29750,laquinta@tempemail.com,Riverside
+La Verne,34.11444; -117.77139,laverne@tempemail.com,Los Angeles
+Lafayette,37.88583; -122.11806,lafayette@tempemail.com,Contra Costa
+Laguna Beach,33.53139; -117.76917,lagunabeach@tempemail.com,Orange
+Laguna Hills,33.59972; -117.69944,lagunahills@tempemail.com,Orange
+Laguna Niguel,33.53194; -117.70250,lagunaniguel@tempemail.com,Orange
+Laguna Woods,33.60917; -117.73278,lagunawoods@tempemail.com,Orange
+Lake Elsinore,33.68139; -117.34528,lakeelsinore@tempemail.com,Riverside
+Lake Forest,33.64167; -117.69083,lakeforest@tempemail.com,Orange
+Lakeport,39.04306; -122.91583,lakeport@tempemail.com,Lake
+Lakewood,33.84750; -118.12000,lakewood@tempemail.com,Los Angeles
+Lancaster,34.683; -118.150,lancaster@tempemail.com,Los Angeles
+Larkspur,37.93417; -122.53528,larkspur@tempemail.com,Marin
+Lathrop,37.81694; -121.28861,lathrop@tempemail.com,San Joaquin
+Lawndale,33.88667; -118.35361,lawndale@tempemail.com,Los Angeles
+Lemon Grove,32.74139; -117.03167,lemongrove@tempemail.com,San Diego
+Lemoore,36.30083; -119.78278,lemoore@tempemail.com,Kings
+Lincoln,38.88722; -121.29611,lincoln@tempemail.com,Placer
+Lindsay,36.200; -119.083,lindsay@tempemail.com,Tulare
+Livermore,37.68194; -121.76806,livermore@tempemail.com,Alameda
+Livingston,37.38694; -120.72361,livingston@tempemail.com,Merced
+Lodi,38.12889; -121.28083,lodi@tempemail.com,San Joaquin
+Loma Linda,34.04833; -117.25056,lomalinda@tempemail.com,San Bernardino
+Lomita,33.79333; -118.31611,lomita@tempemail.com,Los Angeles
+Lompoc,34.64611; -120.46028,lompoc@tempemail.com,Santa Barbara
+Long Beach,33.76833; -118.19556,longbeach@tempemail.com,Los Angeles
+Loomis,38.81639; -121.19278,loomis@tempemail.com,Placer
+Los Alamitos,33.80222; -118.06444,losalamitos@tempemail.com,Orange
+Los Altos,37.36806; -122.09750,losaltos@tempemail.com,Santa Clara
+Los Altos Hills,37.37139; -122.13750,losaltoshills@tempemail.com,Santa Clara
+Los Angeles,34.050; -118.250,losangeles@tempemail.com,Los Angeles
+Los Banos,37.05833; -120.85000,losbanos@tempemail.com,Merced
+Los Gatos,37.23611; -121.96167,losgatos@tempemail.com,Santa Clara
+Loyalton,39.67667; -120.24306,loyalton@tempemail.com,Sierra
+Lynwood,33.92472; -118.20194,lynwood@tempemail.com,Los Angeles
+Madera,36.96139; -120.06083,madera@tempemail.com,Madera
+Malibu,34.03; -118.75,malibu@tempemail.com,Los Angeles
+Mammoth Lakes,37.64861; -118.97194,mammothlakes@tempemail.com,Mono
+Manhattan Beach,33.88889; -118.40528,manhattanbeach@tempemail.com,Los Angeles
+Manteca,37.80278; -121.22083,manteca@tempemail.com,San Joaquin
+Maricopa,35.05889; -119.40083,maricopa@tempemail.com,Kern
+Marina,36.68444; -121.80222,marina@tempemail.com,Monterey
+Martinez,38.01944; -122.13417,martinez@tempemail.com,Contra Costa
+Marysville,39.150; -121.583,marysville@tempemail.com,Yuba
+Maywood,33.98778; -118.18667,maywood@tempemail.com,Los Angeles
+McFarland,35.67806; -119.22917,mcfarland@tempemail.com,Kern
+Mendota,36.75361; -120.38167,mendota@tempemail.com,Fresno
+Menifee,33.69083; -117.18500,menifee@tempemail.com,Riverside
+Menlo Park,37.45278; -122.18333,menlopark@tempemail.com,San Mateo
+Merced,37.300; -120.483,merced@tempemail.com,Merced
+Mill Valley,37.90611; -122.54500,millvalley@tempemail.com,Marin
+Millbrae,37.60083; -122.40139,millbrae@tempemail.com,San Mateo
+Milpitas,37.43472; -121.89500,milpitas@tempemail.com,Santa Clara
+Mission Viejo,33.61278; -117.65611,missionviejo@tempemail.com,Orange
+Modesto,37.66139; -120.99444,modesto@tempemail.com,Stanislaus
+Monrovia,34.1459111; -118.0009500,monrovia@tempemail.com,Los Angeles
+Montague,41.72722; -122.52639,montague@tempemail.com,Siskiyou
+Montclair,34.07750; -117.68972,montclair@tempemail.com,San Bernardino
+Monte Sereno,37.23806; -121.98944,montesereno@tempemail.com,Santa Clara
+Montebello,34.01444; -118.11444,montebello@tempemail.com,Los Angeles
+Monterey,36.600; -121.900,monterey@tempemail.com,Monterey
+Monterey Park,34.04917; -118.13556,montereypark@tempemail.com,Los Angeles
+Moorpark,34.28083; -118.87333,moorpark@tempemail.com,Ventura
+Moraga,37.83500; -122.12972,moraga@tempemail.com,Contra Costa
+Moreno Valley,33.94306; -117.22833,morenovalley@tempemail.com,Riverside
+Morgan Hill,37.13056; -121.65444,morganhill@tempemail.com,Santa Clara
+Morro Bay,35.37917; -120.85333,morrobay@tempemail.com,San Luis Obispo
+Mount Shasta,41.31444; -122.31139,mountshasta@tempemail.com,Siskiyou
+Mountain View,37.38944; -122.08194,mountainview@tempemail.com,Santa Clara
+Murrieta,33.56944; -117.20250,murrieta@tempemail.com,Riverside
+Napa,38.30472; -122.29889,napa@tempemail.com,Napa
+National City,32.67806; -117.09917,nationalcity@tempemail.com,San Diego
+Needles,34.84806; -114.61417,needles@tempemail.com,San Bernardino
+Nevada City,39.26139; -121.01861,nevadacity@tempemail.com,Nevada
+Newark,37.533; -122.033,newark@tempemail.com,Alameda
+Newman,37.31500; -121.02250,newman@tempemail.com,Stanislaus
+Newport Beach,33.61667; -117.89750,newportbeach@tempemail.com,Orange
+Norco,33.93111; -117.54861,norco@tempemail.com,Riverside
+Norwalk,33.90694; -118.08333,norwalk@tempemail.com,Los Angeles
+Novato,38.10750; -122.56972,novato@tempemail.com,Marin
+Oakdale,37.76917; -120.85694,oakdale@tempemail.com,Stanislaus
+Oakland,37.80444; -122.27083,oakland@tempemail.com,Alameda
+Oakley,37.99750; -121.71250,oakley@tempemail.com,Contra Costa
+Oceanside,33.21167; -117.32583,oceanside@tempemail.com,San Diego
+Ojai,34.44917; -119.24667,ojai@tempemail.com,Ventura
+Ontario,34.05278; -117.62778,ontario@tempemail.com,San Bernardino
+Orange,33.80306; -117.83250,orange@tempemail.com,Orange
+Orange Cove,36.62444; -119.31361,orangecove@tempemail.com,Fresno
+Orinda,37.88278; -122.17972,orinda@tempemail.com,Contra Costa
+Orland,39.74750; -122.19639,orland@tempemail.com,Glenn
+Oroville,39.517; -121.550,oroville@tempemail.com,Butte
+Oxnard,34.19139; -119.18250,oxnard@tempemail.com,Ventura
+Pacific Grove,36.61778; -121.91667,pacificgrove@tempemail.com,Monterey
+Pacifica,37.62278; -122.48556,pacifica@tempemail.com,San Mateo
+Palm Desert,33.72222; -116.37444,palmdesert@tempemail.com,Riverside
+Palm Springs,33.83028; -116.54528,palmsprings@tempemail.com,Riverside
+Palmdale,34.58111; -118.10056,palmdale@tempemail.com,Los Angeles
+Palo Alto,37.42917; -122.13806,paloalto@tempemail.com,Santa Clara
+Palos Verdes Estates,33.78694; -118.39667,palosverdesestates@tempemail.com,Los Angeles
+Paradise,39.75972; -121.62139,paradise@tempemail.com,Butte
+Paramount,33.90000; -118.16667,paramount@tempemail.com,Los Angeles
+Parlier,36.61167; -119.52694,parlier@tempemail.com,Fresno
+Pasadena,34.15611; -118.13194,pasadena@tempemail.com,Los Angeles
+Paso Robles,35.64083; -120.65389,pasorobles@tempemail.com,San Luis Obispo
+Patterson,37.47306; -121.13278,patterson@tempemail.com,Stanislaus
+Perris,33.79667; -117.22444,perris@tempemail.com,Riverside
+Petaluma,38.24583; -122.63139,petaluma@tempemail.com,Sonoma
+Pico Rivera,33.98889; -118.08917,picorivera@tempemail.com,Los Angeles
+Piedmont,37.817; -122.233,piedmont@tempemail.com,Alameda
+Pinole,38.00444; -122.29111,pinole@tempemail.com,Contra Costa
+Pismo Beach,35.14833; -120.64806,pismobeach@tempemail.com,San Luis Obispo
+Pittsburg,38.02806; -121.88472,pittsburg@tempemail.com,Contra Costa
+Placentia,33.88250; -117.85500,placentia@tempemail.com,Orange
+Placerville,38.72972; -120.79861,placerville@tempemail.com,El Dorado
+Pleasant Hill,37.94806; -122.05250,pleasanthill@tempemail.com,Contra Costa
+Pleasanton,37.66250; -121.87472,pleasanton@tempemail.com,Alameda
+Plymouth,38.48194; -120.84472,plymouth@tempemail.com,Amador
+Point Arena,38.90889; -123.69306,pointarena@tempemail.com,Mendocino
+Pomona,34.06083; -117.75583,pomona@tempemail.com,Los Angeles
+Port Hueneme,34.16028; -119.19444,porthueneme@tempemail.com,Ventura
+Porterville,36.06861; -119.02750,porterville@tempemail.com,Tulare
+Portola,39.81028; -120.46972,portola@tempemail.com,Plumas
+Portola Valley,37.37500; -122.21861,portolavalley@tempemail.com,San Mateo
+Poway,32.97000; -117.03861,poway@tempemail.com,San Diego
+Rancho Cordova,38.58917; -121.30278,ranchocordova@tempemail.com,Sacramento
+Rancho Cucamonga,34.12333; -117.57944,ranchocucamonga@tempemail.com,San Bernardino
+Rancho Mirage,33.76917; -116.42111,ranchomirage@tempemail.com,Riverside
+Rancho Palos Verdes,33.75833; -118.36417,ranchopalosverdes@tempemail.com,Los Angeles
+Rancho Santa Margarita,33.64139; -117.59444,ranchosantamargarita@tempemail.com,Orange
+Red Bluff,40.17667; -122.23806,redbluff@tempemail.com,Tehama
+Redding,40.583; -122.367,redding@tempemail.com,Shasta
+Redlands,34.05472; -117.18250,redlands@tempemail.com,San Bernardino
+Redondo Beach,33.85806; -118.37889,redondobeach@tempemail.com,Los Angeles
+Redwood City,37.48278; -122.23611,redwoodcity@tempemail.com,San Mateo
+Reedley,36.59639; -119.45028,reedley@tempemail.com,Fresno
+Rialto,34.11139; -117.38250,rialto@tempemail.com,San Bernardino
+Richmond,37.93583; -122.34778,richmond@tempemail.com,Contra Costa
+Ridgecrest,35.62250; -117.67083,ridgecrest@tempemail.com,Kern
+Rio Dell,40.49917; -124.10639,riodell@tempemail.com,Humboldt
+Rio Vista,38.16389; -121.69583,riovista@tempemail.com,Solano
+Ripon,37.74056; -121.12833,ripon@tempemail.com,San Joaquin
+Riverbank,37.73139; -120.94361,riverbank@tempemail.com,Stanislaus
+Riverside,33.94806; -117.39611,riverside@tempemail.com,Riverside
+Rocklin,38.80000; -121.24667,rocklin@tempemail.com,Placer
+Rohnert Park,38.34722; -122.69528,rohnertpark@tempemail.com,Sonoma
+Rolling Hills,33.75944; -118.34167,rollinghills@tempemail.com,Los Angeles
+Rolling Hills Estates,33.77361; -118.36083,rollinghillsestates@tempemail.com,Los Angeles
+Rosemead,34.067; -118.083,rosemead@tempemail.com,Los Angeles
+Roseville,38.75250; -121.28944,roseville@tempemail.com,Placer
+Ross,37.96250; -122.55500,ross@tempemail.com,Marin
+Sacramento,38.55556; -121.46889,sacramento@tempemail.com,Sacramento
+St. Helena,38.50528; -122.47028,st.helena@tempemail.com,Napa
+Salinas,36.67778; -121.65556,salinas@tempemail.com,Monterey
+San Anselmo,37.97472; -122.56167,sananselmo@tempemail.com,Marin
+San Bernardino,34.100; -117.300,sanbernardino@tempemail.com,San Bernardino
+San Bruno,37.62528; -122.42528,sanbruno@tempemail.com,San Mateo
+San Carlos,37.4955; -122.2668,sancarlos@tempemail.com,San Mateo
+San Clemente,33.43778; -117.62028,sanclemente@tempemail.com,Orange
+San Diego,32.71500; -117.16250,sandiego@tempemail.com,San Diego
+San Dimas,34.10278; -117.81611,sandimas@tempemail.com,Los Angeles
+San Fernando,34.28722; -118.43889,sanfernando@tempemail.com,Los Angeles
+San Francisco,37.783; -122.417,sanfrancisco@tempemail.com,San Francisco
+San Gabriel,34.1028167; -118.0996917,sangabriel@tempemail.com,Los Angeles
+San Jacinto,33.78722; -116.96667,sanjacinto@tempemail.com,Riverside
+San Joaquin,36.60667; -120.18917,sanjoaquin@tempemail.com,Fresno
+San Jose,37.333; -121.900,sanjose@tempemail.com,Santa Clara
+San Juan Bautista,36.84417; -121.53722,sanjuanbautista@tempemail.com,San Benito
+San Juan Capistrano,33.49944; -117.66167,sanjuancapistrano@tempemail.com,Orange
+San Leandro,37.72500; -122.15611,sanleandro@tempemail.com,Alameda
+San Luis Obispo,35.27417; -120.66306,sanluisobispo@tempemail.com,San Luis Obispo
+San Marcos,33.14194; -117.17028,sanmarcos@tempemail.com,San Diego
+San Marino,34.12278; -118.11306,sanmarino@tempemail.com,Los Angeles
+San Mateo,37.55417; -122.31306,sanmateo@tempemail.com,San Mateo
+San Pablo,37.96222; -122.34556,sanpablo@tempemail.com,Contra Costa
+San Rafael,37.97361; -122.53111,sanrafael@tempemail.com,Marin
+San Ramon,37.78000; -121.97806,sanramon@tempemail.com,Contra Costa
+Sand City,36.61722; -121.84833,sandcity@tempemail.com,Monterey
+Sanger,36.70806; -119.55583,sanger@tempemail.com,Fresno
+Santa Ana,33.74083; -117.88139,santaana@tempemail.com,Orange
+Santa Barbara,34.42583; -119.71417,santabarbara@tempemail.com,Santa Barbara
+Santa Clara,37.35444; -121.96917,santaclara@tempemail.com,Santa Clara
+Santa Clarita,34.41667; -118.50639,santaclarita@tempemail.com,Los Angeles
+Santa Cruz,36.97194; -122.02639,santacruz@tempemail.com,Santa Cruz
+Santa Fe Springs,33.93750; -118.06722,santafesprings@tempemail.com,Los Angeles
+Santa Maria,34.95139; -120.43333,santamaria@tempemail.com,Santa Barbara
+Santa Monica,34.02194; -118.48139,santamonica@tempemail.com,Los Angeles
+Santa Paula,34.35583; -119.06833,santapaula@tempemail.com,Ventura
+Santa Rosa,38.44861; -122.70472,santarosa@tempemail.com,Sonoma
+Santee,32.86972; -116.97111,santee@tempemail.com,San Diego
+Saratoga,37.27250; -122.01944,saratoga@tempemail.com,Santa Clara
+Sausalito,37.85917; -122.48528,sausalito@tempemail.com,Marin
+Scotts Valley,37.05139; -122.01333,scottsvalley@tempemail.com,Santa Cruz
+Seal Beach,33.75917; -118.08250,sealbeach@tempemail.com,Orange
+Seaside,36.61111; -121.84472,seaside@tempemail.com,Monterey
+Sebastopol,38.39917; -122.82694,sebastopol@tempemail.com,Sonoma
+Selma,36.57083; -119.61194,selma@tempemail.com,Fresno
+Shafter,35.50056; -119.27167,shafter@tempemail.com,Kern
+Shasta Lake,40.67806; -122.37000,shastalake@tempemail.com,Shasta
+Sierra Madre,34.16472; -118.05083,sierramadre@tempemail.com,Los Angeles
+Signal Hill,33.79935; -118.16558,signalhill@tempemail.com,Los Angeles
+Simi Valley,34.27111; -118.73944,simivalley@tempemail.com,Ventura
+Solana Beach,32.99528; -117.26028,solanabeach@tempemail.com,San Diego
+Soledad,36.42472; -121.32639,soledad@tempemail.com,Monterey
+Solvang,34.59389; -120.13972,solvang@tempemail.com,Santa Barbara
+Sonoma,38.28889; -122.45889,sonoma@tempemail.com,Sonoma
+Sonora,37.98444; -120.38167,sonora@tempemail.com,Tuolumne
+South El Monte,34.04889; -118.04833,southelmonte@tempemail.com,Los Angeles
+South Gate,33.94417; -118.19500,southgate@tempemail.com,Los Angeles
+South Lake Tahoe,38.94000; -119.97694,southlaketahoe@tempemail.com,El Dorado
+South Pasadena,34.11611; -118.15028,southpasadena@tempemail.com,Los Angeles
+South San Francisco,37.65611; -122.42556,southsanfrancisco@tempemail.com,San Mateo
+Stanton,33.80250; -117.99444,stanton@tempemail.com,Orange
+Stockton,37.97556; -121.30083,stockton@tempemail.com,San Joaquin
+Suisun City,38.24500; -122.01694,suisuncity@tempemail.com,Solano
+Sunnyvale,37.37111; -122.03750,sunnyvale@tempemail.com,Santa Clara
+Susanville,40.41639; -120.65306,susanville@tempemail.com,Lassen
+Sutter Creek,38.39306; -120.80250,suttercreek@tempemail.com,Amador
+Taft,35.14250; -119.45639,taft@tempemail.com,Kern
+Tehachapi,35.13222; -118.44889,tehachapi@tempemail.com,Kern
+Tehama,40.02444; -122.12389,tehama@tempemail.com,Tehama
+Temecula,33.50333; -117.12361,temecula@tempemail.com,Riverside
+Temple City,34.10278; -118.05806,templecity@tempemail.com,Los Angeles
+Thousand Oaks,34.18944; -118.87500,thousandoaks@tempemail.com,Ventura
+Tiburon,37.87361; -122.45667,tiburon@tempemail.com,Marin
+Torrance,33.83472; -118.34139,torrance@tempemail.com,Los Angeles
+Tracy,37.73806; -121.43389,tracy@tempemail.com,San Joaquin
+Trinidad,41.05917; -124.14306,trinidad@tempemail.com,Humboldt
+Truckee,39.34222; -120.20361,truckee@tempemail.com,Nevada
+Tulare,36.20667; -119.34250,tulare@tempemail.com,Tulare
+Tulelake,41.95417; -121.47583,tulelake@tempemail.com,Siskiyou
+Turlock,37.50583; -120.84889,turlock@tempemail.com,Stanislaus
+Tustin,33.73972; -117.81361,tustin@tempemail.com,Orange
+Twentynine Palms,34.13556; -116.05417,twentyninepalms@tempemail.com,San Bernardino
+Ukiah,39.15028; -123.20778,ukiah@tempemail.com,Mendocino
+Union City,37.59639; -122.04833,unioncity@tempemail.com,Alameda
+Upland,34.100; -117.650,upland@tempemail.com,San Bernardino
+Vacaville,38.35389; -121.97278,vacaville@tempemail.com,Solano
+Vallejo,38.11306; -122.23583,vallejo@tempemail.com,Solano
+Ventura,34.27500; -119.22778,ventura@tempemail.com,Ventura
+Vernon,34.00111; -118.21111,vernon@tempemail.com,Los Angeles
+Victorville,34.53611; -117.29111,victorville@tempemail.com,San Bernardino
+Villa Park,33.81611; -117.81111,villapark@tempemail.com,Orange
+Visalia,36.317; -119.300,visalia@tempemail.com,Tulare
+Vista,33.19361; -117.24111,vista@tempemail.com,San Diego
+Walnut,34.033; -117.867,walnut@tempemail.com,Los Angeles
+Walnut Creek,37.90639; -122.06500,walnutcreek@tempemail.com,Contra Costa
+Wasco,35.59417; -119.34083,wasco@tempemail.com,Kern
+Waterford,37.64500; -120.76750,waterford@tempemail.com,Stanislaus
+Watsonville,36.92000; -121.76361,watsonville@tempemail.com,Santa Cruz
+Weed,41.42417; -122.38444,weed@tempemail.com,Siskiyou
+West Covina,34.05667; -117.91861,westcovina@tempemail.com,Los Angeles
+West Hollywood,34.08778; -118.37222,westhollywood@tempemail.com,Los Angeles
+West Sacramento,38.58056; -121.53028,westsacramento@tempemail.com,Yolo
+Westlake Village,34.14194; -118.81944,westlakevillage@tempemail.com,Los Angeles
+Westminster,33.75139; -117.99389,westminster@tempemail.com,Orange
+Westmorland,33.03722; -115.62139,westmorland@tempemail.com,Imperial
+Wheatland,39.01000; -121.42306,wheatland@tempemail.com,Yuba
+Whittier,33.96556; -118.02444,whittier@tempemail.com,Los Angeles
+Wildomar,33.59889; -117.28000,wildomar@tempemail.com,Riverside
+Williams,39.15472; -122.14944,williams@tempemail.com,Colusa
+Willits,39.40972; -123.35556,willits@tempemail.com,Mendocino
+Willows,39.52444; -122.19361,willows@tempemail.com,Glenn
+Windsor,38.54722; -122.81639,windsor@tempemail.com,Sonoma
+Winters,38.52500; -121.97083,winters@tempemail.com,Yolo
+Woodlake,36.41639; -119.09944,woodlake@tempemail.com,Tulare
+Woodland,38.67861; -121.77333,woodland@tempemail.com,Yolo
+Woodside,37.42083; -122.25972,woodside@tempemail.com,San Mateo
+Yorba Linda,33.888551; -117.813231,yorbalinda@tempemail.com,Orange
+Yountville,38.40306; -122.36222,yountville@tempemail.com,Napa
+Yreka,41.72667; -122.63750,yreka@tempemail.com,Siskiyou
+Yuba City,39.13472; -121.62611,yubacity@tempemail.com,Sutter
+Yucaipa,34.03361; -117.04306,yucaipa@tempemail.com,San Bernardino
+Yucca Valley,34.11417; -116.43222,yuccavalley@tempemail.com,San Bernardino
